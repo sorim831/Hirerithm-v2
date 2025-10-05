@@ -1,0 +1,6453 @@
+[
+    {
+  "basic_info": {
+    "name": "이준호",
+    "birth": "19880512",
+    "gender": "남성",
+    "address": "서울특별시 강남구 논현동",
+    "phone": "010-3921-6842",
+    "current_salary": "7000",
+    "desired_salary": "8000"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "IT 아메리카",
+      "role": "Java 개발자",
+      "start_date": "2015.09",
+      "status": "재직중",
+      "details": "Spring 및 Hibernate 기반의 웹 애플리케이션을 설계 및 개발하고, 사용자 요구 분석을 통해 시스템 개선을 주도함. Agile 기반 팀에서 Angular.js 프론트엔드와 Spring 백엔드를 연계한 프로젝트를 수행함."
+    },
+    {
+      "company": "INFOSYS",
+      "role": "Java 개발자",
+      "start_date": "2011.06",
+      "status": "퇴사",
+      "end_date": "2015.08",
+      "details": "고객 요구사항에 따라 맞춤형 Java 기반 웹 애플리케이션을 개발하고, JSP 및 HTML을 활용하여 사용자 경험을 개선함. JUnit 기반 단위 테스트를 통해 코드 품질을 향상시키고, 버그 발생률을 14% 줄임."
+    },
+    {
+      "company": "Ace-stack",
+      "role": "주니어 트릴리움 개발자",
+      "start_date": "2014.06",
+      "status": "퇴사",
+      "end_date": "2018.02",
+      "details": "Trillium TS Quality 11.5를 사용하여 대규모 데이터 정제 및 매칭 프로젝트를 수행함. XML/HTTP 인터페이스를 통해 다양한 플랫폼에 연결하고, Linux 및 Windows 환경에서 Trillium 소프트웨어를 성공적으로 배포함. IDQ 9.6 기반 실시간 및 배치 데이터 품질 소프트웨어를 개발 및 배포함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["Java", "Spring", "JavaScript", "HTML", "JSP"],
+  "others": ["건강상태: 양호", "병역사항: 군필 (병장 전역)"],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.0,
+    "PayLevel": 4.1,
+    "VisionDirection": 4.3,
+    "Welfare": 3.7,
+    "Workload": 3.0
+  }
+},
+{
+  "basic_info": {
+    "name": "최수진",
+    "birth": "19900128",
+    "gender": "여성",
+    "address": "서울특별시 서초구 반포대로 22길",
+    "phone": "010-6851-2374",
+    "current_salary": "6200",
+    "desired_salary": "7200"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "이화여자대학교",
+      "major": "컴퓨터공학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "INT Inc.",
+      "role": "Java 개발자",
+      "start_date": "2018.03",
+      "status": "재직중",
+      "details": "고객 맞춤형 소프트웨어 솔루션을 설계하고 SDLC 전반에 걸쳐 테스트를 수행함. 기술적 조언자 역할을 수행하며 다양한 프로젝트의 품질 평가 및 기술 지원 업무를 맡음. 사용자 중심의 인터페이스 설계를 위해 Java 및 XML 기반 기술을 활용함."
+    },
+    {
+      "company": "Ace-stack",
+      "role": "주니어 트릴리움 개발자",
+      "start_date": "2014.06",
+      "status": "퇴사",
+      "end_date": "2018.02",
+      "details": "Trillium TS Quality 11.5를 사용하여 대규모 데이터 정제 및 매칭 프로젝트를 수행함. XML/HTTP 인터페이스를 통해 다양한 플랫폼에 연결하고, Linux 및 Windows 환경에서 Trillium 소프트웨어를 성공적으로 배포함. IDQ 9.6 기반 실시간 및 배치 데이터 품질 소프트웨어를 개발 및 배포함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["Java", "XML", "HTML", "Trillium TS Quality", "IDQ"],
+  "others": [
+    "건강상태: 양호",
+    "자기 주도적 프로젝트 리딩 경험 다수"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.0,
+    "PayLevel": 3.6,
+    "VisionDirection": 4.1,
+    "Welfare": 3.4,
+    "Workload": 2.9
+  }
+},
+{
+  "basic_info": {
+    "name": "박준호",
+    "birth": "19900115",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-5823-9471",
+    "current_salary": "6500",
+    "desired_salary": "7500"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Bytecruncher",
+      "role": "Java 개발자",
+      "start_date": "2015.01",
+      "status": "퇴사",
+      "end_date": "2019.12",
+      "details": "Java로 확장 가능한 기술 제품을 설계·개발하고 BI 도구를 통합함. 평균 12% 빠른 일정 준수를 통해 프로젝트 효율을 높였으며, 서버리스 컴퓨팅 관련 유튜브 강의로 73,000회 조회를 달성함."
+    },
+    {
+      "company": "Coderbund Worldwide",
+      "role": "주니어 Java 개발자",
+      "start_date": "2014.01",
+      "status": "퇴사",
+      "end_date": "2014.12",
+      "details": "JSP/HTML/Java/XML 혼합 웹 페이지를 개발·최적화하여 이탈률을 22% 감소시킴. 2–3명 팀을 이끌며 테스트·디버깅 프로세스를 개선해 개발 시간을 15% 단축함."
+    },
+    {
+      "company": "프리랜서",
+      "role": "Java 개발자",
+      "start_date": "2013.01",
+      "status": "퇴사",
+      "end_date": "2013.12",
+      "details": "Raspberry Pi 기반 칼로리 카운터와 Android 뉴스 리더 앱(2,200+ 다운로드)을 개발함. HVAC 청구 시스템으로 연간 500만원 비용 절감 성과를 거둠."
+    }
+  ],
+  "licenses": [],
+  "skills": ["Java", "JSP", "HTML5", "RESTful", "CSS"],
+  "others": [
+    "2018 BOSSIE 어워드 기여",
+    "73,000뷰 유튜브 서버리스 컴퓨팅 강의"
+  ],
+  "scores": {
+    "TeamCulture": 4.1,
+    "Evaluation": 4.0,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.2,
+    "Welfare": 3.6,
+    "Workload": 3.0
+  }
+},
+{
+  "basic_info": {
+    "name": "박서준",
+    "birth": "19920417",
+    "gender": "남성",
+    "address": "서울특별시 마포구 합정동",
+    "phone": "010-4728-1935",
+    "current_salary": "5800",
+    "desired_salary": "6800"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터공학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "연세대학교",
+      "major": "컴퓨터공학과",
+      "degree": "박사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Columbia IT Services",
+      "role": "주니어 Java 개발자",
+      "start_date": "2015.01",
+      "status": "퇴사",
+      "end_date": "2017.12",
+      "details": "소스 제어 솔루션을 활용해 생산 환경의 코드 무결성을 유지하고, 비즈니스 인텔리전스 아키텍처 개발 및 플랫폼 간 통합을 지원함. API 설계·문서화 및 신규 대시보드 프론트엔드 구현으로 사용자 경험을 개선함."
+    },
+    {
+      "company": "TechnoBright Consulting",
+      "role": "Java 개발자",
+      "start_date": "2017.01",
+      "status": "퇴사",
+      "end_date": "2018.12",
+      "details": "애플리케이션 테스트 프로토콜을 개발·수립하고 테스트 결과를 검토함. 프로젝트 요구사항에 맞춘 고수준 설계를 수행하고, 시각화 대시보드를 구현하여 보고 효율성을 향상시킴."
+    }
+  ],
+  "licenses": [],
+  "skills": ["Java", "Spring", "JSP", "C++", "DevOps"],
+  "others": [
+    "Australian Postgraduate Award 수상",
+    "Flayn Award for Academic Excellence 수상"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.2,
+    "PayLevel": 3.6,
+    "VisionDirection": 4.1,
+    "Welfare": 3.5,
+    "Workload": 3.2
+  }
+},
+{
+  "basic_info": {
+    "name": "정하늘",
+    "birth": "19780510",
+    "gender": "남성",
+    "address": "서울특별시 마포구 상암동",
+    "phone": "010-7395-2281",
+    "current_salary": "9500",
+    "desired_salary": "10500"
+  },
+  "educations": [
+    {
+      "school": "중앙대학교",
+      "major": "정보보호학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "프리랜서",
+      "role": "시니어 Java 개발자",
+      "start_date": "2003.01",
+      "status": "재직중",
+      "details": "20년 이상 급여·회계·재무 시스템 프로젝트에 참여하며 Java/J2EE 기반 애플리케이션을 설계·구현함. 국제 환경에서 외국인 동료와 협업하고, ERP 컨설팅·법규 연동·보고서 개발 업무를 수행했으며, TDD와 SCRUM 방법론을 적용해 품질을 관리함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2011",
+      "name": "Java and NetBeans IDE 수료",
+      "number": "1"
+    },
+    {
+      "date": "2014",
+      "name": "Programming Distributed Systems in Java 수료",
+      "number": "2"
+    },
+    {
+      "date": "2014",
+      "name": "Java: OOP and classes 수료",
+      "number": "3"
+    }
+  ],
+  "skills": ["Java", "SQL/PLSQL", "Spring MVC", "JUnit/TestNG", "Linux Shell Scripting"],
+  "others": [
+    "20년 이상 ERP 구현 및 컨설팅 경험",
+    "국제 협업 환경에서의 보고 및 기술 지원"
+  ],
+  "scores": {
+    "TeamCulture": 4.5,
+    "Evaluation": 4.2,
+    "PayLevel": 4.0,
+    "VisionDirection": 4.1,
+    "Welfare": 3.5,
+    "Workload": 4.8
+  }
+},
+{
+  "basic_info": {
+    "name": "김태우",
+    "birth": "19910423",
+    "gender": "남성",
+    "address": "서울특별시 마포구 상수동",
+    "phone": "010-9274-1836",
+    "current_salary": "7500",
+    "desired_salary": "8500"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "소프트웨어학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Genuine Parts Col",
+      "role": "주니어 Java 개발자",
+      "start_date": "2013.01",
+      "status": "퇴사",
+      "end_date": "2015.01",
+      "details": "지정된 사양에 따라 코드를 작성하고, 자동화된 빌드·테스트·배포 메커니즘 개발을 지원함. 단위 및 통합 테스트를 작성하여 품질을 보장함."
+    },
+    {
+      "company": "Stratecha",
+      "role": "Java 개발자",
+      "start_date": "2015.05",
+      "status": "퇴사",
+      "end_date": "2018.12",
+      "details": "Java 및 J2EE 애플리케이션을 설계·구현하고, JavaScript·HTML·CSS를 활용한 프론트엔드 기능을 개발함. 재사용 가능한 코드 라이브러리를 구축하여 개발 효율성을 높였으며, 주니어 개발자 멘토링과 ETL 솔루션 아키텍처 설계를 수행함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["Java", "Spring", "Hibernate", "JSP", "SQL"],
+  "others": [
+    "Best Campus Developer 수상",
+    "고등학교 수학·영어 최우수상 수상"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.0,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.1,
+    "Welfare": 3.6,
+    "Workload": 3.4
+  }
+},
+{
+  "basic_info": {
+    "name": "이재영",
+    "birth": "19900612",
+    "gender": "남성",
+    "address": "서울특별시 송파구 잠실동",
+    "phone": "010-7345-9128",
+    "current_salary": "8200",
+    "desired_salary": "9200"
+  },
+  "educations": [
+    {
+      "school": "연세대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Resume Worded & Co.",
+      "role": "Java 개발자",
+      "start_date": "2017.01",
+      "status": "재직중",
+      "details": "스트리밍 데이터 처리 API를 설계·개발하여 추천 엔진 성능을 개선하고 연간 매출 11억원 증가에 기여함. Camel 프레임워크를 활용해 웹 서비스→Java 서비스 라우팅을 최적화해 연간 1.5억원 비용 절감 성과를 달성함. 내부 프로젝트 5건을 주도적으로 완수하며 멀티벤더팀(개발자·테스터)은 14명 규모로 이끌었음."
+    },
+    {
+      "company": "Growthsi",
+      "role": "Java 개발자",
+      "start_date": "2016.01",
+      "status": "퇴사",
+      "end_date": "2017.12",
+      "details": "18개월 만에 승진될 만큼 성과를 인정받음. RESTful API를 3개월 내 개발하여 운영 효율성을 높이고, J2EE 웹 서비스를 구현해 사용자 체류 시간을 2분 이상 연장함. 디자인 씽킹 워크숍을 주최해 주요 요구사항을 발굴하고 제품 로드맵에 반영함."
+    },
+    {
+      "company": "Growthsi",
+      "role": "주니어 Java 개발자",
+      "start_date": "2015.01",
+      "status": "퇴사",
+      "end_date": "2015.12",
+      "details": "신규 기능 단위 테스트를 구축해 고객 불만 7% 감소를 달성함. 비즈니스 인터뷰를 통해 프로세스 개선 방안을 제시하고 구현함."
+    },
+    {
+      "company": "Rofocus",
+      "role": "소프트웨어 엔지니어 인턴",
+      "start_date": "2014.01",
+      "status": "퇴사",
+      "end_date": "2014.12",
+      "details": "Selenium 기반 단위 테스트 인프라를 구축해 월별 버그 보고를 11% 감소시킴. Django REST API 개발로 분석팀 보고 속도를 24% 개선함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["Java", "Spring", "REST API", "PostgreSQL", "AWS"],
+  "others": [
+    "2018 연간 프로젝트 우수상 수상",
+    "2019 혁신 서비스 개발상 수상"
+  ],
+  "scores": {
+    "TeamCulture": 4.4,
+    "Evaluation": 4.2,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.3,
+    "Welfare": 3.7,
+    "Workload": 3.1
+  }
+},
+{
+  "basic_info": {
+    "name": "이민호",
+    "birth": "19900618",
+    "gender": "남성",
+    "address": "서울특별시 송파구 가락동",
+    "phone": "010-2148-7935",
+    "current_salary": "5500",
+    "desired_salary": "6500"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "정보보호학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Michigan 주정부",
+      "role": "주니어 Java 개발자",
+      "start_date": "2015.06",
+      "status": "재직중",
+      "details": "SDLC 전 과정(요구분석·설계·구현·테스트·유지보수)에 참여하며, Agile 스크럼 환경에서 기능 개발 및 버그 수정 업무를 수행함. Core Java와 EJB, Servlets, JSP 등을 활용해 안정적인 서비스 모듈을 설계·구현하고, 예외 처리 구조를 커스터마이징하여 시스템 안정성을 향상시킴."
+    },
+    {
+      "company": "ABC Corp",
+      "role": "주니어 Java 개발자",
+      "start_date": "2014.01",
+      "status": "퇴사",
+      "end_date": "2015.05",
+      "details": "온라인 폼 설계 패턴을 개발·적용하고, Python 및 Java 기반 컴포넌트를 구축하여 개발 효율성을 높임. 타 엔지니어와 협업해 디바이스용 API를 설계·테스트했으며, 사용자 경험 개선을 위한 문제 해결에 기여함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["Java", "Spring MVC", "EJB", "JSP", "RESTful"],
+  "others": [
+    "웹 서비스 최적화 모범 사례 발표 (2022)",
+    "사내 스크럼 우수 팀원상 수상 (2021)"
+  ],
+  "scores": {
+    "TeamCulture": 4.1,
+    "Evaluation": 4.0,
+    "PayLevel": 3.7,
+    "VisionDirection": 3.9,
+    "Welfare": 3.5,
+    "Workload": 3.2
+  }
+},
+{
+  "basic_info": {
+    "name": "김동현",
+    "birth": "19911205",
+    "gender": "남성",
+    "address": "서울특별시 구로구 구로동",
+    "phone": "010-9427-3158",
+    "current_salary": "8000",
+    "desired_salary": "9000"
+  },
+  "educations": [
+    {
+      "school": "서울과학기술대학교",
+      "major": "컴퓨터과학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Resume Worded & Co.",
+      "role": "Java 풀스택 개발자",
+      "start_date": "2016.01",
+      "status": "재직중",
+      "details": "Java 백엔드 로직을 설계·개발하여 보험 인수 모델을 구현함. Redshift 기반 데이터베이스 구조를 설계해 신규 상품의 초기 2,000명 고객 유치에 기여함. Spring Boot 마이그레이션 및 CI/CD 자동화로 배포 시간을 45% 단축함."
+    },
+    {
+      "company": "Growthsi",
+      "role": "Tech Lead / 풀스택 개발자",
+      "start_date": "2013.01",
+      "status": "퇴사",
+      "end_date": "2014.12",
+      "details": "PhD·연구원과 협업해 MVP를 개발하고 데브옵스 파이프라인을 구축함. React·Node.js 프론트엔드와 Java 백엔드를 총괄하며 보안 감사 및 정적·동적 분석을 수행함."
+    },
+    {
+      "company": "Resume Worded & Co.",
+      "role": "Java 개발자",
+      "start_date": "2012.01",
+      "status": "퇴사",
+      "end_date": "2013.12",
+      "details": "내부 Java 도구를 개발해 고객 데이터 요청 속도를 85% 개선함. 주요 장애 알림 자동화 시스템을 구축해 지원 티켓을 75% 감소시킴."
+    }
+  ],
+  "licenses": [],
+  "skills": ["Java", "Spring Boot", "Angular", "PostgreSQL", "AWS"],
+  "others": [
+    "Dean's List 수상 (Resume Worded IT School)",
+    "Technology Award 수상 (Resume Worded University)",
+    "ABC 재단 월 20시간 봉사 (2012–2014)"
+  ],
+  "scores": {
+    "TeamCulture": 4.4,
+    "Evaluation": 4.2,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.3,
+    "Welfare": 3.8,
+    "Workload": 3.2
+  }
+},
+{
+  "basic_info": {
+    "name": "윤지훈",
+    "birth": "19880315",
+    "gender": "남성",
+    "address": "서울특별시 영등포구 영등포로 123",
+    "phone": "010-9482-3715",
+    "current_salary": "9500",
+    "desired_salary": "11000"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "소프트웨어학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "연세대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "LG",
+      "role": "시니어 Java 개발자",
+      "start_date": "2015.01",
+      "status": "재직중",
+      "details": "애자일/Scrum 기반으로 요구사항 수집·분석을 주도하며, TDD와 디자인 패턴(싱글턴, 팩토리, 추상 팩토리 등)을 적용해 고품질 모듈을 개발함. Hibernate 검증 프레임워크와 REST 아키텍처를 활용한 프론트엔드·백엔드 통합 설계를 수행함."
+    },
+    {
+      "company": "ABC Corp",
+      "role": "시니어 Java 개발자",
+      "start_date": "2007.01",
+      "status": "퇴사",
+      "end_date": "2015.01",
+      "details": "POC 요구사항 정의·설계·구현을 담당하고, 벤더 및 오프쇼어 팀과 협업하여 생산 시스템을 안정화함. 지속적 배포(CI/CD) 환경을 구축하고, 기술 리더십을 발휘해 엔지니어링 표준을 개선함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["Java", "Spring", "Hibernate", "REST API", "JDBC"],
+  "others": [
+    "사내 혁신 리더십상 수상 (2020)",
+    "Continuous Delivery 우수 프로젝트상 수상 (2018)"
+  ],
+  "scores": {
+    "TeamCulture": 4.5,
+    "Evaluation": 4.3,
+    "PayLevel": 4.0,
+    "VisionDirection": 4.2,
+    "Welfare": 3.8,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "김수현",
+    "birth": "19870822",
+    "gender": "여성",
+    "address": "서울특별시 강동구 천호동",
+    "phone": "010-2974-8631",
+    "current_salary": "8800",
+    "desired_salary": "9800"
+  },
+  "educations": [
+    {
+      "school": "한양대학교",
+      "major": "정보시스템공학과",
+      "degree": "학사",
+      "graduation": "재학 중"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "CreativeSource",
+      "role": "시니어 SQL 개발자",
+      "start_date": "2017.01",
+      "status": "재직중",
+      "details": "SQL 쿼리 최적화 및 데이터베이스 조각 모음을 통해 성능 및 로딩 속도를 80% 개선함. SSRS를 사용한 보고서 제작 및 시각화, 6명의 SQL 개발자 멘토링을 통해 팀 역량을 향상시킴."
+    },
+    {
+      "company": "Ledner Group",
+      "role": "SQL 개발자",
+      "start_date": "2014.01",
+      "status": "퇴사",
+      "end_date": "2016.12",
+      "details": "SSIS 패키지를 설계·관리하며 32개 프로세스를 효율화하고, 100,000줄 SQL 코드를 C#으로 전환해 성능을 개선함. 정기적인 백업·복원 절차를 통해 데이터 안정성을 확보함."
+    },
+    {
+      "company": "Gutmann",
+      "role": "프론트엔드 & SQL 개발자",
+      "start_date": "2008.01",
+      "status": "퇴사",
+      "end_date": "2010.12",
+      "details": "Selenium 기반 테스트 인프라를 구축해 월간 버그 보고를 11% 감소시킴. Django 기반 REST API 개발로 내부 분석팀의 보고 속도를 24% 개선함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["T-SQL", "SSRS", "SSIS", "Oracle", "SQL Server"],
+  "others": [
+    "Apress 출간: \"Mastering Oracle GoldenGate\" 저자 (2016)",
+    "Oracle OCP 12c 및 GoldenGate Implementation Specialist 인증"
+  ],
+  "scores": {
+    "TeamCulture": 4.4,
+    "Evaluation": 4.2,
+    "PayLevel": 4.0,
+    "VisionDirection": 3.9,
+    "Welfare": 3.6,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "김하늘",
+    "birth": "19910210",
+    "gender": "여성",
+    "address": "서울특별시 강동구 성내동",
+    "phone": "010-3847-2190",
+    "current_salary": "6500",
+    "desired_salary": "7500"
+  },
+  "educations": [
+    {
+      "school": "한국산업기술대학교",
+      "major": "정보시스템공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC Corporation",
+      "role": "SQL BI 개발자/컨설턴트",
+      "start_date": "2013.09",
+      "status": "퇴사",
+      "end_date": "2014.04",
+      "details": "JAD 세션을 통해 비즈니스 요구사항을 수집하고 ERwin으로 데이터 웨어하우스 아키텍처를 설계함. SSIS 매핑으로 이종 시스템 데이터를 변환 및 로드했으며, 인덱스 튜닝을 통해 쿼리 성능을 80% 개선함."
+    },
+    {
+      "company": "ABC Corporation",
+      "role": "SQL BI 개발자",
+      "start_date": "2010.01",
+      "status": "퇴사",
+      "end_date": "2013.08",
+      "details": "SSIS 및 T-SQL 스크립트를 사용해 데이터 전환 파이프라인을 구축하고, SSRS 보고서를 제작해 가시성을 향상시킴. 사용자 권한 관리 및 링크드 서버 설정으로 데이터 보안을 강화함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["SSIS", "SSRS", "SSAS", "Tableau", "T-SQL"],
+  "others": [
+    "2014 BI 프로젝트 성능 최적화 우수상 수상",
+    "2012 데이터 모델링 경진대회 대상 수상"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.6,
+    "Workload": 3.2
+  }
+},
+{
+  "basic_info": {
+    "name": "박지훈",
+    "birth": "19890120",
+    "gender": "남성",
+    "address": "서울특별시 영등포구 여의도동",
+    "phone": "010-5821-7463",
+    "current_salary": "7800",
+    "desired_salary": "8800"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Resume Worded",
+      "role": "SQL 개발자",
+      "start_date": "2020.06",
+      "status": "재직중",
+      "details": "애플리케이션 내 SQL 문 최적화 및 사용자 중심 데이터베이스 설계를 통해 시스템 안정성·성능을 97% 향상시킴. Erwin으로 물리 데이터 모델링 및 DDL 스크립트를 작성하고, ETL 절차 설계로 데이터 웨어하우스 차원 테이블을 구축함."
+    },
+    {
+      "company": "Growthsi",
+      "role": "SQL 개발자",
+      "start_date": "2017.01",
+      "status": "퇴사",
+      "end_date": "2020.05",
+      "details": "복잡한 조인 및 서브쿼리를 최적화하고, EXPLAIN PLAN·TKProf 등 도구로 절차·트리거 성능을 튜닝하여 전반적 비용을 15% 절감함. 25개 이상의 데이터베이스를 관리하며 생산 환경의 안정성을 확보함."
+    },
+    {
+      "company": "Third Company",
+      "role": "주니어 SQL 개발자",
+      "start_date": "2014.05",
+      "status": "퇴사",
+      "end_date": "2016.12",
+      "details": "10건의 데이터베이스 프로젝트를 예산 내·기한 내 완료하고, 고객 만족도 98%를 달성함. Oracle 데이터 모델링 및 백업·복구 절차를 구축하여 데이터 안정성을 강화함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["T-SQL", "PL/SQL", "SSIS", "SSAS", "SQL 성능 튜닝"],
+  "others": [
+    "Resume Worded Teaching Fellow 수상 (2012)",
+    "Dean's List 수상 (2012)",
+    "SQL Developer Coursera Certificate (2020)"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.6,
+    "Workload": 4.0
+  }
+},
+{
+  "basic_info": {
+    "name": "김지은",
+    "birth": "19920318",
+    "gender": "여성",
+    "address": "서울특별시 서초구 반포동",
+    "phone": "010-7245-1983",
+    "current_salary": "6200",
+    "desired_salary": "7200"
+  },
+  "educations": [
+    {
+      "school": "국민대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Gamma Nexus Group",
+      "role": "SQL 개발자",
+      "start_date": "2015.05",
+      "status": "퇴사",
+      "end_date": "2016.06",
+      "details": "10건의 DB 프로젝트를 예산 대비 15% 절감 및 기한 내 완료하여 고객 만족도를 98% 달성함. Oracle 데이터 모델링을 통한 생산성 향상 및 비용 10% 절감에 기여함."
+    },
+    {
+      "company": "PinkSky Tech Worldwide",
+      "role": "SQL 개발자",
+      "start_date": "2016.07",
+      "status": "퇴사",
+      "end_date": "2018.08",
+      "details": "25개 데이터베이스 관리 및 3개 온사이트 DB 설계·구축. 자동화 도입으로 업무 효율 15% 향상 및 월 50시간 절감. 보안 절차 강화로 침해 위험 20% 감소."
+    }
+  ],
+  "licenses": [],
+  "skills": ["Oracle", "PL/SQL", "SSIS", "T-SQL", "SQL 성능 튜닝"],
+  "others": [
+    "Most Valuable Tech Employee 수상 (2016)",
+    "OCA - Oracle Certified Associate 인증",
+    "DEVintersection SSIS 패널 발표 (2017)",
+    "Oracle Blogs SQL Injection 아티클 발표"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.5,
+    "Workload": 3.7
+  }
+},
+{
+  "basic_info": {
+    "name": "김지원",
+    "birth": "19920315",
+    "gender": "여성",
+    "address": "서울특별시 송파구 잠실동",
+    "phone": "010-9183-0531",
+    "current_salary": "6000",
+    "desired_salary": "7000"
+  },
+  "educations": [
+    {
+      "school": "한양대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PinkSky Tech Worldwide",
+      "role": "SQL 개발자",
+      "start_date": "2016.07",
+      "status": "퇴사",
+      "end_date": "2018.08",
+      "details": "3개 온사이트 데이터베이스 설계·구축 및 25개 DB 그룹 관리. 자동화 도입으로 업무 효율 15% 향상, 월 50시간 절감. 보안 절차 강화로 침해 위험 20% 감소 및 자동 업데이트 스크립트 개발로 프로그래머 3시간 절감."
+    },
+    {
+      "company": "Gamma Nexus Group",
+      "role": "SQL 개발자",
+      "start_date": "2015.05",
+      "status": "퇴사",
+      "end_date": "2016.06",
+      "details": "10건의 DB 프로젝트를 기한 내 15% 예산 절감으로 완료, 고객 만족도 98% 달성. dialogue-mapping으로 요구사항 수집 및 Oracle 데이터 모델링을 통해 생산성 10% 향상."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2016",
+      "name": "OCA - Oracle Certified Associate",
+      "number": ""
+    }
+  ],
+  "skills": ["Oracle", "PL/SQL", "SSIS", "Security", "Reporting"],
+  "others": [
+    "Most Valuable Tech Employee 수상 (2016)",
+    "Oracle Blogs에 SQL Injection 아티클 게재",
+    "PASS Summit SSIS 패널 발표 (2016)"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.5,
+    "Workload": 3.7
+  }
+},
+{
+  "basic_info": {
+    "name": "김아영",
+    "birth": "19920305",
+    "gender": "여성",
+    "address": "서울특별시 강남구 삼성동",
+    "phone": "010-9183-0531",
+    "current_salary": "6200",
+    "desired_salary": "7200"
+  },
+  "educations": [
+    {
+      "school": "국민대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PinkSky Tech Worldwide",
+      "role": "SQL 개발자",
+      "start_date": "2016.07",
+      "status": "퇴사",
+      "end_date": "2018.08",
+      "details": "25개 데이터베이스 관리 및 3개 온사이트 DB 설계·구축. 자동화 도입으로 업무 효율 15% 향상 및 월 50시간 절감. 소프트웨어 업데이트 자동화 스크립트로 프로그래머 3시간 절감."
+    },
+    {
+      "company": "Gamma Nexus Group",
+      "role": "SQL 개발자",
+      "start_date": "2015.05",
+      "status": "퇴사",
+      "end_date": "2016.06",
+      "details": "10건 DB 프로젝트를 기한 내·예산 15% 절감하여 완료. dialogue-mapping으로 요구사항 수집해 고객 만족도 98% 달성."
+    },
+    {
+      "company": "Freelance",
+      "role": "SQL 개발자",
+      "start_date": "2014.06",
+      "status": "퇴사",
+      "end_date": "2015.05",
+      "details": "식당 관리 DB 및 모바일 앱 백엔드 개발. 재고 관리 기능으로 월 400달러 비용 절감."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2016",
+      "name": "OCA - Oracle Certified Associate",
+      "number": ""
+    }
+  ],
+  "skills": ["Oracle", "PL/SQL", "SSIS", "SQL 성능 튜닝", "데이터 모델링"],
+  "others": [
+    "Bighorn Decoders Computer Club 회장 역임",
+    "OCA 인증(SQL Certified Associate)"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.5,
+    "Workload": 3.7
+  }
+},
+{
+  "basic_info": {
+    "name": "김태희",
+    "birth": "19900130",
+    "gender": "여성",
+    "address": "서울특별시 강서구 등촌동",
+    "phone": "010-7382-9461",
+    "current_salary": "6800",
+    "desired_salary": "7800"
+  },
+  "educations": [
+    {
+      "school": "한양대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터공학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "KATTECH SYSTEMS",
+      "role": "SQL 개발자",
+      "start_date": "2013.01",
+      "status": "재직중",
+      "details": "수작업 프로세스를 자동화하여 운영 효율성을 높이고, 데이터 수집·분석·보고 절차를 설계·자동화함. 데이터 감사 및 수정 업무를 수행하며, 중요 데이터베이스 이슈에 대응함."
+    },
+    {
+      "company": "HEXADUS",
+      "role": "SQL 개발자",
+      "start_date": "2011.01",
+      "status": "퇴사",
+      "end_date": "2012.12",
+      "details": "복잡한 쿼리 튜닝 및 스키마 개선을 지원하고, 저장 프로시저와 T-SQL 성능을 최적화함. 데이터베이스 성능 모니터링을 통해 프론트엔드 사용자에 대한 응답 속도를 향상시킴."
+    }
+  ],
+  "licenses": [],
+  "skills": ["T-SQL", "PL/SQL", "SQL 성능 튜닝", "SSIS", "데이터 모델링"],
+  "others": [
+    "데이터베이스 구조 최적화 프로젝트 주도",
+    "자동화 솔루션 도입으로 연 50시간 업무 절감"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.5,
+    "Workload": 3.7
+  }
+},
+{
+  "basic_info": {
+    "name": "이현우",
+    "birth": "19850720",
+    "gender": "남성",
+    "address": "서울특별시 마포구 서교동",
+    "phone": "010-4657-8291",
+    "current_salary": "9000",
+    "desired_salary": "10500"
+  },
+  "educations": [
+    {
+      "school": "서울예술대학교",
+      "major": "데이터베이스공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Delta Corporation",
+      "role": "시니어 SQL Server 개발자",
+      "start_date": "2002.01",
+      "status": "퇴사",
+      "end_date": "2006.12",
+      "details": "SSIS 패키지 업그레이드 및 배포를 주도하고, SQL Server 2005 관리 도구로 백업·복구 및 인덱스 재구성을 수행해 성능을 최적화함."
+    },
+    {
+      "company": "ABC Corporation",
+      "role": "시니어 SQL Server 개발자",
+      "start_date": "2006.12",
+      "status": "퇴사",
+      "end_date": "2007.08",
+      "details": "T-SQL 프로시저 리팩토링 및 ETL 구현(SSIS)으로 데이터 웨어하우스 로딩 효율을 개선함. SSRS 보고서 설계·관리 및 SQL Server 2000→2005 마이그레이션을 성공적으로 수행함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["SQL Server", "SSIS", "SSRS", "Data Modelling", "SSAS"],
+  "others": [
+    "Providence Health 프로젝트 SSIS 패키지 개선 기여",
+    "데이터베이스 성능 최적화 프로젝트 주도"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 4.0,
+    "VisionDirection": 3.9,
+    "Welfare": 3.6,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "박성민",
+    "birth": "19900322",
+    "gender": "남성",
+    "address": "서울특별시 송파구 가락동",
+    "phone": "010-6853-1729",
+    "current_salary": "7000",
+    "desired_salary": "8000"
+  },
+  "educations": [
+    {
+      "school": "연세대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "The Vanguard Group",
+      "role": "PL/SQL 개발자",
+      "start_date": "2015.11",
+      "status": "재직중",
+      "details": "PL/SQL 배치 및 ETL 프로세스를 개발·개선하고, OLAP 스키마 기반 DataMart를 구축함. Oracle 10g/11g 기능을 활용해 대규모 멀티테라바이트 시스템을 운영·지원하며, 요구사항 분석부터 배포·문서화까지 SDLC 전 과정을 수행함."
+    },
+    {
+      "company": "ABC Corp",
+      "role": "Oracle PL/SQL 개발자",
+      "start_date": "2014.01",
+      "status": "퇴사",
+      "end_date": "2015.10",
+      "details": "Subject Matter Expert 및 이해관계자와 협업해 요구사항을 수집·분석하고, Oracle Forms·Reports 및 PLSQL을 활용해 맞춤형 솔루션을 구현함. SQL/PLSQL 성능 튜닝 및 XML Publisher 리포트 개발을 수행함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["PL/SQL", "SQL", "Oracle Forms", "ETL", "성능 튜닝"],
+  "others": [
+    "SDLC 전 과정 문서화 및 지원 경험",
+    "다수의 대규모 데이터 마트 구축 및 운영"
+  ],
+  "scores": {
+    "TeamCulture": 4.1,
+    "Evaluation": 4.0,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.5,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "김예진",
+    "birth": "19851210",
+    "gender": "여성",
+    "address": "서울특별시 강남구 삼성동",
+    "phone": "010-4567-8901",
+    "current_salary": "10500",
+    "desired_salary": "12000"
+  },
+  "educations": [
+    {
+      "school": "연세대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC Corp",
+      "role": "Oracle PL/SQL 개발자",
+      "start_date": "2010.01",
+      "status": "퇴사",
+      "end_date": "2018.01",
+      "details": "테이블·뷰·시퀀스 등 DB 객체를 설계·구현하고, 무결성 제약·트리거로 데이터 일관성을 유지함. Oracle 11g 고급 PL/SQL 기능(레코드·컬렉션·벌크바인드·동적 SQL)을 활용해 성능을 최적화함."
+    },
+    {
+      "company": "ABC Corp",
+      "role": "Oracle PL/SQL 개발자",
+      "start_date": "2008.01",
+      "status": "퇴사",
+      "end_date": "2010.12",
+      "details": "비즈니스 요구사항 분석·문서화 및 Seed Data 스크립트를 관리함. 동료 개발자 및 테스터 지원, 기술 문제 해결 및 프로젝트 온타임·온버짓 수행을 주도함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["Oracle PL/SQL", "T-SQL", "Shell Scripting", "Performance Tuning", "ETL"],
+  "others": [
+    "SDLC 전 과정 경험",
+    "대규모 데이터 마이그레이션 프로젝트 수행"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.0,
+    "PayLevel": 4.3,
+    "VisionDirection": 4.1,
+    "Welfare": 3.8,
+    "Workload": 4.0
+  }
+},
+{
+  "basic_info": {
+    "name": "이민정",
+    "birth": "19900214",
+    "gender": "여성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-5498-8425",
+    "current_salary": "9000",
+    "desired_salary": "10000"
+  },
+  "educations": [
+    {
+      "school": "서강대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Greenfelder LLC",
+      "role": "시스템 보안 엔지니어",
+      "start_date": "2018.04",
+      "status": "재직중",
+      "details": "보안 아키텍처 설계·구현·평가에 참여하고 리눅스 시스템 감사 로깅을 구성함. 시스템 보안 요건을 검증·확인하고, 보안 설계 문서를 작성하여 보안 요구사항을 충족시킴."
+    },
+    {
+      "company": "Walter, Brekke and Hamill",
+      "role": "시스템 보안 엔지니어",
+      "start_date": "2012.06",
+      "status": "퇴사",
+      "end_date": "2017.10",
+      "details": "네트워크 및 다중 격리 환경용 보안 시스템 설계·개발·통합을 수행하고, 정보보안 정책에 따른 IA 기능을 구현함. 운영 환경에 배포된 시스템의 보안 기능을 보강하고, 암호키 관리 기법을 적용함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["네트워크 보안", "Linux 보안", "암호키 관리", "보안 아키텍처", "감사 로깅"],
+  "others": [
+    "사이버보안 RMF 프로세스 도입 프로젝트 주도",
+    "제품 보안 엔지니어 팀 리딩 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.2,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "김도현",
+    "birth": "19900312",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-2345-6789",
+    "current_salary": "8200",
+    "desired_salary": "9200"
+  },
+  "educations": [
+    {
+      "school": "서강대학교",
+      "major": "컴퓨터·네트워크보안학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Resume Worded",
+      "role": "네트워크 엔지니어",
+      "start_date": "2020.01",
+      "status": "재직중",
+      "details": "유선·무선 인프라를 개선해 가용성 99.99% 달성하고, 10개 유럽 국가로 네트워크 확장. 외부 벤더 50곳을 온보딩해 동시 접속 요청을 안정적으로 처리함."
+    },
+    {
+      "company": "Rofocus",
+      "role": "네트워크 지원 엔지니어",
+      "start_date": "2012.01",
+      "status": "퇴사",
+      "end_date": "2016.12",
+      "details": "100건 이상의 네트워크 이슈 1·2차 지원을 진행하고, 주 2회 Juniper 장비 업그레이드 및 설정 변경을 무중단으로 수행해 서비스 품질을 유지함. 10건 이상의 주요 네트워크 프로젝트를 설계·완료하여 기한 내 전달함."
+    },
+    {
+      "company": "Growthsi",
+      "role": "네트워크 엔지니어",
+      "start_date": "2016.01",
+      "status": "퇴사",
+      "end_date": "2020.12",
+      "details": "Arista·Fortinet 온프레미스 플랫폼을 110개 계정에 배치하고 AWS Direct Connect·VPC 구성으로 평균 네트워크 비용 17% 절감. 알림·모니터링 체계 도입으로 다운타임 11% 감소시킴."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "LAN/WAN",
+    "TCP/IP Networking",
+    "FortiManager & FortiGate",
+    "Amazon EC2 & Direct Connect",
+    "BGP"
+  ],
+  "others": [
+    "Resume Worded Teaching Fellow (2012)",
+    "ABC 재단 월 20시간 봉사"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.2,
+    "PayLevel": 4.0,
+    "VisionDirection": 4.1,
+    "Welfare": 3.7,
+    "Workload": 3.3
+  }
+},
+{
+  "basic_info": {
+    "name": "박수진",
+    "birth": "19861015",
+    "gender": "여성",
+    "address": "서울특별시 마포구 합정동",
+    "phone": "010-4567-8990",
+    "current_salary": "9800",
+    "desired_salary": "11000"
+  },
+  "educations": [
+    {
+      "school": "서울시립대학교",
+      "major": "정보보호학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Resume Worded",
+      "role": "수석 네트워크 보안 엔지니어",
+      "start_date": "2013.10",
+      "status": "재직중",
+      "details": "클라우드 데이터센터 및 기업 네트워크 보안 설계를 주도하고 ISO 보안 표준을 도입함. 방화벽, IDS/IPS, TMG 보안 게이트웨이를 운영하며 네트워크 안정성과 보안성을 강화함."
+    },
+    {
+      "company": "Delta Corporation",
+      "role": "수석 네트워크 보안 엔지니어",
+      "start_date": "2005.01",
+      "status": "퇴사",
+      "end_date": "2008.12",
+      "details": "CheckPoint, Cisco ASA, Juniper 라우터를 구성·관리하고, PIX 방화벽을 CheckPoint로 마이그레이션함. Nexus 및 Catalyst 스위치를 도입해 데이터센터 네트워크를 10Gbps 백본으로 구축함."
+    },
+    {
+      "company": "ABC Corporation",
+      "role": "수석 네트워크 보안 엔지니어",
+      "start_date": "2008.05",
+      "status": "퇴사",
+      "end_date": "2013.09",
+      "details": "글로벌 방화벽 아키텍처 설계·배포 및 로그 분석(Firemon, Tufin)으로 보안 상태를 모니터링함. VPN 525회선과 원격지 VPN을 구축하고 BCP/DR 계획을 수립·테스트함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "CheckPoint CCSA",
+    "Cisco CCNA",
+    "Fortinet",
+    "Network Troubleshooting",
+    "ISO/IEC 27001"
+  ],
+  "others": [
+    "글로벌 VPN 인프라 525회선 구축",
+    "ISO 보안 표준 도입 프로젝트 주도"
+  ],
+  "scores": {
+    "TeamCulture": 4.4,
+    "Evaluation": 4.2,
+    "PayLevel": 4.1,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "박지훈",
+    "birth": "19881215",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-4567-8910",
+    "current_salary": "7500",
+    "desired_salary": "8500"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "정보보호학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC Corporation",
+      "role": "네트워크 보안 엔지니어",
+      "start_date": "2011.01",
+      "status": "퇴사",
+      "end_date": "2015.12",
+      "details": "Nortel Contivity 1800 VPN 라우터를 Juniper SRX 방화벽으로 마이그레이션하고, IPsec Site-to-Site VPN 설계·구축을 수행함."
+    },
+    {
+      "company": "College Board",
+      "role": "주니어 네트워크 보안 엔지니어",
+      "start_date": "2016.01",
+      "status": "퇴사",
+      "end_date": "2019.11",
+      "details": "웹 애플리케이션 취약점 평가(Paros Proxy, Burp Suite 등) 및 보완책 제안. 데이터센터 내 네트워크 연결 문제를 해결하고, 위험 평가 세션을 주관함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Cisco 보안",
+    "Juniper 방화벽",
+    "IPsec VPN",
+    "취약점 평가",
+    "TCP/IP"
+  ],
+  "others": [
+    "정보보안 위험 평가 세션 주관 경험",
+    "데이터센터 네트워크 트러블슈팅 전문가"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.6,
+    "Workload": 3.7
+  }
+},
+{
+  "basic_info": {
+    "name": "이건우",
+    "birth": "19880115",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-2938-4710",
+    "current_salary": "9000",
+    "desired_salary": "10000"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터시스템공학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "연세대학교",
+      "major": "정보시스템학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "GVM Health Insurance",
+      "role": "IT 시스템 관리자",
+      "start_date": "2019.03",
+      "status": "재직중",
+      "details": "Linux·Windows 서버를 구축·운영하고 McAfee 에이전트를 배포하여 엔드포인트 보안을 유지함. 데이터 손실 방지 및 백업 솔루션을 관리함."
+    },
+    {
+      "company": "Ageon Life Assurance",
+      "role": "SQL 보안 엔지니어",
+      "start_date": "2017.11",
+      "status": "퇴사",
+      "end_date": "2018.03",
+      "details": "McAfee ePolicy Orchestrator 및 ENS Agent를 업그레이드·배포하고, ATD·TIE 위협 분석 시스템을 구축하여 보안 운영을 강화함."
+    },
+    {
+      "company": "Indus International Company",
+      "role": "SQL 보안 엔지니어",
+      "start_date": "2018.04",
+      "status": "퇴사",
+      "end_date": "2018.06",
+      "details": "ePO 및 ENS 버전 업그레이드 프로젝트를 수행하고, McAfee 기반 안티바이러스 솔루션을 전사에 배포함."
+    },
+    {
+      "company": "Ace Marine Insurance",
+      "role": "SQL 보안 엔지니어",
+      "start_date": "2018.07",
+      "status": "퇴사",
+      "end_date": "2018.08",
+      "details": "McAfee 드라이브 암호화 및 미디어 보호 솔루션을 구현하고, ePO 플랫폼을 다중 버전으로 마이그레이션함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Endpoint Security",
+    "McAfee ePO",
+    "Windows Server",
+    "SCCM",
+    "Virtualization"
+  ],
+  "others": [
+    "IT 인프라 자동화 프로젝트 주도",
+    "데이터 손실 방지 시스템 구축 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 4.0,
+    "VisionDirection": 3.9,
+    "Welfare": 3.6,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "김도현",
+    "birth": "19851207",
+    "gender": "남성",
+    "address": "서울특별시 마포구 합정동",
+    "phone": "010-4567-8999",
+    "current_salary": "9500",
+    "desired_salary": "11000"
+  },
+  "educations": [
+    {
+      "school": "서울시립대학교",
+      "major": "정보보호학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC Corporation",
+      "role": "네트워크 보안 엔지니어 II",
+      "start_date": "2013.07",
+      "status": "재직중",
+      "details": "600개 이상의 네트워크 장비와 20,000여 대의 엔드호스트를 관리하고, Catalyst 및 ISR/ASR/Nexus 장비의 IOS 업그레이드를 수행함. Cisco ASA·Checkpoint 방화벽을 운영하며 글로벌 네트워크 보안 정책을 구현함."
+    },
+    {
+      "company": "Web.com",
+      "role": "네트워크 보안 엔지니어",
+      "start_date": "2010.01",
+      "status": "퇴사",
+      "end_date": "2013.06",
+      "details": "Palo Alto 방화벽 설계·설치 및 URL·위협 차단 정책을 구현함. Checkpoint VPN 및 HA 클러스터를 구축하고, Bluecoat URL 필터링을 운영하며 네트워크 보안 인프라를 강화함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Cisco ASA/Checkpoint 방화벽",
+    "Palo Alto 방화벽",
+    "Nexus 스위치",
+    "VPN 설계·운영",
+    "네트워크 트러블슈팅"
+  ],
+  "others": [
+    "글로벌 네트워크 보안 아키텍처 구축 프로젝트 주도",
+    "HA 클러스터 및 VPN 마이그레이션 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.2,
+    "PayLevel": 4.1,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 3.7
+  }
+},
+{
+  "basic_info": {
+    "name": "김태희",
+    "birth": "19701215",
+    "gender": "여성",
+    "address": "서울특별시 마포구 합정동",
+    "phone": "010-9915-1872",
+    "current_salary": "12000",
+    "desired_salary": "13500"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "정보보호학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "CompuServe",
+      "role": "시스템 보안 엔지니어 / 기술 마케팅 엔지니어",
+      "start_date": "1990.01",
+      "status": "재직중",
+      "details": "CSN 제품의 원격 지원 자동화 시스템을 구축하고, 품질 문제 해결을 위해 SWAT 팀에 참여함. SSL 취약점 보고 및 대응을 주도하며 엔터프라이즈 보안 정책을 구현함. 기술 전략 수립 및 내부 교육 프로그램 운영을 통해 고객 경험을 개선함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "VMware",
+    "Cisco Networking",
+    "Windows Server",
+    "VoIP",
+    "DNS/DHCP"
+  ],
+  "others": [
+    "SCSA, SCSP, SCSS 인증 보유",
+    "NECE 2007 Security 인증",
+    "사내 보안 교육 프로그램 기획 및 강의"
+  ],
+  "scores": {
+    "TeamCulture": 4.5,
+    "Evaluation": 4.3,
+    "PayLevel": 4.2,
+    "VisionDirection": 4.1,
+    "Welfare": 3.9,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "김민재",
+    "birth": "19890312",
+    "gender": "남성",
+    "address": "서울특별시 종로구 사직로",
+    "phone": "010-4567-8999",
+    "current_salary": "7800",
+    "desired_salary": "8800"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "정보보호학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC Corporation",
+      "role": "사이버 보안 엔지니어",
+      "start_date": "2012.03",
+      "status": "퇴사",
+      "end_date": "2013.09",
+      "details": "McAfee ePO, Snort, FireEye 등을 활용해 네트워크 침해 탐지 및 대응을 수행함. ArcSight SIEM 시스템 운영·관리 및 보안 이벤트 모니터링을 담당하고, 주간·월간 보안 현황 보고서를 작성해 NSF 팀에 전달함."
+    },
+    {
+      "company": "Delta Corporation",
+      "role": "사이버 보안 엔지니어",
+      "start_date": "2009.01",
+      "status": "퇴사",
+      "end_date": "2012.02",
+      "details": "NESSUS·SRR·SCC 스캔으로 시스템 취약점을 평가하고, POA&M을 작성해 보안 개선 작업을 관리함. UNIX 환경 미디어 스캔 및 RMF 전환 지원을 수행함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "침해 탐지 (Intrusion Detection)",
+    "SIEM 운영",
+    "Red Team Operations",
+    "SIGINT",
+    "네트워크 보안"
+  ],
+  "others": [
+    "Plan of Action & Milestones(POA&M) 작성 경험",
+    "NSF 팀 대상 보안 현황 보고서 작성"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.5,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "김도희",
+    "birth": "19900101",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-4567-8932",
+    "current_salary": "7000",
+    "desired_salary": "8000"
+  },
+  "educations": [
+    {
+      "school": "서울시립대학교",
+      "major": "정보통신공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Systal Technology Solutions, Ltd",
+      "role": "네트워크 엔지니어",
+      "start_date": "2016.09",
+      "status": "퇴사",
+      "end_date": "2020.01",
+      "details": "네트워크 장비(라우터, 스위치, 무선 AP 등)를 설치·구성하고 성능 모니터링을 수행함. 서버 백업 및 사용자 지원을 제공하여 네트워크 안정성을 10% 향상시키고, 두 차례 직원 만족도 우수상(Employee of the Month)을 수상함."
+    },
+    {
+      "company": "NetWorkz",
+      "role": "네트워크 엔지니어",
+      "start_date": "2011.09",
+      "status": "퇴사",
+      "end_date": "2016.07",
+      "details": "다양한 시스템 네트워크 및 보안 문제를 해결하고, 통합 네트워크 서비스(스위치, 라우터, 방화벽) 설계·운영을 담당함. 네트워크 트러블슈팅 및 최적화로 운영 비용을 절감함."
+    }
+  ],
+  "licenses": [],
+  "skills": ["라우터/스위치 구성", "네트워크 모니터링", "백업 관리", "문제 해결", "보안 최적화"],
+  "others": [
+    "직원 우수상(Employee of the Month) 2회 수상"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "나스룬 모흐트르",
+    "birth": "19850812",
+    "gender": "남성",
+    "address": "쿠알라룸푸르, 말레이시아",
+    "phone": "+6012-6121652",
+    "current_salary": "11000",
+    "desired_salary": "12500"
+  },
+  "educations": [
+    {
+      "school": "국민대학교",
+      "major": "정보통신공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ExxonMobil Business Support Center Malaysia",
+      "role": "수석 네트워크 보안 엔지니어",
+      "start_date": "2010.10",
+      "status": "재직중",
+      "details": "Cisco ASA/IPS, FirePower 및 Juniper SRX 기반으로 기업 및 DMZ, 프로세스 제어 네트워크 보안을 설계·운영함. VRF 표준 네트워크 디자인 도입으로 방화벽 수를 28쌍에서 2쌍으로 축소하여 CAPEX 및 유지보수 비용을 절감함. RSA SecurID 6.1에서 8.1로 인증 매니저를 무중단 마이그레이션함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2017.01",
+      "name": "Certified Ethical Hacker (CEH)",
+      "number": "ECC58430201775"
+    },
+    {
+      "date": "2016.10",
+      "name": "JNCIS-SEC (Juniper Networks)",
+      "number": "11"
+    },
+    {
+      "date": "2010.10",
+      "name": "JNCIA-Junos (Juniper Networks)",
+      "number": "11"
+    }
+  ],
+  "skills": [
+    "Cisco ASA/IPS",
+    "Juniper SRX",
+    "VRF 네트워크 설계",
+    "RSA SecurID",
+    "네트워크 보안 아키텍처"
+  ],
+  "others": [
+    "VRF 통합 디자인으로 방화벽 비용 90% 절감",
+    "RSA 인증 시스템 무중단 마이그레이션 프로젝트 주도"
+  ],
+  "scores": {
+    "TeamCulture": 4.5,
+    "Evaluation": 4.3,
+    "PayLevel": 4.0,
+    "VisionDirection": 4.2,
+    "Welfare": 3.8,
+    "Workload": 3.6
+  }
+},
+{
+  "basic_info": {
+    "name": "이상민",
+    "birth": "19850615",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-5608-1632",
+    "current_salary": "9000",
+    "desired_salary": "10000"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Schmeler - Crona",
+      "role": "시니어 .NET 개발자",
+      "start_date": "2014.03",
+      "status": "퇴사",
+      "end_date": "2017.02",
+      "details": "REST API를 설계·구현해 99.99% 가용성을 달성하고, SPA의 UX 개선으로 매출을 83% 증가시킴. Chai·Cucumber로 단위 및 부하 테스트를 수행해 시스템 실패율을 79% 감소시킴."
+    },
+    {
+      "company": "Von - Sawayn",
+      "role": ".NET Core 개발자",
+      "start_date": "2011.01",
+      "status": "퇴사",
+      "end_date": "2014.02",
+      "details": "미션 크리티컬 PWA 개발을 주도하며 기술 요구사항을 명확히 정의하고, Kubernetes·SCSS 기반 풀스택 개발을 수행함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    ".NET",
+    "REST API",
+    "Kubernetes",
+    "SCSS",
+    "SQL"
+  ],
+  "others": [
+    "SPA UX 개선으로 매출 83% 증가",
+    "테스트 자동화로 시스템 실패율 79% 감소"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "김민준",
+    "birth": "19940215",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-6723-1984",
+    "current_salary": "6500",
+    "desired_salary": "7500"
+  },
+  "educations": [
+    {
+      "school": "연세대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "삼성SDS",
+      "role": ".NET 개발자",
+      "start_date": "2023.03",
+      "status": "재직중",
+      "details": "ASP.NET, C#, SQL Server 기반 웹 애플리케이션을 개발하고, HTML·CSS·JavaScript를 활용한 UI를 구현함. WCF 서비스 설계·개발에 참여하여 시스템 확장성을 개선함."
+    },
+    {
+      "company": "LG CNS",
+      "role": ".NET 개발자",
+      "start_date": "2021.05",
+      "status": "퇴사",
+      "end_date": "2023.02",
+      "details": "SQL Server에서 저장 프로시저·함수를 작성하고, NUnit·MSTest를 활용해 단위 테스트를 구축함. WCF 웹 서비스를 유지보수하여 안정성을 높임."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "C#",
+    "ASP.NET",
+    ".NET Core",
+    "SQL Server",
+    "Web API"
+  ],
+  "others": [
+    "참고인 정보 요청 가능"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "이정훈",
+    "birth": "19820510",
+    "gender": "남성",
+    "address": "서울특별시 강남구 논현동",
+    "phone": "010-4567-8990",
+    "current_salary": "11000",
+    "desired_salary": "12500"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "End Client",
+      "role": "수석 .NET 개발자",
+      "start_date": "2013.12",
+      "status": "재직중",
+      "details": "RESTful API와 JSON 기반 서비스 개발을 주도하고, Microsoft Azure 클라우드 환경을 구성·운영함. CQRS 패턴을 적용한 데이터 흐름 구현과 NoSQL(MongoDB) 쿼리 최적화를 수행함."
+    },
+    {
+      "company": "ABC Corp",
+      "role": "수석 .NET 개발자",
+      "start_date": "2006.01",
+      "status": "퇴사",
+      "end_date": "2013.11",
+      "details": "엔터프라이즈 웹·윈도우 애플리케이션 설계·개발 및 유지보수를 수행하고, Azure 가상 네트워크를 구축함. SSIS ETL 패키지 및 BI 보고서 생성으로 비즈니스 통찰력을 지원함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "C#",
+    "ASP.NET",
+    "ADO.NET",
+    "WCF",
+    "Azure"
+  ],
+  "others": [
+    "BI 보고서 자동 생성 프로젝트 수행 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.2,
+    "PayLevel": 4.0,
+    "VisionDirection": 4.1,
+    "Welfare": 3.8,
+    "Workload": 3.6
+  }
+},
+{
+  "basic_info": {
+    "name": "김도형",
+    "birth": "19840115",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-7321-4589",
+    "current_salary": "9000",
+    "desired_salary": "10000"
+  },
+  "educations": [
+    {
+      "school": "연세대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Mayo Clinic",
+      "role": ".NET 개발자 II",
+      "start_date": "2014.01",
+      "status": "퇴사",
+      "end_date": "2020.12",
+      "details": "C#.NET 기반 비즈니스 로직을 구현하고 CQG API를 활용한 실시간 및 이력 데이터 처리 기능을 개발함. WinForms 관리자 애플리케이션을 설계·구현하고, SDLC 전 단계에 참여해 3계층 웹 애플리케이션 아키텍처를 완성함."
+    },
+    {
+      "company": "Delta Corporation",
+      "role": ".NET 개발자",
+      "start_date": "2012.01",
+      "status": "퇴사",
+      "end_date": "2014.02",
+      "details": "클라이언트 요구사항을 분석·명세화하고 C#·WPF 기반 윈도우 폼 및 사용자 정의 컨트롤을 개발함. Microsoft Provider 패턴을 활용한 워크플로우 스케줄러와 애니메이션 UI를 구현해 사용자 경험을 개선함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "C#",
+    "ASP.NET",
+    "ADO.NET",
+    "LINQ",
+    "WPF"
+  ],
+  "others": [
+    "CQG API 연동 실시간 데이터 처리 프로젝트 완료",
+    "3계층 아키텍처 기반 웹 애플리케이션 구축 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.2,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.6
+  }
+},
+{
+  "basic_info": {
+    "name": "김도현",
+    "birth": "19900415",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-7543-1092",
+    "current_salary": "6500",
+    "desired_salary": "7500"
+  },
+  "educations": [
+    {
+      "school": "한양대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Systal Technology Solutions, Ltd",
+      "role": "네트워크 엔지니어",
+      "start_date": "2016.09",
+      "status": "퇴사",
+      "end_date": "2020.01",
+      "details": "라우터·스위치·무선 AP 등 네트워크 장비 설치·구성 및 성능 모니터링을 수행하여 네트워크 안정성을 10% 향상시켰으며, 서버 백업 및 사용자 지원을 제공하여 Employee of the Month 2회 수상함."
+    },
+    {
+      "company": "NetWorkz",
+      "role": "네트워크 엔지니어",
+      "start_date": "2011.09",
+      "status": "퇴사",
+      "end_date": "2016.07",
+      "details": "다양한 네트워크 및 보안 이슈를 해결하고, 스위치·라우터·방화벽 통합 네트워크 서비스를 설계·운영하여 운영 비용을 절감함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "라우터/스위치 구성",
+    "네트워크 모니터링",
+    "백업 관리",
+    "문제 해결",
+    "보안 최적화"
+  ],
+  "others": [
+    "Employee of the Month 2회 수상"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "김석현",
+    "birth": "19860220",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-4567-8990",
+    "current_salary": "10000",
+    "desired_salary": "11500"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Kelloggs",
+      "role": "시니어 .NET 개발자",
+      "start_date": "2013.04",
+      "status": "재직중",
+      "details": "ASP.NET MVC 기반 웹 애플리케이션을 설계·개발하고 WCF 서비스 인터페이스 레이어를 구현함. NHibernate를 이용한 ORM 매핑과 SQL Server 2008 저장 프로시저 작성으로 데이터 처리 효율을 높임."
+    },
+    {
+      "company": "ABC Corp",
+      "role": "시니어 .NET 개발자",
+      "start_date": "2010.01",
+      "status": "퇴사",
+      "end_date": "2013.03",
+      "details": "객체 지향 분석·설계부터 구현까지 SDLC 전 단계에 참여하고, 비즈니스 요구사항에 맞춘 웹 애플리케이션을 개발함. 팀 리딩 및 비기술 인력 교육을 통해 프로젝트 성공을 견인함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "C#",
+    "ASP.NET MVC",
+    "WCF",
+    "NHibernate",
+    "SQL Server"
+  ],
+  "others": [
+    "3년 연속 우수 개발자 상 수상"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.2,
+    "PayLevel": 4.0,
+    "VisionDirection": 4.1,
+    "Welfare": 3.9,
+    "Workload": 3.7
+  }
+},
+{
+  "basic_info": {
+    "name": "박준영",
+    "birth": "19861210",
+    "gender": "남성",
+    "address": "서울특별시 서초구 잠원동",
+    "phone": "010-4567-8999",
+    "current_salary": "8000",
+    "desired_salary": "9000"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Delta Corporation",
+      "role": ".NET 개발자",
+      "start_date": "2014.01",
+      "status": "퇴사",
+      "end_date": "2015.06",
+      "details": "C#.NET 기반 Remediation 워크플로우 및 UI 애플리케이션을 개발하고 SSIS로 데이터 이동을 자동화함. WCF 서비스 소비 및 StructureMap DI를 활용한 재사용 가능한 컨트롤을 구현함."
+    },
+    {
+      "company": "Wayne County Treasurer's Office",
+      "role": "Assistant .NET 개발자",
+      "start_date": "2015.07",
+      "status": "퇴사",
+      "end_date": "2020.06",
+      "details": "N-Tier 아키텍처 기반 웹·윈도우 애플리케이션을 개발하고 SSO 솔루션을 구현함. VB.NET 매크로 기반 Excel 애플리케이션과 ETL 프로세스를 설계·구현함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "C#",
+    "ASP.NET MVC",
+    "Web API",
+    "WCF",
+    "SQL Server"
+  ],
+  "others": [
+    "등산",
+    "스노보드"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.6
+  }
+},
+{
+  "basic_info": {
+    "name": "김준호",
+    "birth": "19900115",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-1234-5678",
+    "current_salary": "5800",
+    "desired_salary": "6800"
+  },
+  "educations": [
+    {
+      "school": "서강대학교",
+      "major": "소프트웨어공학부",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Delta Corporation",
+      "role": ".NET 개발자",
+      "start_date": "2009.01",
+      "status": "퇴사",
+      "end_date": "2014.10",
+      "details": "비즈니스 요구사항을 기반으로 Use Case 및 클래스 다이어그램을 설계하고, ASP.NET MVC 3로 CRUD 뷰·컨트롤러·모델을 구현함. Entity Framework Code First를 사용해 데이터 접근 계층을 개발하고, 단위 테스트를 작성해 안정성을 확보함."
+    },
+    {
+      "company": "Micron Inc",
+      "role": "주니어 .NET 개발자",
+      "start_date": "2014.11",
+      "status": "퇴사",
+      "end_date": "2020.12",
+      "details": "ASP.NET Web Forms 및 Ajax 컨트롤로 GUI를 개발하고 IIS에 배포함. N-Tier 아키텍처 기반으로 애플리케이션을 설계·구현하고, T-SQL 저장 프로시저·트리거·인덱스를 작성해 데이터베이스 성능을 최적화함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "C#",
+    "ASP.NET",
+    "SQL Server",
+    "Entity Framework",
+    "T-SQL"
+  ],
+  "others": [
+    "기술 문서 및 Use Case 작성 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "김현우",
+    "birth": "19850228",
+    "gender": "남성",
+    "address": "서울특별시 강남구 삼성동",
+    "phone": "010-4567-8999",
+    "current_salary": "7000",
+    "desired_salary": "8000"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "2007.02"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Sprint Corporation",
+      "role": ".NET 개발자 I",
+      "start_date": "2009.02",
+      "status": "재직중",
+      "details": "ASP.NET MVC4·Razor·Kendo UI·Knockout.js 기반 RWD를 구현하고, Web API로 RESTful 서비스를 개발함. Bootstrap·AngularJS로 프론트엔드를 설계·구현하고 SOA→REST 마이그레이션을 주도함."
+    },
+    {
+      "company": "ABC Corp",
+      "role": "애플리케이션 개발자",
+      "start_date": "2007.01",
+      "status": "퇴사",
+      "end_date": "2009.01",
+      "details": "MVC 웹 API(REST 서비스) 및 ASP.NET Web Forms를 개발하고, jQuery·Ajax를 활용해 리치 UI를 구현함. 데이터베이스·네트워크·보안 구성 명세를 작성하고 시스템 통합을 지원함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "C#",
+    "ASP.NET MVC",
+    "Web API",
+    "Bootstrap",
+    "AngularJS"
+  ],
+  "others": [
+    "SSO 솔루션 구현 경험",
+    "N-Tier 아키텍처 기반 프로젝트 수행"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.6
+  }
+},
+{
+  "basic_info": {
+    "name": "김도현",
+    "birth": "19930520",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-7543-1092",
+    "current_salary": "",
+    "desired_salary": ""
+  },
+  "educations": [
+    {
+      "school": "KAIST",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "SGA Courier Services",
+      "role": ".NET 개발자",
+      "start_date": "2019.01",
+      "status": "재직중",
+      "details": "Entity Framework 기반 모델링 및 ASP.NET Web API를 활용한 RESTful API 개발을 주도하고, CSS로 UX를 개선하여 클라이언트 CAD 도구의 사용성 점수를 38% 향상시킴."
+    },
+    {
+      "company": "PNG Financial Services Group",
+      "role": ".NET 개발자",
+      "start_date": "2016.01",
+      "status": "퇴사",
+      "end_date": "2018.12",
+      "details": "ASP.NET MVC, jQuery, HTML, CSS 기반 유지보수 프로젝트 20건을 완료하며 99% 고객 만족도를 달성함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "C#",
+    "ASP.NET MVC",
+    "Entity Framework",
+    "HTML/CSS",
+    "RESTful API"
+  ],
+  "others": [
+    "CAD 도구 UX 38% 개선 프로젝트 주도",
+    "유지보수 프로젝트 99% 고객 만족도 달성"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "차형준",
+    "birth": "19920312",
+    "gender": "남성",
+    "address": "서울특별시 강남구 논현동",
+    "phone": "010-7814-0889",
+    "current_salary": "5000",
+    "desired_salary": "6000"
+  },
+  "educations": [
+    {
+      "school": "홍익대학교",
+      "major": "시각디자인학과",
+      "degree": "학사",
+      "graduation": "2011.05"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Amphimia Global, Inc.",
+      "role": "웹 디자이너",
+      "start_date": "2014.06",
+      "status": "퇴사",
+      "end_date": "2017.07",
+      "details": "월 평균 5개 웹사이트 디자인을 주도하고, 맞춤형 그래픽 세트를 제작하여 99%의 고객 만족도를 달성함. UX 점수를 35% 향상시킴."
+    },
+    {
+      "company": "Taveo Group",
+      "role": "웹 디자이너",
+      "start_date": "2012.05",
+      "status": "퇴사",
+      "end_date": "2014.06",
+      "details": "전체 클라이언트 프로젝트의 95% 웹 디자인을 담당하며 고객 유지율을 18% 증가시키고, 신규 작업 리드 타임을 25% 단축함."
+    },
+    {
+      "company": "Freelance",
+      "role": "프리랜서 웹 디자이너",
+      "start_date": "2008.06",
+      "status": "퇴사",
+      "end_date": "2012.05",
+      "details": "이커머스 웹앱 및 모바일 사이트를 개발하고, 지역 인쇄소용 맞춤형 그래픽을 디자인함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Adobe Creative Suite",
+    "HTML5/CSS3",
+    "JavaScript/jQuery",
+    "UX/UI 디자인",
+    "반응형 웹 디자인"
+  ],
+  "others": [
+    "AWWWARDS 2015 수상 (Ragna Loberg 사이트 디자인)",
+    "Adobe Certified Expert (ACE)"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "김가은",
+    "birth": "19950320",
+    "gender": "여성",
+    "address": "서울특별시 종로구 청운동",
+    "phone": "010-5550-0401",
+    "current_salary": "4500",
+    "desired_salary": "5500"
+  },
+  "educations": [
+    {
+      "school": "서울여자대학교",
+      "major": "시각디자인학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Expedia Group",
+      "role": "웹 디자이너",
+      "start_date": "2017.01",
+      "status": "퇴사",
+      "end_date": "2018.05",
+      "details": "사이트 설계·기능·네비게이션 기획 및 와이어프레임·프로토타입 구축을 통해 반응형 디지털 제품을 완성함. UX 점수를 38% 향상시키고, 프로젝트의 컬러·타이포그래피·브랜딩을 총괄함."
+    },
+    {
+      "company": "FarePortal",
+      "role": "웹 디자이너",
+      "start_date": "2016.02",
+      "status": "퇴사",
+      "end_date": "2016.12",
+      "details": "데이터 기반 반응형 이메일 템플릿을 설계·개발하고, 멀티 디바이스 렌더링 QA를 수행해 고객 유지율을 17% 향상시킴. WordPress CMS를 이용해 랜딩 페이지를 제작함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "WordPress",
+    "Drupal",
+    "HTML5",
+    "CSS3",
+    "jQuery"
+  ],
+  "others": [
+    "UX 점수 38% 향상",
+    "고객 유지율 17% 향상"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.0,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.6,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "김가람",
+    "birth": "19850912",
+    "gender": "남성",
+    "address": "서울특별시 중구 필동",
+    "phone": "010-2222-9999",
+    "current_salary": "4800",
+    "desired_salary": "5800"
+  },
+  "educations": [
+    {
+      "school": "동국대학교",
+      "major": "디지털미디어디자인학과",
+      "degree": "학사",
+      "graduation": "2008.05"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Website Design Company",
+      "role": "웹 디자이너",
+      "start_date": "2008.06",
+      "status": "재직중",
+      "details": "XHTML/CSS/JavaScript 기반 웹사이트 기획·코딩 요구사항을 정의하고, 전자상거래 기능 및 스크립트 구현을 수행함. Google Ads 및 SEO 최적화를 통해 유기적 트래픽을 증대시키고, 다중 해상도 브라우저에서 기능 검증을 진행함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "HTML5/CSS3",
+    "JavaScript",
+    "SEO 최적화",
+    "Photoshop",
+    "e커머스 구현"
+  ],
+  "others": [
+    "Reference 요청 시 제공 가능"
+  ],
+  "scores": {
+    "TeamCulture": 4.1,
+    "Evaluation": 4.0,
+    "PayLevel": 3.7,
+    "VisionDirection": 4.0,
+    "Welfare": 3.6,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "김찬산",
+    "birth": "19920414",
+    "gender": "남성",
+    "address": "서울특별시 마포구 상수동",
+    "phone": "010-9999-9999",
+    "current_salary": "4500",
+    "desired_salary": "5500"
+  },
+  "educations": [
+    {
+      "school": "서울예술대학교",
+      "major": "웹디자인학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Trendsetterz IT Services",
+      "role": "웹 디자이너",
+      "start_date": "2017.08",
+      "status": "재직중",
+      "details": "사이트 디버깅과 클라이언트 커뮤니케이션을 통해 반응형 웹사이트를 설계·구현함."
+    },
+    {
+      "company": "BNS Technology",
+      "role": "웹 디자이너",
+      "start_date": "2015.03",
+      "status": "퇴사",
+      "end_date": "2016.03",
+      "details": "PSD를 HTML/Bootstrap으로 전환하고, 웹사이트 디버깅 및 반응형 설계를 수행하며, 클라이언트와 소통해 요구사항을 반영함."
+    },
+    {
+      "company": "Touching Heights Business Solutions LLP",
+      "role": "웹 디자이너",
+      "start_date": "2016.03",
+      "status": "퇴사",
+      "end_date": "2017.08",
+      "details": "맞춤형 웹페이지 디자인 및 데모 페이지 제작 후 승인된 디자인을 실제 사이트로 구현하고, 오류 수정 및 반응형 작업을 수행함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "HTML5/CSS3",
+    "Bootstrap",
+    "JavaScript",
+    "Responsive Design",
+    "WordPress"
+  ],
+  "others": [
+    "클라이언트 요청 기반 맞춤형 웹페이지 구현 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.1,
+    "Evaluation": 4.0,
+    "PayLevel": 3.7,
+    "VisionDirection": 4.0,
+    "Welfare": 3.6,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "이준호",
+    "birth": "19920320",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-7994-5687",
+    "current_salary": "5000",
+    "desired_salary": "6000"
+  },
+  "educations": [
+    {
+      "school": "서강대학교",
+      "major": "웹디자인 및 개발",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "WorldPress Group",
+      "role": "어소시에이트 웹 디자이너",
+      "start_date": "2015.01",
+      "status": "퇴사",
+      "end_date": "2015.12",
+      "details": "크리에이티브 팀과 협업해 반응형 WordPress 테마와 랜딩 페이지 기능을 구현하고, SEO 최적화 디자인으로 트래픽 300% 증가를 달성함."
+    },
+    {
+      "company": "NanTech",
+      "role": "웹 디자이너",
+      "start_date": "2016.01",
+      "status": "퇴사",
+      "end_date": "2018.12",
+      "details": "마케팅 팀과 협력해 10개 이상의 프로젝트에서 와이어프레임과 모형을 제작하고, SaaS 웹사이트를 재설계해 CAC를 50% 절감하고 ARR을 20% 증가시킴."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "HTML5/CSS3",
+    "JavaScript",
+    "Responsive Design",
+    "Adobe XD",
+    "SEO 최적화"
+  ],
+  "others": [
+    "SaaS 웹사이트 CAC 50% 감소, ARR 20% 증가",
+    "SEO 최적화 설계로 트래픽 300% 증가"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "차형석",
+    "birth": "19900315",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-7814-0889",
+    "current_salary": "5000",
+    "desired_salary": "6000"
+  },
+  "educations": [
+    {
+      "school": "한성대학교",
+      "major": "웹디자인학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Amphimia Global, Inc.",
+      "role": "웹 디자이너",
+      "start_date": "2014.06",
+      "status": "퇴사",
+      "end_date": "2017.07",
+      "details": "월 평균 5개 웹사이트 디자인을 주도하고, 맞춤형 그래픽 세트 제작으로 99% 고객 만족도를 달성함. UX 점수를 35% 향상시키고 고객 유지율을 18% 끌어올림."
+    },
+    {
+      "company": "Taveo Group",
+      "role": "웹 디자이너",
+      "start_date": "2012.05",
+      "status": "퇴사",
+      "end_date": "2014.06",
+      "details": "전체 클라이언트 프로젝트의 95% 웹 디자인을 담당하며 신규 작업 리드 타임을 25% 단축하고 고객 유지율을 18% 증가시킴."
+    },
+    {
+      "company": "프리랜서",
+      "role": "프리랜서 웹 디자이너",
+      "start_date": "2008.06",
+      "status": "퇴사",
+      "end_date": "2012.05",
+      "details": "야구 모자 판매용 이커머스 웹앱과 온라인 비디오 게임용 모바일 사이트를 개발하고, 지역 인쇄소용 맞춤형 그래픽을 디자인함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Adobe Creative Suite",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "jQuery"
+  ],
+  "others": [
+    "UX 점수 35% 향상",
+    "고객 유지율 18% 증가",
+    "AWWWARDS 2015 수상"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "차형준",
+    "birth": "19900315",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-7814-8889",
+    "current_salary": "5000",
+    "desired_salary": "6000"
+  },
+  "educations": [
+    {
+      "school": "중앙대학교",
+      "major": "웹디자인학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Amphimia Global, Inc.",
+      "role": "웹 디자이너",
+      "start_date": "2014.06",
+      "status": "퇴사",
+      "end_date": "2017.07",
+      "details": "월 평균 5개 웹사이트를 디자인하며 99% 고객 만족도를 달성하고, 프로젝트를 평균 목표보다 5% 빠르게 완료함. UX 점수를 35% 향상시킴."
+    },
+    {
+      "company": "Taveo Group",
+      "role": "웹 디자이너",
+      "start_date": "2012.05",
+      "status": "퇴사",
+      "end_date": "2014.06",
+      "details": "전체 클라이언트 프로젝트의 95% 웹 디자인을 담당하며 고객 유지율을 18% 증가시키고 신규 작업 리드 타임을 25% 단축함."
+    },
+    {
+      "company": "프리랜서",
+      "role": "웹 디자이너",
+      "start_date": "2008.06",
+      "status": "퇴사",
+      "end_date": "2012.05",
+      "details": "야구 모자 이커머스 웹앱과 무료 온라인 게임용 모바일 사이트를 제작하고, 지역 인쇄소용 맞춤형 그래픽을 디자인함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Adobe Creative Suite",
+    "HTML5/CSS3",
+    "JavaScript/jQuery",
+    "UX/UI 디자인",
+    "반응형 웹 디자인"
+  ],
+  "others": [
+    "UX 점수 35% 향상",
+    "고객 유지율 18% 증가",
+    "AWWWARDS 2015 수상"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "이예원",
+    "birth": "19770310",
+    "gender": "여성",
+    "address": "서울특별시 종로구 가회동",
+    "phone": "010-3794-4745",
+    "current_salary": "4800",
+    "desired_salary": "5800"
+  },
+  "educations": [
+    {
+      "school": "연세대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Self-Employment",
+      "role": "프리랜서 웹 디자이너",
+      "start_date": "2010.01",
+      "status": "재직중",
+      "details": "도메인·호스팅 설정부터 WordPress·JavaScript·PHP·HTML·CSS 기반 사이트 구축 및 유지보수, SEO 최적화와 Google Analytics 분석을 수행함."
+    },
+    {
+      "company": "USAA Insurance Company",
+      "role": "I/T 클레임 시스템 프로그래머",
+      "start_date": "1995.07",
+      "status": "퇴사",
+      "end_date": "2002.05",
+      "details": "P&C 클레임 시스템 유지보수 및 유틸리티 개발을 통해 보험 청구 처리 효율을 개선하고, 프로젝트 리더로 요구사항 분석과 품질 보증을 담당함."
+    },
+    {
+      "company": "University of Texas at San Antonio",
+      "role": "컴퓨터 실습실 조교",
+      "start_date": "1990.01",
+      "status": "퇴사",
+      "end_date": "1995.05",
+      "details": "학생·교수 대상 기술 지원 및 실습환경 구축을 지원하고, 실습 자료와 문서를 작성·배포함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "HTML5/CSS3",
+    "JavaScript",
+    "WordPress",
+    "SEO 최적화",
+    "Photoshop"
+  ],
+  "others": [
+    "Worldwide Marriage Encounter 팀 발표자",
+    "St. Gregory the Great Parish 자원봉사자"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.0,
+    "PayLevel": 3.5,
+    "VisionDirection": 4.0,
+    "Welfare": 3.5,
+    "Workload": 3.0
+  }
+},
+{
+  "basic_info": {
+    "name": "신찬호",
+    "birth": "19881103",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-9987-1234",
+    "current_salary": "5000",
+    "desired_salary": "6000"
+  },
+  "educations": [
+    {
+      "school": "한양대학교",
+      "major": "기계공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Infosys Limited",
+      "role": "Sr. Systems Engineer",
+      "start_date": "2010.08",
+      "status": "재직중",
+      "details": "프로젝트 계획을 예산 및 일정에 맞춰 실행하고, 온·오프쇼어 팀을 관리하며 기술 제공을 모니터링함. 클라이언트 요구사항 분석 및 서비스 요청을 전담하여 SLA를 준수하고 신속한 문제 해결을 수행함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "",
+      "name": "Data Structures and Algorithm Development",
+      "number": ""
+    }
+  ],
+  "skills": [
+    "Java",
+    "JSP",
+    "JavaScript",
+    "jQuery",
+    "Photoshop"
+  ],
+  "others": [
+    "다국어 협업 경험 (영어, 타밀어, 힌디어, 말라얄람어)"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.0,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.5,
+    "Workload": 3.4
+  }
+},
+{
+  "basic_info": {
+    "name": "김성훈",
+    "birth": "19850315",
+    "gender": "남성",
+    "address": "서울특별시 중구 명동",
+    "phone": "010-3708-8826",
+    "current_salary": "8500",
+    "desired_salary": "9500"
+  },
+  "educations": [
+    {
+      "school": "홍익대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Baumbach, Wunsch and Yundt",
+      "role": "SAP 전문가",
+      "start_date": "2020.06",
+      "status": "재직중",
+      "details": "HANA 2.0 Web IDE와 Cloud Foundry 환경에서 CDS 뷰, Synonyms, Stored Procedures 등을 설계·개발하고 SLT/SDI를 이용한 데이터 복제 및 데이터 아카이빙을 수행함."
+    },
+    {
+      "company": "Johnston Group",
+      "role": "SAP S/4HANA FICO 전문가",
+      "start_date": "2014.10",
+      "status": "퇴사",
+      "end_date": "2020.02",
+      "details": "FICO 도메인 통합 및 마이그레이션 프로젝트를 수행하고, 성능 튜닝·용량 계획·자동화 테스트 전략 수립을 통해 시스템 안정성을 개선함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2019",
+      "name": "SAP Certified Application Associate – SAP S/4HANA",
+      "number": "C_S4FC_1909"
+    }
+  ],
+  "skills": [
+    "SAP HANA 모델링",
+    "SLT/SDI 데이터 복제",
+    "CDS Views 개발",
+    "성능 튜닝",
+    "데이터 아카이빙"
+  ],
+  "others": [
+    "Agile 환경에서 Jira 기반 프로젝트 관리 경험",
+    "재무 도메인 통합 솔루션 컨설팅 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.1,
+    "Evaluation": 4.0,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "아드리안 페날로사",
+    "birth": "19800101",
+    "gender": "남성",
+    "address": "서울특별시 송파구 오금동",
+    "phone": "010-2044-4503",
+    "current_salary": "7000",
+    "desired_salary": "8000"
+  },
+  "educations": [
+    {
+      "school": "연세대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "VSA Technology",
+      "role": "SAP 지원 엔지니어",
+      "start_date": "2005.08",
+      "status": "재직중",
+      "details": "SAP STP·R2R·WM 모듈 운영 지원 및 장애 해결을 수행하고, 지역 및 글로벌 프로젝트에 참여하여 요구사항 분석과 시스템 안정화를 주도함."
+    },
+    {
+      "company": "Innovative Solutions",
+      "role": "SAP 지원 엔지니어",
+      "start_date": "2000.05",
+      "status": "퇴사",
+      "end_date": "2005.07",
+      "details": "SAP SD·MM·COPA 등 비즈니스 요구사항에 맞춘 솔루션을 설계·구현하고, 아웃소싱 리스크 관리 및 애플리케이션 전환 프로젝트를 성공적으로 수행함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "SAP STP",
+    "R2R",
+    "WM",
+    "SD",
+    "MM"
+  ],
+  "others": [],
+  "scores": {
+    "TeamCulture": 4.1,
+    "Evaluation": 4.0,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "김태현",
+    "birth": "19850715",
+    "gender": "남성",
+    "address": "서울특별시 강남구 논현동",
+    "phone": "010-9222-2191",
+    "current_salary": "8000",
+    "desired_salary": "9000"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Avigilon",
+      "role": "SAP BI 리포트 개발자",
+      "start_date": "2014.10",
+      "status": "재직중",
+      "details": "SAP BW 모델·데이터 플로우·쿼리 개발 및 HANA 계산 뷰·스토어드 프로시저 설계. Webi·Design Studio를 활용한 보고서·대시보드 개발과 자동화 스크립트 구현으로 데이터 품질을 보장함."
+    },
+    {
+      "company": "VSA Technology",
+      "role": "SAP BI/BW 개발자",
+      "start_date": "2012.03",
+      "status": "퇴사",
+      "end_date": "2014.09",
+      "details": "InfoObjects·InfoCubes·DSO·프로세스 체인 설계 및 성능 튜닝 수행. WebI·Analysis for OLAP 교육 지원과 SAP query 개발로 사용자 활용도를 높임."
+    },
+    {
+      "company": "Houston BI Solutions",
+      "role": "SAP BI-BW 개발자",
+      "start_date": "2005.07",
+      "status": "퇴사",
+      "end_date": "2011.11",
+      "details": "BW 데이터 객체 구성 및 ETL 프로세스 설계(ECC/CRM/SRM). BeX Query/Report Designer를 이용한 복잡한 BI 보고서 개발과 운영·릴리스 관리 지원을 수행함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "SAP BW 모델링",
+    "HANA 계산 뷰 개발",
+    "Webi·Design Studio 보고서",
+    "ETL 프로세스 설계",
+    "성능 튜닝"
+  ],
+  "others": [
+    "Jira 기반 애자일 프로젝트 관리 경험",
+    "팀 멘토링 및 지식 전파 활동 수행"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "김로이",
+    "birth": "19890114",
+    "gender": "남성",
+    "address": "서울특별시 송파구 잠실동",
+    "phone": "010-7760-6114",
+    "current_salary": "8200",
+    "desired_salary": "9200"
+  },
+  "educations": [
+    {
+      "school": "성균관대학교",
+      "major": "컴퓨터응용학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "한양대학교",
+      "major": "정보보호학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "글로벌 BI 컨설팅",
+      "role": "SAP HANA BW 컨설턴트",
+      "start_date": "2019.01",
+      "status": "재직중",
+      "details": "LSA++ 아키텍처 기반 ADSO·Open ODS 뷰 모델링 및 ODP 연계를 수행하고, HANA 계산 뷰·의사결정 테이블을 설계하여 실시간 분석 환경을 구현함."
+    },
+    {
+      "company": "인사이트 데이터 솔루션",
+      "role": "SAP BI 개발자",
+      "start_date": "2014.10",
+      "status": "퇴사",
+      "end_date": "2018.11",
+      "details": "SAP BW on HANA와 BODS 4.2를 활용한 ETL 파이프라인을 구축하고, Design Studio·Lumira 보고서를 개발하여 데이터 시각화 및 대시보드 자동화를 주도함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2021",
+      "name": "SAP Certified Application Associate – SAP BW/4HANA",
+      "number": "C_BW4H_2021"
+    }
+  ],
+  "skills": [
+    "HANA 계산 뷰 모델링",
+    "BW on HANA ADSO 설계",
+    "BODS ETL 개발",
+    "BEx Query Designer",
+    "Design Studio 보고서"
+  ],
+  "others": [
+    "Agile 스크럼 팀 협업 및 Jira 프로젝트 관리 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 4.0,
+    "VisionDirection": 4.2,
+    "Welfare": 3.8,
+    "Workload": 3.6
+  }
+},
+{
+  "basic_info": {
+    "name": "김기범",
+    "birth": "19890615",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-5550-0114",
+    "current_salary": "9000",
+    "desired_salary": "10000"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터응용학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "General Motors",
+      "role": "SAP 개발팀 리드",
+      "start_date": "2014.10",
+      "status": "재직중",
+      "details": "Change/Incident 관리, 예산·자산 관리 및 HRMS·QEHS·PMS 등 신규 시스템 교육을 주도하며 팀 멘토링과 운영 효율화 업무를 수행함."
+    },
+    {
+      "company": "Deloitte",
+      "role": "SAP ABAP 개발자",
+      "start_date": "2010.01",
+      "status": "퇴사",
+      "end_date": "2014.05",
+      "details": "사내 SAP 사용자 지원을 위한 ABAP 개발 및 기존 애플리케이션 수정·유지보수, IoT 프로젝트 기술 지원과 인트라넷·웹 콘텐츠 관리 업무를 수행함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "SAP ABAP",
+    "C",
+    "SQL",
+    ".NET",
+    "HTML"
+  ],
+  "others": [
+    "Star Performer FY 2018 수상 (GM)",
+    "Best Guiding & Coaching Appreciation 수상 (Deloitte)"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.2,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 3.6
+  }
+},
+{
+  "basic_info": {
+    "name": "김기범",
+    "birth": "19890615",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-5550-0114",
+    "current_salary": "9000",
+    "desired_salary": "10000"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터응용학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "General Motors",
+      "role": "SAP 개발팀 리드",
+      "start_date": "2014.10",
+      "status": "재직중",
+      "details": "Change/Incident 관리, 예산·자산 관리 및 HRMS·QEHS·PMS 등 신규 시스템 교육을 주도하며 팀 멘토링과 운영 효율화 업무를 수행함."
+    },
+    {
+      "company": "Deloitte",
+      "role": "SAP ABAP 개발자",
+      "start_date": "2010.01",
+      "status": "퇴사",
+      "end_date": "2014.05",
+      "details": "사내 SAP 사용자 지원을 위한 ABAP 개발 및 기존 애플리케이션 수정·유지보수, IoT 프로젝트 기술 지원과 인트라넷·웹 콘텐츠 관리 업무를 수행함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "SAP ABAP",
+    "C",
+    "SQL",
+    ".NET",
+    "HTML"
+  ],
+  "others": [
+    "Star Performer FY 2018 수상 (GM)",
+    "Best Guiding & Coaching Appreciation 수상 (Deloitte)"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.2,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 3.6
+  }
+},
+{
+  "basic_info": {
+    "name": "박안일",
+    "birth": "19880123",
+    "gender": "남성",
+    "address": "부산광역시 해운대구 재송동",
+    "phone": "010-7787-9421",
+    "current_salary": "5000",
+    "desired_salary": "6000"
+  },
+  "educations": [
+    {
+      "school": "연세대학교",
+      "major": "경영학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "LG전자",
+      "role": "영업·마케팅 담당",
+      "start_date": "2015.01",
+      "status": "퇴사",
+      "end_date": "2019.04",
+      "details": "신규 거래선 발굴 및 기존 고객 관리를 통해 매출 성장에 기여하고, 시장 분석 보고서를 작성하여 영업 전략 수립을 지원함."
+    },
+    {
+      "company": "ATOS SAP 교육센터",
+      "role": "SAP SD 컨설턴트 교육 수료",
+      "start_date": "2019.05",
+      "status": "퇴사",
+      "end_date": "2019.08",
+      "details": "ECC 6.0 EHP6 기반 Sales & Distribution 모듈 심화 교육을 수료하고, 견적·출하·청구 프로세스 및 통합 시나리오 설계 실습을 수행함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2019",
+      "name": "SAP Certified Associate – Sales & Distribution",
+      "number": "0019295272"
+    }
+  ],
+  "skills": [
+    "SAP SD",
+    "MS Office/Excel",
+    "MIS 보고",
+    "커뮤니케이션",
+    "문제 해결"
+  ],
+  "others": [
+    "Star Performer FY 2018 수상",
+    "Deloitte Best Coaching Appreciation 수상"
+  ],
+  "scores": {
+    "TeamCulture": 4.1,
+    "Evaluation": 4.0,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "박나비",
+    "birth": "19800312",
+    "gender": "여성",
+    "address": "대구광역시 수성구 범어동",
+    "phone": "010-8846-0552",
+    "current_salary": "6000",
+    "desired_salary": "7000"
+  },
+  "educations": [
+    {
+      "school": "한양대학교",
+      "major": "경영학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Wipro",
+      "role": "SAP FI/CO 컨설턴트",
+      "start_date": "2013.01",
+      "status": "재직중",
+      "details": "British American Tobacco 프로젝트에서 SAP FI/CO 모듈 지원 업무를 수행하며, GL 차트 오브 계정 설정, AR/AP 프로세스 구성, 자동 대금 지급 프로그램 및 은행 대조 기능을 지원함. ASAP 방법론에 따라 비즈니스 프로세스를 매핑·문서화하고, 고객 핵심팀과 협업하여 요구사항을 분석·구현함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "SAP FI/CO",
+    "ASAP Methodology",
+    "GL 구성",
+    "AR/AP 설정",
+    "자동 지급 프로그램"
+  ],
+  "others": [],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.0,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.1,
+    "Welfare": 3.6,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "다이애나 다와",
+    "birth": "19901003",
+    "gender": "여성",
+    "address": "부산광역시 해운대구 우동",
+    "phone": "044-412-2020",
+    "current_salary": "7000",
+    "desired_salary": "8500"
+  },
+  "educations": [
+    {
+      "school": "서울대학교 (석사)",
+      "major": "컴퓨터공학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Future Energy Ltd.",
+      "role": "Data Scientist",
+      "start_date": "2018.06",
+      "status": "재직중",
+      "details": "에너지 산업을 위한 예측 모델과 이상 탐지 알고리즘을 개발하여 장비 장애 예측 및 유지보수 최적화에 기여함. 경영진과 협업해 데이터 기반 의사결정 플랜을 수립하고, 매출 손실을 15% 절감."
+    },
+    {
+      "company": "THETA Financial Group",
+      "role": "Data Analyst",
+      "start_date": "2016.01",
+      "status": "퇴사",
+      "end_date": "2018.05",
+      "details": "정교한 통계 모델과 대시보드를 제작하여 글로벌 모니터링 리포트 성능을 개선하고, 주요 이해관계자에게 인사이트를 제공함."
+    },
+    {
+      "company": "Maxicare Healthcare",
+      "role": "Business Analyst / Statistician",
+      "start_date": "2013.02",
+      "status": "퇴사",
+      "end_date": "2015.12",
+      "details": "KPI 설계 및 보고 체계를 구축해 서비스 센터 운영 효율을 모니터링하고, 데이터 분석 결과를 기반으로 프로세스 개선을 주도함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2019",
+      "name": "Applied Data Analytics Certification",
+      "number": "ADA-2019-001"
+    },
+    {
+      "date": "2018",
+      "name": "Cloudera Data Science Essentials",
+      "number": "CDSE-2018-002"
+    },
+    {
+      "date": "2018",
+      "name": "High Performance Statistical Computing with R",
+      "number": "HPSC-2018-003"
+    }
+  ],
+  "skills": [
+    "Python",
+    "R",
+    "SQL",
+    "Machine Learning",
+    "Data Visualization"
+  ],
+  "others": [
+    "Applied Data Analytics Certification 수료",
+    "Cloudera Data Science Essentials 수료",
+    "R 고성능 통계 컴퓨팅 수료"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 3.7
+  }
+},
+{
+  "basic_info": {
+    "name": "최서연",
+    "birth": "19900115",
+    "gender": "여성",
+    "address": "부산광역시 해운대구 우동",
+    "phone": "010-4123-2020",
+    "current_salary": "6000",
+    "desired_salary": "8000"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "통계학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Microsoft",
+      "role": "Data Scientist",
+      "start_date": "2015.09",
+      "status": "재직중",
+      "details": "주가와 산업 트렌드 간 회귀 분석을 수행해 예측 정확도를 15% 향상시키고, 웹 스크래핑 기법으로 경쟁사 데이터를 수집·정제했으며, 데이터 웨어하우징 및 스트리밍 최적화로 업무 효율성을 크게 개선함."
+    },
+    {
+      "company": "Hewlett-Packard",
+      "role": "Data Scientist",
+      "start_date": "2013.06",
+      "status": "퇴사",
+      "end_date": "2015.08",
+      "details": "데이터 마이닝 프로세스를 개선하여 고객 데이터 분석 소요 시간을 20% 단축하고, 머신러닝 기법을 활용한 예측 분석으로 신제품 판매량을 95% 정확도로 예측함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Data Mining",
+    "Predictive Modeling",
+    "Data Visualization"
+  ],
+  "others": [],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.2,
+    "Welfare": 4.0,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "황나타샤",
+    "birth": "19960412",
+    "gender": "여성",
+    "address": "경기도 성남시 분당구 야탑동",
+    "phone": "010-9887-0120",
+    "current_salary": "3000",
+    "desired_salary": "4000"
+  },
+  "educations": [
+    {
+      "school": "연세대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Boyle Ltd",
+      "role": "데이터 사이언스 인턴",
+      "start_date": "2017.09",
+      "status": "재직중",
+      "details": "Tableau·D3.js 대시보드를 설계·개발하여 실시간 데이터 시각화를 구현하고, 전략적 마케팅 캠페인으로 월 300천 달러 이상 수익을 창출함."
+    },
+    {
+      "company": "Koepp Inc",
+      "role": "데이터 사이언스 인턴",
+      "start_date": "2015.06",
+      "status": "퇴사",
+      "end_date": "2016.06",
+      "details": "AQT·IBM DB2 기반 데이터 정제 및 전처리를 수행하고, 카·주택 보험 고객 이탈 예측 모델 3종을 개발하여 고객 이탈률을 효과적으로 예측함."
+    },
+    {
+      "company": "Rolfson",
+      "role": "데이터 사이언스 인턴",
+      "start_date": "2016.07",
+      "status": "퇴사",
+      "end_date": "2017.08",
+      "details": "SAS Enterprise Miner로 K-평균 클러스터링을 수행해 4개 고객군을 분류하고, 웹 애플리케이션을 구축해 사용자 행동 예측 모델을 300개 도시팀에 제공함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Tableau",
+    "D3.js",
+    "SQL"
+  ],
+  "others": [
+    "여섯 개국 이상 장기 출장·교환학습 경험",
+    "스트레스 상황에서도 침착함 유지"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.0,
+    "PayLevel": 3.5,
+    "VisionDirection": 4.1,
+    "Welfare": 3.8,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "서유원",
+    "birth": "",
+    "gender": "",
+    "address": "대전광역시 유성구 상대동",
+    "phone": "010-2174-1792",
+    "current_salary": "6000",
+    "desired_salary": "7500"
+  },
+  "educations": [
+    {
+      "school": "성균관대학교",
+      "major": "통계학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "경희대학교",
+      "major": "통계학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "마스터카드 코리아",
+      "role": "데이터 사이언티스트 인턴",
+      "start_date": "2013.08",
+      "status": "퇴사",
+      "end_date": "2015.05",
+      "details": "트위터 S-H-ESD 알고리즘 기반 이상치 탐지 시스템을 설계하고, Impala·SQL과 Python MapReduce 파이프라인을 통해 대용량 시계열 데이터를 자동 분석함. R Shiny 대시보드를 구축해 실시간 모니터링 및 추가 요구사항 대응을 지원함."
+    },
+    {
+      "company": "앰버허스부시 인베브 코리아",
+      "role": "애널리틱스 인턴",
+      "start_date": "2014.05",
+      "status": "퇴사",
+      "end_date": "2015.05",
+      "details": "Foursquare·Yelp 데이터를 정제하고 지오코딩을 적용해 고객 프로파일링 파이프라인을 구축함. 아시아권 언어 처리 과제를 해결하고, R 기반 워크플로우를 파이프라인화하여 글로벌 프로젝트로 확산함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "R",
+    "Python",
+    "SQL",
+    "Hadoop",
+    "Machine Learning"
+  ],
+  "others": [
+    "Cloudera Spark 교육 수료",
+    "추가 요구사항에 대한 신속 대응 능력"
+  ],
+  "scores": {
+    "TeamCulture": 4.1,
+    "Evaluation": 4.0,
+    "PayLevel": 3.7,
+    "VisionDirection": 4.0,
+    "Welfare": 3.6,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "박대성",
+    "birth": "19860512",
+    "gender": "남성",
+    "address": "서울특별시 강남구 대치동",
+    "phone": "010-6294-2948",
+    "current_salary": "9000",
+    "desired_salary": "11000"
+  },
+  "educations": [
+    {
+      "school": "베이패스대학교",
+      "major": "데이터사이언스학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "베커대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "다나허",
+      "role": "수석 데이터 사이언티스트",
+      "start_date": "2017.04",
+      "status": "퇴사",
+      "end_date": "2021.03",
+      "details": "각 프로젝트에 대한 비전, 프레임워크 및 접근 방식을 개발하고 계획했습니다. 프로젝트 목표로 마일스톤을 설정하고 방향을 제시하며 팀이 프로젝트를 진행하기 위해 기대되는 사항을 이해할 수 있도록 했습니다. 광범위한 프로세스 및 기술 개발과 구현 기술을 구축하고 유지했습니다. 새로운 기술이나 기존 기술의 개발, 최적화 및 마이그레이션을 주도하고 지원했습니다."
+    },
+    {
+      "company": "아비오메드",
+      "role": "데이터 사이언티스트",
+      "start_date": "2014.09",
+      "status": "퇴사",
+      "end_date": "2017.02",
+      "details": "시계열 데이터에 대한 새로운 통계 및 생리학적 특성을 설계했습니다. 오프라인(in silico) 및 라이브(in vitro, in vivo) 환경에서 알고리즘 성능을 평가했습니다. 알고리즘을 임베디드 하드웨어에 구현하기 위해 소프트웨어 팀과 협업했습니다. 알고리즘 설계 사양 및 성능 평가에 대한 간결한 설명을 유지했습니다."
+    },
+    {
+      "company": "델(DELL)",
+      "role": "테크니컬 데이터 사이언티스트",
+      "start_date": "2013.01",
+      "status": "퇴사",
+      "end_date": "2014.08",
+      "details": "SaaS 플랫폼에서 혁신적인 AIOps 솔루션을 제공하기 위한 사고 리더십을 제공했습니다. 고품질의 복잡한 소프트웨어 시스템의 계획, 설계 및 아키텍처에 전략적 방향을 제공했습니다. 자율 데이터 센터 관리 분야에서 혁신을 이루기 위해 고객 및 제품 전문가와 협력했습니다."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "20190601",
+      "name": "Microsoft Professional Program Certificate",
+      "number": "MS-PDS-2019-0601"
+    },
+    {
+      "date": "20180315",
+      "name": "Certification of Professional Data Engineer",
+      "number": "CPDE-2018-0315"
+    }
+  ],
+  "skills": ["R Studio", "Python", "Cloudera", "데이터 시각화", "모델링", "머신러닝", "통계", "문제 해결", "비판적 사고", "창의적 사고", "의사소통", "조직력", "시간 관리"],
+  "others": ["건강상태: 양호", "주요 학회 참석: 머신러닝 컨퍼런스(2019), 오픈 데이터 사이언스 컨퍼런스(2017)"],
+  "scores": {
+    "TeamCulture": 4.5,
+    "Evaluation": 4.6,
+    "PayLevel": 4.3,
+    "VisionDirection": 4.7,
+    "Welfare": 4.0,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "정도훈",
+    "birth": "19810515",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-8965-2315",
+    "current_salary": "8500",
+    "desired_salary": "9500"
+  },
+  "educations": [
+    {
+      "school": "런던과학대학교",
+      "major": "커뮤니케이션학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "오픈 시스템 테크놀로지",
+      "role": "데이터 사이언티스트",
+      "start_date": "2013.04",
+      "status": "재직중",
+      "details": "데이터 세트를 분석하고 회사가 결과를 기반으로 의사결정을 내리도록 지원했습니다. 영업 및 마케팅 전문가와 협력하여 사려 깊은 조언자 역할을 수행했습니다. 알고리즘 및 프로그래밍 도구를 활용하여 유용한 예측 모델을 구축했습니다. 탐색적 데이터 분석을 수행하고 주목할 만한 관계를 발견했습니다."
+    },
+    {
+      "company": "맥스웰 리서치 그룹",
+      "role": "데이터 사이언티스트",
+      "start_date": "2008.11",
+      "status": "퇴사",
+      "end_date": "2013.03",
+      "details": "회사의 요구 사항을 평가하고 데이터를 활용하여 문제를 해결했습니다. 비정형 데이터를 효과적으로 마이닝했습니다. 주요 트렌드를 지적하는 성장 포트폴리오를 작성하고 발표했습니다. 새로운 외부 데이터 소스를 식별했습니다. 복잡한 모델링을 이해하기 쉽고 관련성 있는 방식으로 설명했습니다."
+    }
+  ],
+  "licenses": [],
+  "skills": ["예측 모델링", "리더십 기술", "데이터 검증 및 유지 관리", "의사소통 능력"],
+  "others": ["건강상태: 양호"],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.4,
+    "PayLevel": 4.0,
+    "VisionDirection": 4.3,
+    "Welfare": 3.8,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "마루리",
+    "birth": "19920401",
+    "gender": "남성",
+    "address": "대전광역시 유성구",
+    "phone": "010-4567-8901",
+    "current_salary": "6500",
+    "desired_salary": "8000"
+  },
+  "educations": [
+    {
+      "school": "성균관대학교",
+      "major": "수학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "River Tech",
+      "role": "데이터 사이언티스트",
+      "start_date": "2019.07",
+      "status": "재직중",
+      "details": "k-최근접 이웃 기반 퍼지 매칭 알고리즘을 개발하여 비정형 중복 데이터를 식별하고, 실시간 추천 엔진을 설계·구현하여 영업 기회 순위를 매김. 100만+ 고객 대상으로 개인화 알고리즘을 고도화하고, 맞춤형 ETL 애플리케이션으로 MySQL 데이터베이스 전처리 파이프라인을 구축함."
+    },
+    {
+      "company": "Retail Ocean",
+      "role": "데이터 사이언티스트",
+      "start_date": "2015.08",
+      "status": "퇴사",
+      "end_date": "2019.07",
+      "details": "2억 건 이상의 트윗 데이터를 활용한 감성 분석 모델을 개발하여 마케팅 전략 수립에 기여. Python과 Spark를 사용해 대규모 데이터 수집·정제·분석 파이프라인을 구축하고, 머신러닝 기반 봇넷 탐지 도구를 개발함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Data Mining",
+    "Deep Learning",
+    "Data Visualization"
+  ],
+  "others": [
+    "Python 오픈소스 커뮤니티 활동 참여"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 2.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "박단빈",
+    "birth": "19950510",
+    "gender": "남성",
+    "address": "부산광역시 해운대구 우동",
+    "phone": "010-2345-6789",
+    "current_salary": "7000",
+    "desired_salary": "8500"
+  },
+  "educations": [
+    {
+      "school": "한양대학교",
+      "major": "데이터사이언스학과",
+      "degree": "학사",
+      "graduation": "재학"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "University of New York",
+      "role": "연구조교",
+      "start_date": "2019.09",
+      "status": "재직중",
+      "details": "C++ 기반 아두이노 프로젝트를 개발·주도하고, 200여 명의 학생 대상 C++ 강의를 진행했으며, 실험실 및 사무실 환경에서 데이터 조사·검증 업무를 수행함."
+    },
+    {
+      "company": "Bank of America",
+      "role": "수석 데이터 애널리스트·웹 개발자",
+      "start_date": "2018.09",
+      "status": "퇴사",
+      "end_date": "2019.10",
+      "details": "학생 및 발표자 인구통계 분석을 통해 UI 최적화를 수행하고, 배포 전 웹사이트 테스트·디버깅을 책임짐."
+    },
+    {
+      "company": "ExxonMobil",
+      "role": "데이터 애널리스트 인턴",
+      "start_date": "2017.06",
+      "status": "퇴사",
+      "end_date": "2017.08",
+      "details": "블록체인 기반 주차 가용성 시스템을 기획·분석하고, PHP·SQL·JavaScript로 관련 웹 도구를 개발했으며, 데이터 모델링 및 통계 분석을 통해 인사이트를 도출함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2019-07-19",
+      "name": "Data Science in Python",
+      "number": "11"
+    },
+    {
+      "date": "2019-05-13",
+      "name": "Llamasoft Data Management",
+      "number": "11"
+    }
+  ],
+  "skills": [
+    "Python",
+    "R",
+    "SQL",
+    "Machine Learning",
+    "Data Visualization"
+  ],
+  "others": [
+    "Dean's List Winter/Fall 2019 선정",
+    "Arduino 프로젝트 리더십 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 3.0,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.1,
+    "Welfare": 3.7,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "노보선",
+    "birth": "1980",
+    "gender": "남성",
+    "address": "경기도 성남시 분당구",
+    "phone": "010-1234-5678",
+    "current_salary": "6000",
+    "desired_salary": "9000"
+  },
+  "educations": [],
+  "experiences": [
+    {
+      "company": "Wells Fargo Bank",
+      "role": "수석 ETL 개발자",
+      "start_date": "2011.09",
+      "status": "퇴사",
+      "end_date": "2017.09",
+      "details": "Informatica PowerCenter를 활용해 비즈니스 요구사항 분석 및 ETL 솔루션 설계를 수행하였으며, 버전 9.1에서 9.5로 업그레이드하고 예외 처리·배치 모니터링을 구현함."
+    },
+    {
+      "company": "Vmware",
+      "role": "수석 ETL 개발자",
+      "start_date": "2006.05",
+      "status": "퇴사",
+      "end_date": "2011.08",
+      "details": "Flat 파일 및 관계형 데이터 소스에서 데이터 추출을 위한 소스·타겟 정의를 작성하고, 비즈니스 규칙을 적용하는 다양한 변환 로직을 개발하여 ETL 보고서 솔루션을 구축함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Informatica PowerCenter",
+    "SAP BODS/BODI",
+    "SSIS",
+    "Unix 스크립팅",
+    "Python"
+  ],
+  "others": [],
+  "scores": {
+    "TeamCulture": 4.1,
+    "Evaluation": 4.0,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 3.2
+  }
+},
+{
+  "basic_info": {
+    "name": "이유나",
+    "birth": "19850312",
+    "gender": "여성",
+    "address": "대구광역시 수성구 범어동",
+    "phone": "010-1734-1114",
+    "current_salary": "7000",
+    "desired_salary": "8500"
+  },
+  "educations": [
+    {
+      "school": "한국대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Chicago, IL",
+      "role": "ETL 어드민스트레이터",
+      "start_date": "2016.10",
+      "status": "재직중",
+      "details": "프로젝트 산출물(설계문서, 테스트플랜 등) 문서화를 총괄하고, 데이터 거버넌스 위원회의 요구사항에 맞춰 복잡한 ETL 패키지를 설계·개발하며 대시보드·리포트를 제공함."
+    },
+    {
+      "company": "University of Illinois at Urbana-Champaign (인턴)",
+      "role": "ETL 소프트웨어 엔지니어 인턴",
+      "start_date": "2007.07",
+      "status": "퇴사",
+      "end_date": "2011.07",
+      "details": "QA Deliverables 도구 모음(Quality Center, SharePoint 등)을 활용해 테스트 계획 수립 및 문서화, 애자일(Jira/Rally) 환경에서 협업하며 고품질 ETL 프로세스를 개발·운영함."
+    },
+    {
+      "company": "Detroit, MI (프리랜서)",
+      "role": "ETL 소프트웨어 엔지니어",
+      "start_date": "2012.01",
+      "status": "퇴사",
+      "end_date": "2016.07",
+      "details": "대규모 데이터 웨어하우스 환경에서 Pentaho·Informatica·DataStage 기반 ETL 패키지를 설계·개발했고, Python·Shell 스크립팅을 통해 자동화 및 성능 최적화를 수행함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Informatica PowerCenter",
+    "IBM DataStage",
+    "SSIS",
+    "Python 스크립팅",
+    "SQL Server"
+  ],
+  "others": [
+    "품질센터 우수사원상 수상",
+    "Agile 프로젝트 리드 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 3.0,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.6,
+    "Workload": 3.5
+  }
+},
+{
+  "basic_info": {
+    "name": "이준서",
+    "birth": "19900315",
+    "gender": "남성",
+    "address": "부산광역시 해운대구 우동",
+    "phone": "010-4567-6789",
+    "current_salary": "4000",
+    "desired_salary": "5000"
+  },
+  "educations": [
+    {
+      "school": "레주메워디드 대학교",
+      "major": "전자·컴퓨터공학",
+      "degree": "석사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Resume Worded",
+      "role": "주니어 ETL 개발자",
+      "start_date": "2015.01",
+      "status": "재직중",
+      "details": "Teradata와 SQL을 사용해 18개 데이터베이스 최적화, 일일 1,200건 오류 보고서 자동 생성, 레거시 시스템에서 4,000개 고객계정 데이터 흐름 마이그레이션을 통해 엔드유저 대기시간을 90% 단축함."
+    },
+    {
+      "company": "Growthsi",
+      "role": "SQL 데이터베이스 개발자(인턴)",
+      "start_date": "2010.06",
+      "status": "퇴사",
+      "end_date": "2014.12",
+      "details": "17명 개발팀과 협업해 SQL Server 7.0→2000 업그레이드용 저장 프로시저·트리거 재작성, 관계형 데이터베이스 설계로 고객지원 효율을 70% 향상시킴."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Teradata",
+    "Oracle Warehouse Builder",
+    "Informatica",
+    "Python",
+    "SQL"
+  ],
+  "others": [
+    "Data Warehousing and BI Certified",
+    "Certified Informatica Developer",
+    "Employee of the Year (2016, 2020)",
+    "Virtual Repair Kit for Servers 개발 프로젝트",
+    "Efficient SQL Tool 설계 프로젝트"
+  ],
+  "scores": {
+    "TeamCulture": 3.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.7,
+    "VisionDirection": 4.0,
+    "Welfare": 3.6,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "이태연",
+    "birth": "19890815",
+    "gender": "여성",
+    "address": "서울특별시 강남구 삼성동",
+    "phone": "010-1907-7130",
+    "current_salary": "8000",
+    "desired_salary": "9000"
+  },
+  "educations": [
+    {
+      "school": "뉴저지 공과대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "뉴저지 공과대학교",
+      "major": "정보기술학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Buytep",
+      "role": "ETL 개발자",
+      "start_date": "2018.01",
+      "status": "퇴사",
+      "end_date": "2021.12",
+      "details": "500개 스프레드시트 매출 계산 솔루션을 자동화해 월말 처리 시간을 2일에서 40분으로 단축하고, 50개 이상의 저장 프로시저·함수·트리거를 개발했으며, 15개 이상의 복잡한 Informatica 매핑을 설계·구현함."
+    },
+    {
+      "company": "Hereto",
+      "role": "ETL 개발자 겸 BI 분석가",
+      "start_date": "2014.06",
+      "status": "퇴사",
+      "end_date": "2018.01",
+      "details": "100개 이상의 기술·데이터 매핑 문서를 작성하고 500개 이상의 Hive 쿼리로 데이터를 처리해 큐브를 생성했으며, 7건의 기능 개선과 6건의 대형 프로젝트를 성공적으로 수행함."
+    },
+    {
+      "company": "Padben",
+      "role": "주니어 ETL 개발자",
+      "start_date": "2012.01",
+      "status": "퇴사",
+      "end_date": "2014.05",
+      "details": "Slowly Changing Dimensions Type1·2 로드 설계로 처리 속도를 20% 향상시키고, 표준화된 데이터 구조를 50개 통신사에 배포하여 데이터 정합성을 확보함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "SQL",
+    "Java",
+    "Unix",
+    "Data Warehouse",
+    "Informatica"
+  ],
+  "others": [
+    "Detail-Oriented: 모든 세부 사항을 꼼꼼히 검토하여 품질을 보장",
+    "Troubleshooting: 기술적·전략적 문제 해결 능력 보유",
+    "Analytical Skills: 데이터를 해석해 논리적 결론 도출",
+    "ETL 패키지 설계·QA 경험",
+    "데이터 모델 테스트 및 검증 전문성"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 3.1,
+    "PayLevel": 3.0,
+    "VisionDirection": 4.2,
+    "Welfare": 3.8,
+    "Workload": 4.0
+  }
+},
+{
+  "basic_info": {
+    "name": "김정현",
+    "birth": "19860115",
+    "gender": "남성",
+    "address": "경기도 성남시 분당구",
+    "phone": "010-4567-8901",
+    "current_salary": "9000",
+    "desired_salary": "10000"
+  },
+  "educations": [
+    {
+      "school": "연세대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Penn Mutual",
+      "role": "Senior ETL 개발자",
+      "start_date": "2014.01",
+      "status": "재직중",
+      "details": "SAP ABAP, IDoc, BAPI를 활용해 SD·MM·FI·CO 모듈의 데이터 소스를 추출 및 매핑하고, EWD로 로드하는 데이터 흐름 설계·구현을 담당했습니다. 데이터 매핑 문서화, 요구사항 분석, 아웃티지 처리 및 메타데이터 쿼리 운용을 수행하며, 개발에서 운영까지 Informatica 객체 마이그레이션과 리포지토리 백업·복원을 주도했습니다."
+    },
+    {
+      "company": "ABC Corp",
+      "role": "Senior ETL 개발자",
+      "start_date": "2008.01",
+      "status": "퇴사",
+      "end_date": "2014.01",
+      "details": "Oracle과 Netezza 기반 데이터웨어하우스 설계·구축을 수행했으며, 데이터 마트 모델링 전략을 수립하고 ETL 파이프라인을 구현했습니다. Oracle → Netezza 통합 전략을 선도하여 대용량 데이터 처리 성능을 최적화했습니다."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Informatica PowerCenter",
+    "SQL/PLSQL",
+    "Teradata",
+    "Oracle",
+    "Unix"
+  ],
+  "others": [
+    "금융 도메인 ETL 프로젝트 8년 이상 수행",
+    "데이터웨어하우스 설계·운영 전문성 보유"
+  ],
+  "scores": {
+    "TeamCulture": 3.2,
+    "Evaluation": 4.3,
+    "PayLevel": 4.0,
+    "VisionDirection": 4.1,
+    "Welfare": 3.7,
+    "Workload": 3.0
+  }
+},
+{
+  "basic_info": {
+    "name": "김도현",
+    "birth": "19790101",
+    "gender": "남성",
+    "address": "부산광역시 해운대구",
+    "phone": "010-4567-8901",
+    "current_salary": "12000",
+    "desired_salary": "13000"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "LPL Financials",
+      "role": "Senior ETL 개발자 II",
+      "start_date": "2010.03",
+      "status": "재직중",
+      "details": "금융 보고를 위한 데이터 가용성 유지를 위해 데이터 수집·배포 팀과 협업했으며, Exa-Data 플랫폼 도입을 주도했습니다. Informatica 매핑, SSRS 보고서 서버 관리, MDM 프로젝트 ETL 설계를 책임졌습니다."
+    },
+    {
+      "company": "ABC Corp",
+      "role": "ETL 개발자",
+      "start_date": "2005.01",
+      "status": "퇴사",
+      "end_date": "2010.03",
+      "details": "Informatica PowerCenter 기반 매핑과 워크플로우를 설계·개발하여 OLTP와 데이터웨어하우스 간 데이터 통합을 수행했습니다. 다양한 변환(lookup, joiner 등)을 활용해 대규모 데이터 처리 파이프라인을 구축했습니다."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Informatica PowerCenter",
+    "Oracle / SQL Server",
+    "PL/SQL",
+    "DB2",
+    "SSRS"
+  ],
+  "others": [
+    "금융 도메인 ETL 프로젝트 13년 수행",
+    "MDM 설계·구현 리더 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.5,
+    "PayLevel": 4.2,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "김성민",
+    "birth": "19850315",
+    "gender": "남성",
+    "address": "대전광역시 서구",
+    "phone": "010-1234-5678",
+    "current_salary": "4500",
+    "desired_salary": "5500"
+  },
+  "educations": [
+    {
+      "school": "한국대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC Corporation",
+      "role": "주니어 ETL 개발자",
+      "start_date": "2007.09",
+      "status": "퇴사",
+      "end_date": "2008.04",
+      "details": "Oracle DB로 데이터를 추출·변환·적재(ETL)하는 매핑과 세션을 개발했으며, Mapplet 재사용 설계 및 디버깅 세션을 통해 품질을 확보했습니다."
+    },
+    {
+      "company": "ABC Corporation",
+      "role": "ETL 개발자",
+      "start_date": "2005.09",
+      "status": "퇴사",
+      "end_date": "2007.03",
+      "details": "SAP 및 JDE 시스템으로부터 데이터를 추출해 BW(Oracle)로 적재하는 프로세스를 설계·구현했으며, Informatica 및 DataStage 기반 데이터 통합을 수행했습니다."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Informatica PowerCenter",
+    "DataStage",
+    "Oracle",
+    "Data Warehousing",
+    "ETL 설계"
+  ],
+  "others": [
+    "Mapplet 재사용 및 최적화 경험",
+    "디버그 모니터 활용 오류 분석"
+  ],
+  "scores": {
+    "TeamCulture": 4.1,
+    "Evaluation": 4.0,
+    "PayLevel": 3.5,
+    "VisionDirection": 3.8,
+    "Welfare": 3.6,
+    "Workload": 4.2
+  }
+},
+{
+  "basic_info": {
+    "name": "김서연",
+    "birth": "19870520",
+    "gender": "여성",
+    "address": "부산광역시 해운대구",
+    "phone": "010-5249-0481",
+    "current_salary": "7500",
+    "desired_salary": "8500"
+  },
+  "educations": [
+    {
+      "school": "로완대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Global Finance Technology",
+      "role": "Ab Initio ETL 애플리케이션 개발 리드",
+      "start_date": "2015.07",
+      "status": "재직중",
+      "details": "Unix 환경에서 shell 스크립트로 Ab Initio 그래프 실행을 자동화하고, 코드 마이그레이션 전략을 수립·적용했습니다. 기술 문서 작성, 단위 및 통합 테스트 계획 수립, 코드 리뷰 참여로 품질을 관리했습니다."
+    },
+    {
+      "company": "Global Finance Technology",
+      "role": "ETL 애플리케이션 개발 리드",
+      "start_date": "2012.12",
+      "status": "퇴사",
+      "end_date": "2015.06",
+      "details": "대용량 데이터 웨어하우스 환경에서 CDC, type-2 처리, 예외 데이터 핸들링 등을 설계·구현했습니다. Teradata 및 Informatica 기반 최적화 매핑과 Control-M 작업을 관리했습니다."
+    },
+    {
+      "company": "Detroit",
+      "role": "ETL 애플리케이션 개발자",
+      "start_date": "2010.09",
+      "status": "퇴사",
+      "end_date": "2012.11",
+      "details": "Unix 쉘 스크립팅과 Informatica를 활용해 DI 모듈 배포 및 유지보수를 수행했으며, SLA 모니터링과 프로덕션 지원을 담당했습니다."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Ab Initio",
+    "Informatica PowerCenter",
+    "Unix/Linux Shell Scripting",
+    "Teradata",
+    "Control-M"
+  ],
+  "others": [
+    "보험 클레임 처리 시스템 경험",
+    "대규모 데이터 마이그레이션 프로젝트 수행"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.0,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.1,
+    "Welfare": 3.8,
+    "Workload": 4.3
+  }
+},
+{
+  "basic_info": {
+    "name": "김현운",
+    "birth": "19801215",
+    "gender": "남성",
+    "address": "경기도 성남시 분당구",
+    "phone": "010-1234-5678",
+    "current_salary": "9000",
+    "desired_salary": "10000"
+  },
+   "educations": [
+    {
+      "school": "성균관대학교",
+      "major": "통계학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "경희대학교",
+      "major": "통계학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Centers For Medicare & Medicaid Services",
+      "role": "Senior ETL Developer I",
+      "start_date": "2009.04",
+      "status": "퇴사",
+      "end_date": "2017.04",
+      "details": "SSIS 기반 ETL 패키지 개발 및 데이터 마트 구축에 참여하고, 834 이력 관리 트랜잭션 개선 작업을 수행했습니다. HIPAA 표준 준수를 위한 EDI 프로세스 통합 및 4010→5010 업그레이드를 주도했습니다. IDQ를 이용해 데이터 정제 매핑과 검사 규칙을 구현했습니다."
+    },
+    {
+      "company": "ABC Corp",
+      "role": "ETL Developer",
+      "start_date": "2006.01",
+      "status": "퇴사",
+      "end_date": "2009.03",
+      "details": "Informatica 매핑 및 변환 로직 설계·개발을 통해 다중 시스템 소스 데이터를 DW로 통합했으며, HIPAA 트랜잭션 검증 및 벤더 가이드 제공을 통해 컴플라이언스 대응을 지원했습니다."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Informatica PowerCenter",
+    "SSIS",
+    "IDQ",
+    "SQL",
+    "PL/SQL"
+  ],
+  "others": [
+    "금융·헬스케어 도메인 ETL 경험",
+    "논리·물리 차원 모델링 프로젝트 수행"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 4.2
+  }
+},
+{
+  "basic_info": {
+    "name": "김태현",
+    "birth": "19850723",
+    "gender": "남성",
+    "address": "부산광역시 해운대구 우동",
+    "phone": "010-4567-8901",
+    "current_salary": "7500",
+    "desired_salary": "9000"
+  },
+   "educations": [
+    {
+      "school": "부산대학교",
+      "major": "통계학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "부산대학교",
+      "major": "통계학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC Corporation",
+      "role": "ETL Developer/Analyst",
+      "start_date": "2010.04",
+      "status": "퇴사",
+      "end_date": "2013.12",
+      "details": "Hadoop 클러스터 및 Spark, Cassandra 설정을 수행하고, Hadoop MapReduce와 Spark 프레임워크를 활용해 대용량 데이터 처리 파이프라인을 구축했습니다. SAFR 도구로 Extract/Summary/Copy Views와 메타데이터를 설계·개발했습니다."
+    },
+    {
+      "company": "ABC Corporation",
+      "role": "ETL Developer",
+      "start_date": "2008.04",
+      "status": "퇴사",
+      "end_date": "2010.04",
+      "details": "비즈니스 요구사항 분석 후 Informatica PowerCenter를 이용해 플랫파일·Excel·Access 데이터 추출·변환·적재(ETL)를 수행하고, 재사용 가능한 Mapplet과 세션 튜닝을 통해 성능 최적화를 달성했습니다."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Spark",
+    "Scala",
+    "HDFS",
+    "Informatica PowerCenter",
+    "SQL"
+  ],
+  "others": [
+    "대용량 분산처리 환경 구축 경험",
+    "클러스터 최적화 및 운영 자동화 수행"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.0,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.1,
+    "Welfare": 3.7,
+    "Workload": 4.0
+  }
+},
+{
+  "basic_info": {
+    "name": "김태호",
+    "birth": "19860410",
+    "gender": "남성",
+    "address": "부산광역시 해운대구",
+    "phone": "010-3335-5777",
+    "current_salary": "9000",
+    "desired_salary": "10500"
+  },
+  "educations": [
+    {
+      "school": "한양대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Rentel Software Development",
+      "role": "DevOps 엔지니어",
+      "start_date": "2015.03",
+      "status": "재직중",
+      "details": "Docker, Git, Nagios, AWS 등을 활용해 30여 대의 Linux 서버 구성·관리 및 서비스 배포 자동화를 구현하였습니다. HAProxy로 부하분산 환경을 구축하고, Nagios로 인프라 모니터링을 수행했습니다."
+    },
+    {
+      "company": "Dragon Embedded Technologies",
+      "role": "Android 개발자",
+      "start_date": "2014.02",
+      "status": "퇴사",
+      "end_date": "2015.02",
+      "details": "SIP 프로토콜 기반 Android 앱을 개발하고, 인포테인먼트 시스템용 앱 구현 및 효율성 대시보드를 제작했습니다."
+    },
+    {
+      "company": "Bingway Solution Pvt. Ltd.",
+      "role": "Android 개발자",
+      "start_date": "2010.03",
+      "status": "퇴사",
+      "end_date": "2014.01",
+      "details": "Wearable 기기용 Android 앱과 디바이스 드라이버를 개발하며 임베디드 환경에서의 성능 최적화를 수행했습니다."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2017",
+      "name": "AWS 솔루션스 아키텍트 자격증",
+      "number": "N/A"
+    }
+  ],
+  "skills": [
+    "Docker",
+    "AWS",
+    "Jenkins",
+    "Chef",
+    "Linux"
+  ],
+  "others": [
+    "VoIP 서비스용 분산 클라우드 인프라 구축 경험",
+    "컨테이너 기반 서비스 자동화 설계·구현"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.0,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.1,
+    "Welfare": 3.7,
+    "Workload": 4.0
+  }
+},
+{
+  "basic_info": {
+    "name": "김명준",
+    "birth": "19880415",
+    "gender": "남성",
+    "address": "대전광역시 서구",
+    "phone": "010-8543-1136",
+    "current_salary": "9000",
+    "desired_salary": "10500"
+  },
+  "educations": [
+    {
+      "school": "연세대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Dufour",
+      "role": "수석 DevOps 엔지니어",
+      "start_date": "2015.01",
+      "status": "재직중",
+      "details": "Chef 환경(250개 역할·400 cookbooks·3,000 노드) 관리하고, PCI-DSS RHEL6 하드닝 정책을 구축했습니다. 제조 현장의 데이터 자동화 프로젝트를 예산 대비 8천만 원 절감하며 3개월 앞당겨 완료했습니다."
+    },
+    {
+      "company": "Lessard",
+      "role": "DevOps 엔지니어",
+      "start_date": "2013.01",
+      "status": "퇴사",
+      "end_date": "2015.01",
+      "details": "24/7 L3 온콜 지원을 수행하고, 40노드 ElasticSearch 클러스터(일일 10억 문서 수집)를 최적화·운영했습니다."
+    },
+    {
+      "company": "Stracke",
+      "role": "DevOps 엔지니어",
+      "start_date": "2011.01",
+      "status": "퇴사",
+      "end_date": "2013.01",
+      "details": "Spring·Angular 기반 인사 관리 시스템 개발팀과 협업하며 CI/CD 파이프라인을 구축했습니다."
+    },
+    {
+      "company": "Wyman Ltd",
+      "role": "주니어 DevOps 엔지니어",
+      "start_date": "2010.01",
+      "status": "퇴사",
+      "end_date": "2011.01",
+      "details": "기초 인프라 자동화 스크립트를 제작하고, 운영 중단 없이 배포 프로세스를 개선했습니다."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2017",
+      "name": "AWS 솔루션스 아키텍트 자격증",
+      "number": "N/A"
+    }
+  ],
+  "skills": [
+    "Ansible",
+    "Linux",
+    "Git",
+    "AWS",
+    "Docker"
+  ],
+  "others": [
+    "PCI-DSS RHEL6 하드닝 경험",
+    "ElasticSearch 클러스터 운영 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.0,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.1,
+    "Welfare": 3.6,
+    "Workload": 4.0
+  }
+},
+{
+  "basic_info": {
+    "name": "김현웅",
+    "birth": "19860312",
+    "gender": "남성",
+    "address": "경기도 고양시 일산동구",
+    "phone": "010-2345-6789",
+    "current_salary": "9000",
+    "desired_salary": "11000"
+  },
+  "educations": [
+    {
+      "school": "한양대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Resume Worded",
+      "role": "Azure DevOps 엔지니어",
+      "start_date": "2015.03",
+      "status": "재직중",
+      "details": "Azure·TFS·PowerShell 기반 클라우드 솔루션 설계·운영, 87개 이상 Kubernetes 클러스터(Azure/AWS) 배포·관리해 18개월간 90% 가동률 달성, 자동화된 야간 빌드로 버그 수정 시간을 10일에서 2시간으로 단축."
+    },
+    {
+      "company": "Growthsi",
+      "role": "Linux 관리자",
+      "start_date": "2013.01",
+      "status": "퇴사",
+      "end_date": "2015.02",
+      "details": "Kickstart·PXE를 이용해 물리·가상 서버 20대 구축, Linux/Windows 환경 45개 앱 운영 지원, 커스터마이즈된 OS 환경 82개 생성으로 관리 효율 80% 향상."
+    },
+    {
+      "company": "Resume Worded Exciting Company",
+      "role": "빌드·릴리즈 엔지니어",
+      "start_date": "2011.02",
+      "status": "퇴사",
+      "end_date": "2012.12",
+      "details": "야간 자동 빌드 도입으로 버그 수정 시간 10일→2시간 단축, SCM 데이터베이스 무결성 94.6% 유지, 주간 릴리즈 횟수 120% 증가로 코드당 버그 수 70% 감소."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2018",
+      "name": "Microsoft Certified: Azure DevOps Engineer Expert",
+      "number": "AZ-400"
+    }
+  ],
+  "skills": [
+    "Microsoft Azure",
+    "Kubernetes",
+    "Terraform",
+    "Ansible",
+    "Jenkins",
+    "Git"
+  ],
+  "others": [
+    "Kubernetes 클러스터 87개 이상 운영 경험",
+    "빌드·릴리즈 자동화로 운영 효율 극대화"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.2,
+    "Welfare": 3.8,
+    "Workload": 4.0
+  }
+},
+{
+  "basic_info": {
+    "name": "강도현",
+    "birth": "19850214",
+    "gender": "남성",
+    "address": "부산광역시 해운대구 우동",
+    "phone": "010-4567-8901",
+    "current_salary": "9500",
+    "desired_salary": "11500"
+  },
+  "educations": [
+    {
+      "school": "한국외국어대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC Corporation",
+      "role": "Puppet 개발자 / DevOps 엔지니어",
+      "start_date": "2014.01",
+      "status": "재직중",
+      "details": "개발·운영 조직과 협업하여 Puppet·Chef 기반 인프라 자동화 구축, AWS EC2·RDS·ElasticCache 구성 및 CloudWatch 모니터링 설정, Jenkins·Maven·Ant 활용 CI/CD 파이프라인 설계·운영."
+    },
+    {
+      "company": "ABC Corporation",
+      "role": "DevOps 지원 엔지니어",
+      "start_date": "2011.10",
+      "status": "퇴사",
+      "end_date": "2013.12",
+      "details": "DevOps 플랫폼 팀에서 Chef·Puppet 도입을 통한 클라우드 자동화 프로젝트 참여, 인프라 코드화 및 배포 자동화 구현을 지원함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2019",
+      "name": "AWS Certified DevOps Engineer – Professional",
+      "number": "DOP-C01"
+    }
+  ],
+  "skills": [
+    "Puppet",
+    "Chef",
+    "Docker",
+    "AWS",
+    "Jenkins",
+    "Git",
+    "Ansible"
+  ],
+  "others": [
+    "기업 우수 DevOps 엔지니어 상 수상",
+    "CI/CD 파이프라인 자동화 프로젝트 리드 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 4.3
+  }
+},
+{
+  "basic_info": {
+    "name": "김태훈",
+    "birth": "19881205",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-2345-6789",
+    "current_salary": "9000",
+    "desired_salary": "10500"
+  },
+  "educations": [
+    {
+      "school": "Resume Worded University",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "Growthsi Business School",
+      "major": "DevOps 과정",
+      "degree": "수료",
+      "graduation": "수료"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Resume Worded",
+      "role": "AWS DevOps 엔지니어",
+      "start_date": "2016.01",
+      "status": "재직중",
+      "details": "Jenkins·Maven 자동 빌드·배포 프로세스 도입으로 수작업 85% 제거, AWS 인프라 55개 계정 관리 및 Chef를 통한 보안 정책 강화, GCP→AWS 이전으로 연간 200만 달러 절감."
+    },
+    {
+      "company": "Resume Worded",
+      "role": "소프트웨어 엔지니어 인턴",
+      "start_date": "2012.01",
+      "status": "퇴사",
+      "end_date": "2013.12",
+      "details": "Django RESTful API 구현을 통해 내부 분석팀의 보고 속도를 25% 개선하고, 운영체제 수준 테스트 지원 및 130건의 업그레이드·버그 리포트를 제출함."
+    },
+    {
+      "company": "Growthsi",
+      "role": "소프트웨어 엔지니어",
+      "start_date": "2013.01",
+      "status": "퇴사",
+      "end_date": "2015.12",
+      "details": "6명 팀을 이끌어 10개 고객 맞춤 프로젝트를 개발했으며, 최소 권한 원칙(PLoA) 도입으로 보안 침해를 83% 감소시킴."
+    },
+    {
+      "company": "Growthsi",
+      "role": "시니어 프로그래머",
+      "start_date": "2015.01",
+      "status": "퇴사",
+      "end_date": "2016.12",
+      "details": "PySpark 기반 스트리밍 데이터 처리 속도를 90% 향상시키고, 15% 페이지 로딩 속도 개선 및 ETL 비용 연간 95,000달러 절감."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2018",
+      "name": "AWS Certified DevOps Engineer – Professional",
+      "number": "DOP-C01"
+    }
+  ],
+  "skills": [
+    "AWS",
+    "Jenkins",
+    "Maven",
+    "Chef",
+    "PySpark",
+    "Docker",
+    "Git"
+  ],
+  "others": [
+    "연간 200만 달러 비용 절감 프로젝트 리드",
+    "CI/CD 자동화 우수 사례 사내 공유"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.2,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 4.1
+  }
+},
+{
+  "basic_info": {
+    "name": "이진우",
+    "birth": "19940115",
+    "gender": "남성",
+    "address": "부산광역시 해운대구 우동",
+    "phone": "010-5838-4917",
+    "current_salary": "5000",
+    "desired_salary": "6000"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Dufour",
+      "role": "주니어 DevOps 엔지니어",
+      "start_date": "2019.01",
+      "status": "재직중",
+      "details": "40노드 ElasticSearch 클러스터를 유지보수하며 일일 10억 건의 문서를 수집·관리하고, 서버 모니터링·리포트 시스템을 구축해 부서 효율성을 평균 20% 개선했으며 Jenkins·GitHub 기반 CI/CD 파이프라인을 운영함."
+    },
+    {
+      "company": "Heller",
+      "role": "미들웨어 관리자",
+      "start_date": "2016.01",
+      "status": "퇴사",
+      "end_date": "2019.12",
+      "details": "JVM 및 애플리케이션 서버 성능 튜닝과 모니터링을 수행하고, 외부 Java 웹사이트의 가용성과 안정성을 확보하였으며, Apache 서버용 CI/CD 파이프라인 200여 개를 설계·운영함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2017",
+      "name": "Certified Associate in Python Programming",
+      "number": "PY-ASSOC-2017"
+    },
+    {
+      "date": "2020",
+      "name": "MySQL Certified Implementation Specialist",
+      "number": "MYS-IMP-2020"
+    },
+    {
+      "date": "2019",
+      "name": "Jenkins Engineer 인증",
+      "number": "JNK-ENG-2019"
+    }
+  ],
+  "skills": [
+    "Python",
+    "JavaScript",
+    "Java",
+    "MySQL",
+    "PostgreSQL",
+    "Redis",
+    "Apache",
+    "MongoDB",
+    "Docker",
+    "Kubernetes",
+    "Ansible",
+    "Puppet",
+    "CI/CD",
+    "Git"
+  ],
+  "others": [
+    "AWS Cloud Practitioner 과정 수강 (50% 완료)",
+    "UC Davis ‘DevOps 문화와 마인드셋’ 수료 (2018)",
+    "NYU 정보보안 입문 수료 (2020)",
+    "freeCodeCamp ‘Scientific Computing with Python’ 수료 (2016)",
+    "학습 의욕이 높아 새로운 기술 습득에 적극적",
+    "원활한 커뮤니케이션과 조직적 업무 처리 능력 보유"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 3.9,
+    "Welfare": 3.7,
+    "Workload": 4.2
+  }
+},
+{
+  "basic_info": {
+    "name": "강혜원",
+    "birth": "19901020",
+    "gender": "여성",
+    "address": "경기도 수원시 영통구",
+    "phone": "010-555-1734",
+    "current_salary": "6500",
+    "desired_salary": "7500"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "컴퓨터공학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "자사",
+      "role": "Associate DevOps 엔지니어",
+      "start_date": "2016.12",
+      "status": "재직중",
+      "details": "데이터 처리 함수 및 방법 분석, Single Sign-On/Adobe AEM/IBM ISAM/TIBCO 서비스 환경에서 DevOps 및 CI/CD 구축·운영, Linux 서버 지원, 성능 테스트 전략 수립 및 자동화 구현을 담당함."
+    },
+    {
+      "company": "자사",
+      "role": "DevOps 엔지니어",
+      "start_date": "2013.07",
+      "status": "퇴사",
+      "end_date": "2016.06",
+      "details": "애플리케이션 지원팀 문서 업데이트, 배포 활동 회의 주관, 기술팀 요청 관리, 환경 안정성 유지, 인프라 자동화 도구 및 모니터링·알림 시스템 운영을 수행함."
+    },
+    {
+      "company": "자사",
+      "role": "주니어 DevOps 엔지니어",
+      "start_date": "2006.06",
+      "status": "퇴사",
+      "end_date": "2013.01",
+      "details": "인프라 자동화 도구(Puppet, Ansible) 사용, Linux/Unix 운영체제 관리, XML·스크립트 처리, Atlassian 협업 도구 활용, 로그·모니터링 솔루션 운영을 담당함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2017",
+      "name": "AWS Certified Solutions Architect – Associate",
+      "number": "AWS-ASA-2017"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Go",
+    "Java",
+    "Ruby",
+    "Bash",
+    "Linux/Unix 관리",
+    "Docker",
+    "Kubernetes",
+    "Ansible",
+    "Puppet",
+    "Jenkins",
+    "Git",
+    "Nagios",
+    "CI/CD",
+    "인프라 자동화"
+  ],
+  "others": [
+    "프로젝트 리스크 관리 및 완화 역량 보유",
+    "우수한 커뮤니케이션 및 기술 문서 작성 능력",
+    "크로스펑셔널 팀 협업 경험 다수"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 3.7
+  }
+},
+{
+  "basic_info": {
+    "name": "전지우",
+    "birth": "19850312",
+    "gender": "여성",
+    "address": "대전광역시 서구 둔산동",
+    "phone": "010-568-5672",
+    "current_salary": "7000",
+    "desired_salary": "8500"
+  },
+  "educations": [
+    {
+      "school": "캘리포니아 대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Choice",
+      "role": "DevOps 엔지니어",
+      "start_date": "2016.03",
+      "status": "재직중",
+      "details": "플랫폼 유지·모니터링·보안 패치 프로세스를 수립·운영하고, Docker·Ansible·Jenkins 기반 CI/CD 파이프라인 설계·구축, AWS·Azure 환경 배포를 관리함. New Relic·DynaTrace·Splunk로 애플리케이션 모니터링 및 로깅 전략을 구현함."
+    },
+    {
+      "company": "The New York Times",
+      "role": "DevOps 엔지니어",
+      "start_date": "2012.09",
+      "status": "퇴사",
+      "end_date": "2015.09",
+      "details": "Chef 기반 인프라 코드 관리, Go 언어 배포 자동화, 대규모 분산 시스템 성능 분석 및 모니터링 프레임워크 구축, 벤더 제품 평가 및 시스템 운영을 수행함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2019",
+      "name": "AWS Certified DevOps Engineer – Professional",
+      "number": "AWS-DOE-2019"
+    }
+  ],
+  "skills": [
+    "Docker",
+    "Ansible",
+    "Jenkins",
+    "Shell scripting",
+    "Linux/Unix",
+    "Chef",
+    "New Relic",
+    "DynaTrace",
+    "Splunk",
+    "AWS",
+    "Azure",
+    "CI/CD",
+    "인프라 자동화"
+  ],
+  "others": [
+    "프로세스 자동화 도입 및 운영 경험",
+    "대규모 분산 시스템 관리 역량",
+    "기술 문서화 및 팀 내 지식 공유 활동"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.0,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.1,
+    "Welfare": 3.7,
+    "Workload": 4.0
+  }
+},
+{
+  "basic_info": {
+    "name": "안수진",
+    "birth": "19820515",
+    "gender": "여성",
+    "address": "부산광역시 해운대구 우동",
+    "phone": "010-7777-7777",
+    "current_salary": "9000",
+    "desired_salary": "10000"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "경영학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC IT",
+      "role": "PMO 오피서",
+      "start_date": "2019.04",
+      "status": "재직중",
+      "details": "프로그램 주요 거버넌스 마일스톤을 관리·모니터링하고, 위험 요소 및 사후 검토 과제를 조율하여 보고. 예산·자원 배분 분석 및 재무 리포트를 임원진에 제공. 전사 프로젝트 관리 프레임워크 수립 및 운영을 통해 일관된 PMO 프로세스를 구현함."
+    },
+    {
+      "company": "Cauliflower Consultancy",
+      "role": "PMO 프로젝트 매니저",
+      "start_date": "2015.01",
+      "status": "퇴사",
+      "end_date": "2019.04",
+      "details": "애자일 기반 프로젝트 관리 프로세스와 거버넌스 체계를 구축·지원. 변경 관리, 툴, 방법론 도입을 통해 프로젝트 품질과 효율성을 개선함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2016",
+      "name": "PRINCE2 자격증",
+      "number": "P2-123456"
+    }
+  ],
+  "skills": [
+    "변경 관리",
+    "로드맵 기획",
+    "자원 스케줄링",
+    "예산 수립 및 예측",
+    "위험 관리 및 완화",
+    "프로세스 맵핑 및 실행",
+    "보고 및 분석",
+    "PRINCE2"
+  ],
+  "others": [
+    "프로젝트 오류율 45% 감소",
+    "프로세스 효율성 30% 개선"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.2,
+    "Welfare": 3.8,
+    "Workload": 4.0
+  }
+},
+{
+  "basic_info": {
+    "name": "이동현",
+    "birth": "19830215",
+    "gender": "남성",
+    "address": "대구광역시 수성구 범어동",
+    "phone": "010-6018-8560",
+    "current_salary": "9500",
+    "desired_salary": "10500"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "XYZ 테크놀로지스",
+      "role": "수석 PMO 분석가",
+      "start_date": "2016.03",
+      "status": "재직중",
+      "details": "벤더 관리 프레임워크와 프로세스 수립, 프로젝트 위험·이슈 사전 식별 및 관리 계획 수립 자문, 고객 변경 요청 관리, SLA 및 성과 지표 운영, 재무 보고 프로세스 개선"
+    },
+    {
+      "company": "LMN 테크",
+      "role": "IT PMO 분석가",
+      "start_date": "2012.01",
+      "status": "퇴사",
+      "end_date": "2015.11",
+      "details": "PPM 툴 지원 및 교육, 프로젝트 성과 지표 설계·모니터링, RAID·플래닝·변경 관리 프로세스 개선, PMO 보고서 템플릿 개발 및 배포"
+    },
+    {
+      "company": "OPQ 컨설팅",
+      "role": "PMO 분석가",
+      "start_date": "2005.01",
+      "status": "퇴사",
+      "end_date": "2011.10",
+      "details": "프로젝트 계획·범위·자원·재무 관리, 변경 요청 관리, RAID 관리, 포트폴리오 표준 프레임워크 개발 및 사용자 지원"
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "벤더 관리",
+    "위험·이슈 관리",
+    "변경 관리",
+    "SLA 관리",
+    "리포트 표준화",
+    "RAID 관리",
+    "PM 툴 운영",
+    "성과 지표 설계"
+  ],
+  "others": [],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.0,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.1,
+    "Welfare": 3.7,
+    "Workload": 4.0
+  }
+},
+{
+  "basic_info": {
+    "name": "김민혁",
+    "birth": "19830412",
+    "gender": "남성",
+    "address": "경기도 성남시 분당구",
+    "phone": "010-6018-5610",
+    "current_salary": "11000",
+    "desired_salary": "12500"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "경영학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "GBMS 컨설팅",
+      "role": "수석 PMO 애널리스트",
+      "start_date": "2016.03",
+      "status": "재직중",
+      "details": "포트폴리오 내 다양한 팀의 효과적인 벤더 관리 관행을 지원하는 표준, 프로세스 및 프레임워크를 수립. 프로젝트 위험 및 이슈를 사전 식별하여 관리 계획 수립을 지원. IT 글로벌 비즈니스 관리 서비스(GBMS) 및 교차 기능 PMO와 협업하여 프로젝트 접근 방식을 정의. 변경 요청 및 고객 기대치를 관리하는 체계적 변경 관리 프로세스를 운영. 프로젝트·재무 보고·모니터링 절차 개선을 주도함."
+    },
+    {
+      "company": "IT PMO 서비스",
+      "role": "IT PMO 애널리스트",
+      "start_date": "2012.01",
+      "status": "퇴사",
+      "end_date": "2015.11",
+      "details": "PPM 도구 사용법에 대해 프로젝트 매니저 및 자원 관리자에게 기술 지원 및 교육 제공. 프로젝트 메트릭 설계·모니터링을 통해 성과 보고 및 개선 계획 수립. ACT 및 PM 도구를 활용해 프로젝트 진행 상황을 관리하고 격차 발생 시 즉시 보고. RAID, 계획, 변경 통제 등 PMO 프로세스 개선을 주도함."
+    },
+    {
+      "company": "TA PMO",
+      "role": "PMO 애널리스트",
+      "start_date": "2005.01",
+      "status": "퇴사",
+      "end_date": "2011.10",
+      "details": "프로젝트 일정 관리, 범위 관리, 자원 예측, 재무 관리, 변경 관리 등을 지원. PMO 매니저와 협력해 프로그램 및 프로젝트 관리 프레임워크와 표준을 수립. 포트폴리오 전반에 걸쳐 일관된 관리 표준 적용을 보장함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2018",
+      "name": "PMP (Project Management Professional)",
+      "number": "PMP-123456"
+    }
+  ],
+  "skills": [
+    "벤더 관리",
+    "위험 관리 및 이슈 식별",
+    "변경 관리 프로세스",
+    "재무 보고 및 모니터링",
+    "SLA 관리",
+    "PPM 도구 운영",
+    "RAID 관리",
+    "프로젝트 일정·범위 관리"
+  ],
+  "others": [
+    "벤더 관리 프로세스 표준화 리드",
+    "프로젝트 재무 보고 절차 개선"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.0,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.1,
+    "Welfare": 3.7,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "김준헌",
+    "birth": "19751205",
+    "gender": "남성",
+    "address": "부산광역시 해운대구 우동",
+    "phone": "010-1234-5678",
+    "current_salary": "12000",
+    "desired_salary": "14000"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "경영학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC 코퍼레이션",
+      "role": "PMO 매니저",
+      "start_date": "2008.01",
+      "status": "퇴사",
+      "end_date": "2014.09",
+      "details": "병원 및 복수 시설 프로젝트 관리, LEAN 운영·품질 개선 주도, ROI·P&L·마일스톤 관리, 현금 흐름 분석 및 위험·제안 평가 수행, SharePoint 교육(6,500명 대상) 제공, 복합 애플리케이션 플랫폼 통합 프로젝트 수행"
+    },
+    {
+      "company": "델타 코퍼레이션",
+      "role": "PMO 매니저",
+      "start_date": "2006.01",
+      "status": "퇴사",
+      "end_date": "2008.01",
+      "details": "OCC/FRB 규제 이행 관리, 12명 팀·1.5억 예산 IT 리스크 거버넌스 모델 설계·구현, PMO 툴 도입·운영, 가상·오프라인 팀 관리, NAFTA·LATAM 프로그램 성과 개선 지원"
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "PMP",
+    "PgMP",
+    "PfMP",
+    "Six Sigma",
+    "프로그램 운영",
+    "위험 관리",
+    "변경 관리",
+    "프로세스 개선"
+  ],
+  "others": [],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 4.0,
+    "VisionDirection": 4.2,
+    "Welfare": 3.8,
+    "Workload": 4.1
+  }
+},
+{
+  "basic_info": {
+    "name": "김동현",
+    "birth": "19701010",
+    "gender": "남성",
+    "address": "인천광역시 남동구",
+    "phone": "010-1234-5678",
+    "current_salary": "8000",
+    "desired_salary": "9500"
+  },
+  "educations": [
+    {
+      "school": "광운대학교",
+      "major": "전산학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC Corporation",
+      "role": "Information Technology Specialist II",
+      "start_date": "2011.01",
+      "status": "재직중",
+      "details": "비용 효율적이고 고성능의 컴퓨터 기술을 도입하여 사내 생산성과 효율성의 지속적 향상을 촉진. 하드웨어·소프트웨어 설치·구성·성능 튜닝·관리 및 문제 해결을 수행. 데이터 백업·재해 복구·라이선스·보안 정책 준수를 책임지고, 사내 정보 시스템 문서화 및 비생산 현장 데이터 수집 시스템을 개발·유지보수함."
+    },
+    {
+      "company": "ABC Corporation",
+      "role": "Principal Information Technology Specialist",
+      "start_date": "2006.09",
+      "status": "퇴사",
+      "end_date": "2010.07",
+      "details": "프린터 설치·유지보수 및 잉크·소모품 재고 관리를 수행. 윈도우 업데이트·바이러스 백신 관리 및 엔드유저 지원을 담당. 전화·통신 시스템을 유지보수하고, 신규 소프트웨어 호환성 테스트 및 용량 분석을 통해 시스템 확장성을 평가함. 사용 교육을 통해 하드웨어·소프트웨어 활용 극대화를 지원함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Windows Server 2003",
+    "Windows Server 2008 R2",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Microsoft Office 2007",
+    "Microsoft Office 2013",
+    "Exchange 2003",
+    "Exchange 2008",
+    "SharePoint",
+    "Active Directory"
+  ],
+  "others": [],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.7,
+    "VisionDirection": 4.0,
+    "Welfare": 3.6,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "이대헌",
+    "birth": "19741010",
+    "gender": "남성",
+    "address": "부산광역시 해운대구",
+    "phone": "010-1234-5678",
+    "current_salary": "7000",
+    "desired_salary": "8500"
+  },
+  "educations": [
+    {
+      "school": "가칭대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC Corporation",
+      "role": "Information Technology Specialist II",
+      "start_date": "2015.01",
+      "status": "퇴사",
+      "end_date": "2019.01",
+      "details": "IT 헬프데스크 시스템을 통해 사용자 지원 요청을 접수·관리하고, 원격 관리 도구를 활용해 PC·소프트웨어·통신 환경을 현장 및 원격으로 문제 해결함. IT 부서와 협업하여 기술 솔루션 설계·구현·지원 프로젝트를 수행하고, 구매 시스템을 이용해 기술 자산을 관리함."
+    },
+    {
+      "company": "ABC Corporation",
+      "role": "Information Technology Specialist II",
+      "start_date": "2006.02",
+      "status": "퇴사",
+      "end_date": "2014.04",
+      "details": "서버 시스템 및 지원 소프트웨어의 일상 운영 및 유지보수를 담당하고, 일일 백업·검증·복구 절차를 수행함. 기술 문서 작성·프로젝트 추적·관리 보고를 통해 IT 운영 효율성을 높임."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "웹 디자인 및 개발",
+    "SEO",
+    "SEM",
+    "Google Analytics",
+    "Crystal Reports",
+    "CRM",
+    "ERP",
+    "UX/UI",
+    "CMS 시스템",
+    "PHP",
+    "DBA",
+    "마케팅",
+    "Windows 관리",
+    "Unix 관리"
+  ],
+  "others": [],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "박지훈",
+    "birth": "19850310",
+    "gender": "남성",
+    "address": "서울특별시 강남구 테헤란로 152",
+    "phone": "010-1234-5678",
+    "current_salary": "6500",
+    "desired_salary": "7200"
+  },
+  "educations": [
+    {
+      "school": "대한대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "(주)넥스트웨이브 기술",
+      "role": "IT 지원팀 전문가",
+      "start_date": "2017.03",
+      "status": "재직중",
+      "details": "사내 생산성 및 효율성 지속적 개선을 위한 비용 효율적이고 고성능 컴퓨터 기술 증진. 사내 컴퓨터 관련 하드웨어 및 비즈니스 정보 기술에 대한 분석적 및 기술적 전문 지식 기여. 컴퓨터 정보 기술을 활용하는 비즈니스 프로세스 이해. 모든 사내 컴퓨터 관련 하드웨어 및 소프트웨어 설치, 구성, 성능 튜닝, 관리 및 문제 해결. 회사 데이터 백업, 재해 복구, 소프트웨어 라이선싱, 보안 및 인증 정책 준수. 사내 하드웨어/소프트웨어 감사 기록 유지 및 소프트웨어 라이선싱 관리. 필수 사내 정보 및 데이터 수집 시스템 개발, 문서화 및 유지."
+    },
+    {
+      "company": "(주)데이터솔루션즈",
+      "role": "시스템 엔지니어",
+      "start_date": "2013.07",
+      "status": "퇴사",
+      "end_date": "2017.02",
+      "details": "모든 프린터 설정, 유지보수 및 문제 해결 (잉크 잔량 및 재고 모니터링 포함). 모든 최종 사용자 시스템의 Windows 업데이트 관리. 바이러스 방지 보고서 관리 및 문제 해결 제공. 회사 전화/통신 시스템 유지보수. 기존 프로그램과의 새 프로그램 호환성 테스트를 통해 시스템 잠재력 평가. 컴퓨터 시스템의 작업 부하 및 용량 연구를 통해 확장 또는 개선 평가. 사용자 교육, 지침 해석 및 질문 답변을 통해 하드웨어 및 소프트웨어 사용 극대화."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Server 2003",
+    "Server 2008 R2",
+    "Windows XP",
+    "Windows Vista",
+    "Windows 7",
+    "Windows 8",
+    "Microsoft Office 2007",
+    "Microsoft Office 2013",
+    "Exchange 2003",
+    "Exchange 2008",
+    "Sharepoint",
+    "Active Directory"
+  ],
+  "others": [
+    "정보 시스템 운영 및 관리 경험 다수",
+    "대내외 커뮤니케이션 능력 우수",
+    "정보처리기사 자격 보유 (예시)",
+    "운전면허 1종 보통"
+  ],
+  "scores": {
+    "TeamCulture": "4.3",
+    "Evaluation": "4.1",
+    "PayLevel": "3.9",
+    "VisionDirection": "4.0",
+    "Welfare": "3.7",
+    "Workload": "3.1"
+  }
+},
+{
+  "basic_info": {
+    "name": "김성환",
+    "birth": "19860512",
+    "gender": "남성",
+    "address": "대전광역시 유성구",
+    "phone": "010-5555-5555",
+    "current_salary": "4500",
+    "desired_salary": "5500"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Conway MacKenzie, Inc.",
+      "role": "정보기술 어시스턴트",
+      "start_date": "2017.06",
+      "status": "퇴사",
+      "end_date": "2019.05",
+      "details": "하드웨어·소프트웨어 장애를 신속히 해결하고 컴퓨터 하드웨어 설치 및 유지보수를 수행함. 네트워크 시스템 개선 프로젝트에 참여하고, 안티바이러스 애플리케이션 구성·관리 및 사용자 지원을 제공함."
+    },
+    {
+      "company": "Conway MacKenzie, Inc.",
+      "role": "정보기술 어시스턴트 인턴",
+      "start_date": "2013.09",
+      "status": "퇴사",
+      "end_date": "2017.05",
+      "details": "데이터 복원 및 자산 관리 업무를 담당하고, 일일 운영 모니터링을 수행함. 웹사이트 관리 지원 및 IT 직원 교육·조정 활동을 통해 운영 효율성을 높임."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "하드웨어·소프트웨어 문제 해결",
+    "네트워크 시스템 유지보수",
+    "백신 프로그램 관리",
+    "재고 및 데이터 관리",
+    "사용자 교육 및 지원"
+  ],
+  "others": [
+    "Employee of the Month 2회 수상"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 3.7
+  }
+},
+{
+  "basic_info": {
+    "name": "김민세",
+    "birth": "19820315",
+    "gender": "남성",
+    "address": "부산광역시 부산진구",
+    "phone": "010-1234-5678",
+    "current_salary": "8500",
+    "desired_salary": "9500"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC Corporation",
+      "role": "리드 정보기술 스페셜리스트",
+      "start_date": "2015.02",
+      "status": "재직중",
+      "details": "네트워크 모니터링 및 유지보수를 통해 시스템 가용성을 보장하고, IT 자산 관리 프로그램을 기획·문서화·운영함. Verizon 서비스 계약 관리 및 Remedy 티켓 시스템을 활용한 장애 대응을 수행함. 전사 이메일 시스템 권한 관리 및 비즈니스 연속성 계획 수립 업무를 담당함."
+    },
+    {
+      "company": "ABC Corporation",
+      "role": "시니어 정보기술 스페셜리스트",
+      "start_date": "2005.04",
+      "status": "퇴사",
+      "end_date": "2013.07",
+      "details": "100여 개 조직 대상 민감 장비 배송·관리 업무를 무결점으로 수행하고, 통신 암호키 발급 및 군·민간 지원을 담당함. 독일 주둔부대에 전략기획 및 운영 지원을 제공하고, 일일 재고 관리 및 현장 평가를 통해 고객 만족도를 제고함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "네트워크 모니터링",
+    "IT 자산 관리",
+    "서비스 계약 관리",
+    "티켓 시스템 운영",
+    "비즈니스 연속성 계획"
+  ],
+  "others": [],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "김지오",
+    "birth": "19900321",
+    "gender": "남성",
+    "address": "부산광역시 해운대구",
+    "phone": "010-2045-5645",
+    "current_salary": "6000",
+    "desired_salary": "7000"
+  },
+  "educations": [
+    {
+      "school": "트리덴트 커뮤니티 칼리지",
+      "major": "정보보안 및 디지털 포렌식",
+      "degree": "준학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Security Professionals Inc.",
+      "role": "보안 분석가",
+      "start_date": "2014.01",
+      "status": "재직중",
+      "details": "Fortune 500 기업의 보안 운영 센터에서 다수의 보안 시스템을 모니터링하고, 악성 활동 인시던트를 조사·분석하며 일일 로그를 문서화하여 네트워크 보안 기초선을 수립함."
+    },
+    {
+      "company": "Technology Smarts",
+      "role": "네트워크 운영 센터 모니터링 기술자",
+      "start_date": "2012.01",
+      "status": "퇴사",
+      "end_date": "2014.12",
+      "details": "문서화 시스템을 개선해 연간 15,000달러 비용 절감 효과를 내고, IDS/IPS 경보를 분석·조치하며 티켓 전환율을 7% 향상시킴."
+    },
+    {
+      "company": "Chicago Government",
+      "role": "정보보안 인턴",
+      "start_date": "2011.05",
+      "status": "퇴사",
+      "end_date": "2012.12",
+      "details": "스팸 필터·방화벽·백신·취약점 스캐너를 운영·관리하고, 포렌식 분석을 통해 워크스테이션 하드디스크를 심층 조사함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "McAfee SIEM/EPO/NSM",
+    "FireEye CMS/ETP",
+    "IDS/IPS 분석",
+    "Wireshark 패킷 분석",
+    "리버스 엔지니어링 (IDA Pro, OllyDbg)",
+    "Windows/Linux 운영체제"
+  ],
+  "others": [],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "김수철",
+    "birth": "20000708",
+    "gender": "남성",
+    "address": "서울특별시 강남구",
+    "phone": "010-1234-5678",
+    "current_salary": 5000,
+    "desired_salary": 6000
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사 (최우수 졸업)",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+        "company": "삼성전자",
+        "role": "소프트웨어 엔지니어",
+        "start_date": "2019.06",
+        "status": "재직중",
+        "details": "클라우드 시스템 개발 및 유지보수.  DevOps 파이프라인 구축 및 관리.  새로운 기술 도입 검토 및 적용."
+    },
+    {
+      "company": "Conway MacKenzie, Inc.",
+      "role": "정보기술 보조",
+      "start_date": "2017.06",
+      "status": "퇴사",
+      "end_date": "2019.05",
+      "details": "하드웨어/소프트웨어 오류 해결, 컴퓨터 하드웨어 설치 및 유지 관리, 네트워크 시스템 개선. 안티바이러스 애플리케이션 구성 및 유지 관리, 최종 사용자 지원, 위험 평가 수행. 데이터 복구, 재고 관리, 정보 처리, 정책 및 절차 준수. 웹사이트 관리 지원, IT 직원 교육, 일상 업무 모니터링. 뛰어난 업무 수행으로 '이달의 직원' 2회 수상."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2020-08-20",
+      "name": "정보처리기사",
+      "number": "1234567890"
+    }
+  ],
+  "skills": [
+    "하드웨어/소프트웨어 문제 해결",
+    "네트워크 시스템 유지 관리",
+    "기술 지원",
+    "Java",
+    "Python"
+  ],
+  "others": [
+    "독일어: 모국어",
+    "영어: 능숙",
+    "프랑스어: 능숙",
+    "중국어: 초급",
+    "클럽 및 활동: Engineering Society, Math Society, TEDx Club (서울대학교)"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "김진우",
+    "birth": "19720510",
+    "gender": "남성",
+    "address": "경기도 성남시 분당구",
+    "phone": "010-6722-7789",
+    "current_salary": "4500",
+    "desired_salary": "5500"
+  },
+  "educations": [
+    {
+      "school": "인디애나 주립대학교",
+      "major": "경영학",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "XYZ STEEL INC.",
+      "role": "품질 보증 테스터",
+      "start_date": "2002.01",
+      "status": "퇴사",
+      "end_date": "2009.12",
+      "details": "제철소 생산 라인에서 품질 테스트 수행 및 불량률 분석·보고"
+    },
+    {
+      "company": "Printing Company XYZ",
+      "role": "생산·패키징 감독",
+      "start_date": "1998.01",
+      "status": "퇴사",
+      "end_date": "2002.12",
+      "details": "생산 일정 관리 및 자재 구매, 16명 팀을 이끌며 생산성 최적화"
+    },
+    {
+      "company": "Printing Company XYZ",
+      "role": "프레스맨·기계 운영자",
+      "start_date": "1991.01",
+      "status": "퇴사",
+      "end_date": "1998.12",
+      "details": "8색 인쇄기(Comco, Mark Andy) 조작 및 유지보수"
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Windows XP",
+    "Microsoft Word",
+    "Microsoft Excel",
+    "PowerPoint",
+    "생산 일정 관리",
+    "팀 리더십"
+  ],
+  "others": [],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.0,
+    "PayLevel": 4.0,
+    "VisionDirection": 4.0,
+    "Welfare": 4.0,
+    "Workload": 4.0
+  }
+},
+{
+  "basic_info": {
+    "name": "김영준",
+    "birth": "19700315",
+    "gender": "남성",
+    "address": "경기도 고양시 일산동구",
+    "phone": "010-3339-9815",
+    "current_salary": "7000",
+    "desired_salary": "8500"
+  },
+  "educations": [
+    {
+      "school": "웨스턴워싱턴대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC Networks Incorporated",
+      "role": "네트워크 관리자",
+      "start_date": "2000.01",
+      "status": "재직중",
+      "details": "Windows 2000/2003 도메인 및 파일·프린터·Exchange·SQL 서버 운영·유지보수, VPN 보안 관리 및 네트워크 모니터링 도입으로 시스템 가용성 대폭 향상"
+    },
+    {
+      "company": "ABC Networks Incorporated",
+      "role": "IT 기술 지원",
+      "start_date": "1995.01",
+      "status": "퇴사",
+      "end_date": "1999.12",
+      "details": "사용자 하드웨어·소프트웨어 장애 해결, 재고·데이터 무결성 관리, 네트워크 장애 원인 분석 및 대응"
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2003",
+      "name": "Microsoft Certified Professional (MCP)",
+      "number": "MCP-2003-12345"
+    },
+    {
+      "date": "2001",
+      "name": "Certified Novell Administrator (CNA)",
+      "number": "CNA-2001-67890"
+    }
+  ],
+  "skills": [
+    "Windows Server 2003/2000/XP",
+    "Novell NetWare",
+    "VPN 보안",
+    "네트워크 모니터링",
+    "Exchange Server 운영",
+    "SQL Server 관리"
+  ],
+  "others": [
+    "Novell GroupWise 공인 트레이너",
+    "사내 네트워크 가용성 30% 향상 프로젝트 리드"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 3.7
+  }
+},
+{
+  "basic_info": {
+    "name": "오미리",
+    "birth": "19950322",
+    "gender": "여성",
+    "address": "서울특별시 강남구",
+    "phone": "010-1234-5678",
+    "current_salary": 4000,
+    "desired_salary": 5000
+  },
+  "educations": [
+    {
+      "school": "ABC 대학교",
+      "major": "데이터사이언스학과",
+      "degree": "학사",
+      "graduation": "수료"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC CO",
+      "role": "소매 관리 보조",
+      "start_date": "2010",
+      "status": "퇴사",
+      "end_date": "2011",
+      "details": "직원 교육 및 감독, 고객 서비스 제공, 재고 관리 및 통제, 상품 진열 주도."
+    },
+    {
+      "company": "DEF CO",
+      "role": "창고 보조",
+      "start_date": "2007",
+      "status": "퇴사",
+      "end_date": "2009",
+      "details": "매일 100건 이상의 시간 제한 배송 준비. 회사 데이터베이스 개선, 고객 코드 이름 변경, 비활성 고객 제거, 회사 이름 표준화. 회사 전체에서 사용되는 FedEx 소프트웨어 사용에 대한 교육 자료 작성."
+    },
+    {
+      "company": "GHI CO",
+      "role": "고객 서비스 담당자",
+      "start_date": "2006",
+      "status": "퇴사",
+      "end_date": "2007",
+      "details": "단가, 배송 및 납기일, 기타 물류 관련 문의에 응대."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Oracle 11g",
+    "Microsoft Access",
+    "PL/SQL",
+    "SQL",
+    "C",
+    "Java",
+    "UML",
+    "XML",
+    "HTML",
+    "Microsoft Office",
+    "Adobe Creative Suite"
+  ],
+  "others": [
+    "Oracle 데이터베이스 아키텍처, 관리, 백업, 복구 및 성능 튜닝에 대한 광범위한 교육을 받은 유능한 IT 전문가.",
+    "효율성, 생산성 및 수익성을 향상시키는 비즈니스 솔루션을 개발하는 입증된 능력을 통해 강화된 하드웨어/소프트웨어 통합 전문 지식.",
+    "강한 직업 윤리와 회사 우선 태도를 가진 열정적인 전문가."
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "오지현",
+    "birth": "19901010",
+    "gender": "여성",
+    "address": "부산광역시 사하구",
+    "phone": "010-5555-5555",
+    "current_salary": "4000",
+    "desired_salary": "5000"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "ABC 유통",
+      "role": "어시스턴트 매장 관리자",
+      "start_date": "2010.01",
+      "status": "퇴사",
+      "end_date": "2011.12",
+      "details": "직원 교육·관리, 고객 서비스 제공, 재고 모니터링 및 판매 전략 지원"
+    },
+    {
+      "company": "DEF 물류",
+      "role": "물류 사원",
+      "start_date": "2007.01",
+      "status": "퇴사",
+      "end_date": "2009.12",
+      "details": "일일 100건 이상 출하 업무 처리, 사내 데이터베이스 코드 정비 및 고객 코드 표준화"
+    },
+    {
+      "company": "GHI 고객지원",
+      "role": "고객 서비스 담당",
+      "start_date": "2006.01",
+      "status": "퇴사",
+      "end_date": "2007.12",
+      "details": "단가·배송 일정 응대, 물류 정보 제공 및 클레임 처리"
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2011",
+      "name": "Oracle Database Architecture and Administration 수료",
+      "number": "ODB-2011-0001"
+    }
+  ],
+  "skills": [
+    "Oracle 11g",
+    "PL/SQL/SQL",
+    "백업·복구",
+    "성능 튜닝",
+    "데이터 무결성 관리"
+  ],
+  "others": [
+    "강한 책임감과 학습 의지",
+    "사내 데이터베이스 정비 프로젝트 수행"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "신지혜",
+    "birth": "19911205",
+    "gender": "여성",
+    "address": "서울특별시 강남구",
+    "phone": "010-1111-1111",
+    "current_salary": 6500,
+    "desired_salary": 7200
+  },
+  "educations": [
+    {
+      "school": "미주리 대학교",
+      "major": "컴퓨터 과학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "RUNOLFSDOTTIR-PREDOVIC",
+      "role": "수석 Teradata 데이터베이스 관리자",
+      "start_date": "2018.11",
+      "status": "재직중",
+      "details": [
+        "복잡한 시스템을 위한 데이터베이스 자동화 프레임워크 개발 경험",
+        "혁신적이고 확장 가능하며 복원력 있는 프로덕션 데이터베이스 운영 지원 소프트웨어/도구 개발",
+        "모니터링, 보안, 용량 계획, 문제 해결, 데이터베이스 패치, 백업 및 복구 전략 등 프로덕션 데이터베이스 지원 업무 지식",
+        "Docker, Terraform 및 Kubernetes, EKS, GKS를 활용한 분산 앱 배포 경험"
+      ]
+    },
+    {
+      "company": "MCCLURE INC",
+      "role": "IT 데이터베이스 관리자",
+      "start_date": "2014.10",
+      "status": "퇴사",
+      "end_date": "2018.10",
+      "details": [
+        "MS SQL/Oracle DB 시스템 중 하나 이상 사용 경험",
+        "MS SQL/Oracle 교육 과정 등 IT 관련 교육 자격증 보유 우대",
+        "뛰어난 분석, 문제 해결 및 멀티태스킹 능력",
+        "데이터베이스 시스템 유지 관리 및 성능 개선에 관심",
+        "기술 학습 및 공유에 적극적",
+        "능숙한 중국어 및 영어 구두/서면 의사소통 능력",
+        "웹 애플리케이션 개발 및 관계형 데이터베이스 능숙도",
+        "뛰어난 데이터 통신 및 대인 관계 기술"
+      ]
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "GitHub 관리",
+    "AWS ElasticSearch Service",
+    "Grafana",
+    "Graphite",
+    "Cloudwatch"
+  ],
+  "others": [
+    "오픈 소스 커뮤니티 기여 및 참여",
+    "복잡한 분산 시스템, 병렬 분산 알고리즘 및 분산 합의 프로토콜 심층 경험",
+    "동시 B-트리 접근 방식, ACID 트랜잭션, 로깅 및 복구 중 하나 이상에 대한 깊이 있는 지식",
+    "Java, C 또는 C++ 능숙",
+    "분산 환경에서의 동시 프로그래밍 능숙"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "이현지",
+    "birth": "19891010",
+    "gender": "여성",
+    "address": "대구광역시 수성구",
+    "phone": "010-6992-5740",
+    "current_salary": "8000",
+    "desired_salary": "9000"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "런올프스도티르-프레도빅",
+      "role": "시니어 테라데이터 DBA",
+      "start_date": "2018.11",
+      "status": "재직중",
+      "details": "복잡한 시스템을 위한 데이터베이스 자동화 프레임워크를 개발하고, Docker/Kubernetes(EKS, GKS) 및 Terraform을 활용해 분산 애플리케이션을 배포하며, 모니터링·보안·용량 계획·백업·복구 전략을 수립·운영함."
+    },
+    {
+      "company": "맥클루어 Inc",
+      "role": "IT 데이터베이스 관리자",
+      "start_date": "2014.10",
+      "status": "퇴사",
+      "end_date": "2018.10",
+      "details": "MS SQL 및 Oracle 환경에서 데이터베이스 유지보수·성능 개선을 수행하고, 분석 능력을 바탕으로 문제를 해결하며, 웹 애플리케이션 개발 및 관계형 DB 관리를 지원함."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "GitHub 관리",
+    "AWS Elasticsearch Service",
+    "Grafana/Graphite/CloudWatch 모니터링",
+    "분산 시스템 설계",
+    "병렬 분산 알고리즘",
+    "동시성 프로그래밍 (Java/C++)"
+  ],
+  "others": [
+    "오픈소스 커뮤니티 기여 경험",
+    "데이터베이스 자동화 프레임워크 개발 전문성"
+  ],
+  "scores": {
+    "TeamCulture": 4.2,
+    "Evaluation": 4.1,
+    "PayLevel": 3.9,
+    "VisionDirection": 4.0,
+    "Welfare": 3.8,
+    "Workload": 4.1
+  }
+},
+{
+  "basic_info": {
+    "name": "박지훈",
+    "birth": "19941010",
+    "gender": "남성",
+    "address": "서울특별시 송파구",
+    "phone": "010-2345-6789",
+    "current_salary": "7000",
+    "desired_salary": "8500"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "컴퓨터공학과",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Growthsi",
+      "role": "인증 Python 개발자",
+      "start_date": "2020.01",
+      "end_date": "현재",
+      "status": "재직중",
+      "details": "30여 명의 클라이언트 요구사항을 반영해 백엔드 구성 요소를 개발하고, 데이터 보안 강화로 보안 수준을 24% 향상시켰으며, 대용량 DB 관리 및 서비스 설정 최적화를 통해 유지보수 비용을 15% 절감함. 사내 동료 3명 대상 교육·멘토링을 수행하고 ‘올해의 사원상’을 수상함."
+    },
+    {
+      "company": "Growthsi",
+      "role": "Python 개발자/테스터",
+      "start_date": "2016.07",
+      "status": "퇴사",
+      "end_date": "2019.12",
+      "details": "프로덕션→스테이징 테스트 자동화로 버그 회귀 테스트 5건을 전환하고, Python requests로 JSON 리포트를 파싱하여 NVBugs에 자동 등록하는 API 연동을 구축. DB 및 백엔드 애플리케이션 설계·구성으로 운영 효율을 14% 향상시키고, 100여 고객 대상 내부 도구를 개발·배포함."
+    },
+    {
+      "company": "Resume Worded",
+      "role": "Python 개발자 인턴",
+      "start_date": "2015.01",
+      "status": "퇴사",
+      "end_date": "2016.06",
+      "details": "Python 기반 웹 데이터 수집 시스템 3종을 설계·개발하고, Matlab을 활용한 통계 분석으로 100% 정확도의 데이터 해석을 달성함."
+    }
+  ],
+  "licenses": [
+    {
+      "date": "2016.05",
+      "name": "Certified Python Developer",
+      "number": "1111"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Django",
+    "Flask",
+    "Selenium",
+    "RESTful API",
+    "MySQL",
+    "PostgreSQL",
+    "Git",
+    "Docker",
+    "AWS"
+  ],
+  "others": [
+    "Employee of the Year Award 수상",
+    "6년간 Python 기반 프로젝트 수행 경력"
+  ],
+  "scores": {
+    "TeamCulture": 4.3,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 4.2
+  }
+},
+{
+  "basic_info": {
+    "name": "김강준",
+    "birth": "19830303",
+    "gender": "남성",
+    "address": "부산광역시 해운대구",
+    "phone": "010-1345-6789",
+    "current_salary": "9000",
+    "desired_salary": "10000"
+  },
+  "educations": [
+    {
+      "school": "콜로비아대학교",
+      "major": "컴퓨터공학",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Johns, Batz and O'Hara",
+      "role": "수석 Python 개발자",
+      "start_date": "2018.07",
+      "end_date": "현재",
+      "status": "재직중",
+      "details": "데이터 모델링 및 데이터웨어하우징 경험, JIRA/Git/TeamCity/Agile Central 등 애자일 도구 활용. Git/Stash 및 Autosys 기반 배치 제어, TeamCity/Nexus 빌드·배포로 CI/CD 파이프라인 운영. QlikView·Tableau 등의 비즈니스 시각화 도구 연동. Java·Python 기반 엔터프라이즈 소프트웨어 개발 및 릴리즈 관리 수행."
+    },
+    {
+      "company": "Ritchie-Ward",
+      "role": "Python 개발자",
+      "start_date": "2013.07",
+      "status": "퇴사",
+      "end_date": "2018.06",
+      "details": "Python 기반 웹 서비스 개발 및 JavaScript·HTML·CSS 프런트엔드 구현. 데이터 분석 도구 연동 및 데이터 구조 설계 경험. CI/CD 지원 및 코드 품질 관리, 성능 테스트 자동화 수행."
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "HTML/CSS",
+    "데이터 모델링",
+    "데이터웨어하우징",
+    "Git",
+    "Autosys",
+    "TeamCity/Nexus",
+    "CI/CD",
+    "QlikView",
+    "Tableau",
+    "DevOps",
+    "테스트 자동화"
+  ],
+  "others": [
+    "애자일·DevOps 환경 협업 경험",
+    "테스트 트래픽 생성 도구 개발 경험"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.7,
+    "VisionDirection": 4.0,
+    "Welfare": 3.6,
+    "Workload": 3.8
+  }
+},
+{
+  "basic_info": {
+    "name": "김기범",
+    "birth": "19890615",
+    "gender": "남성",
+    "address": "서울특별시 강남구 역삼동",
+    "phone": "010-5550-0114",
+    "current_salary": "9000",
+    "desired_salary": "10000"
+  },
+  "educations": [
+    {
+      "school": "고려대학교",
+      "major": "컴퓨터응용학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Capital One",
+      "role": "Python 개발자/테스터",
+      "start_date": "2016.07",
+      "status": "재직중",
+      "details": [
+        "서버 구축 자동화 및 서버 폐기 자동화 설계 및 구현.",
+        "유닛 테스트, 통합 테스트 및 웹 애플리케이션 테스트 작업 수행.",
+        "유닛 테스트 python 라이브러리를 사용하여 python 및 기타 코드에서 많은 프로그램 테스트.",
+        "고품질 데이터 수집 및 데이터 무결성 유지.",
+        "Excel 매크로 및 python 라이브러리를 사용하여 타사 지출 데이터를 관리 가능한 형식으로 처리.",
+        "Python을 사용하여 DCAE라는 회사의 내부 플랫폼 생성 및 컴포넌트 개발/테스트 담당.",
+        "Python IDE PYCharm을 사용하여 코드 개발 및 단위 테스트 수행."
+      ]
+    },
+    {
+      "company": "ABC Corp",
+      "role": "Python 개발자",
+      "start_date": "2014",
+      "status": "퇴사",
+      "end_date": "2016",
+      "details": [
+        "xml 문서를 파싱하고 데이터를 데이터베이스에 로드하는 python 스크립트 작성.",
+        "pandas api를 사용하여 타임스탬프 데이터 조작 및 검색을 위한 데이터를 시계열 및 테이블 형식으로 구성.",
+        "환경, 코드 설치 및 svn 구현에 관여.",
+        "타사 지출 데이터를 정리하고 excel 매크로 및 python 라이브러리를 사용하여 관리 가능한 형식으로 처리.",
+        "고품질 데이터 수집 및 데이터 무결성 유지.",
+        "최종 사용자 피드백을 의미 있고 개선된 솔루션으로 변환하기 위해 내부 팀과 협력.",
+        "이 프로젝트는 javascript 조작을 위한 jquery, 프런트 엔드 html 레이아웃을 위한 bootstrap과 같은 다른 기술도 사용."
+      ]
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "MS SQL Server",
+    "Oracle",
+    "SQL",
+    "SQL Server",
+    "PYTHON"
+  ],
+  "others": [
+    "Jenkins 사용한 지속적인 통합 및 자동화 경험",
+    "단위 테스트/테스트 주도 개발(TDD), 로드 테스트 능숙",
+    "단위 테스트 계획(UTP), 통합 테스트 계획(ITP) 능숙",
+    "사용자 수용 테스트(UAT) 광범위한 경험",
+    "PYCHARM"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "김승연",
+    "birth": "19901010",
+    "gender": "남성",
+    "address": "서울특별시 강남구",
+    "phone": "010-1111-1111",
+    "current_salary": "8000",
+    "desired_salary": "8000"
+  },
+  "educations": [
+    {
+      "school": "한강대학교",
+      "major": "컴퓨터 과학",
+      "degree": "석사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "전북대학교",
+      "major": "컴퓨터 과학",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Capital One",
+      "role": "Python 개발자/테스터",
+      "start_date": "2016.07",
+      "status": "재직중",
+      "details": [
+        "서버 구축 자동화 및 서버 폐기 자동화 설계 및 구현.",
+        "유닛 테스트, 통합 테스트 및 웹 애플리케이션 테스트 작업 수행.",
+        "유닛 테스트 python 라이브러리를 사용하여 python 및 기타 코드에서 많은 프로그램 테스트.",
+        "고품질 데이터 수집 및 데이터 무결성 유지.",
+        "Excel 매크로 및 python 라이브러리를 사용하여 타사 지출 데이터를 관리 가능한 형식으로 처리.",
+        "Python을 사용하여 DCAE라는 회사의 내부 플랫폼 생성 및 컴포넌트 개발/테스트 담당.",
+        "Python IDE PYCharm을 사용하여 코드 개발 및 단위 테스트 수행."
+      ]
+    },
+    {
+      "company": "ABC Corp",
+      "role": "Python 개발자",
+      "start_date": "2014",
+      "status": "퇴사",
+      "end_date": "2016",
+      "details": [
+        "xml 문서를 파싱하고 데이터를 데이터베이스에 로드하는 python 스크립트 작성.",
+        "pandas api를 사용하여 타임스탬프 데이터 조작 및 검색을 위한 데이터를 시계열 및 테이블 형식으로 구성.",
+        "환경, 코드 설치 및 svn 구현에 관여.",
+        "타사 지출 데이터를 정리하고 excel 매크로 및 python 라이브러리를 사용하여 관리 가능한 형식으로 처리.",
+        "고품질 데이터 수집 및 데이터 무결성 유지.",
+        "최종 사용자 피드백을 의미 있고 개선된 솔루션으로 변환하기 위해 내부 팀과 협력.",
+        "이 프로젝트는 javascript 조작을 위한 jquery, 프런트 엔드 html 레이아웃을 위한 bootstrap과 같은 다른 기술도 사용."
+      ]
+    }
+  ],
+  "licenses": [],
+  "skills": [
+    "MS SQL Server",
+    "Oracle",
+    "SQL",
+    "SQL Server",
+    "PYTHON"
+  ],
+  "others": [
+    "Jenkins 사용한 지속적인 통합 및 자동화 경험",
+    "단위 테스트/테스트 주도 개발(TDD), 로드 테스트 능숙",
+    "단위 테스트 계획(UTP), 통합 테스트 계획(ITP) 능숙",
+    "사용자 수용 테스트(UAT) 광범위한 경험",
+    "PYCHARM"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.9
+  }
+},
+{
+  "basic_info": {
+    "name": "박선우",
+    "birth": "20001010",
+    "gender": "남성",
+    "address": "서울특별시 강남구",
+    "phone": "010-1111-1111",
+    "current_salary": "3000",
+    "desired_salary": "4000"
+  },
+  "educations": [
+    {
+      "school": "서울대학교",
+      "major": "컴퓨터 과학과",
+      "degree": "석사",
+      "graduation": "졸업"
+    },
+    {
+      "school": "전주대학교",
+      "major": "경영학학",
+      "degree": "학사",
+      "graduation": "졸업"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Scout Corporation",
+      "role": "React 개발자",
+      "start_date": "2016.11",
+      "status": "퇴사",
+      "end_date": "2017.01",
+      "details": "React, Redux 및 D3 Javascript 라이브러리를 사용하여 JSON 검색 데이터를 표시하는 Python Flask API 기반 단일 페이지 애플리케이션 개발."
+    },
+    {
+      "company": "Keylocation",
+      "role": "프론트 엔드 개발자",
+      "start_date": "2016.07",
+      "status": "퇴사",
+      "end_date": "2016.11",
+      "details": "트래픽이 많은 웹사이트 부분을 Google AMP 모바일 친화적 형식으로 포팅. 대규모 파일 시스템 작업 숙련도 향상. Javascript, Github, Bootstrap, Sass 및 Angular 경험 습득."
+    }
+  ],
+  "licenses": [
+
+  ],
+  "skills": [
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "TypeScript",
+    "JSX"
+  ],
+  "others": [
+    "JavaScript Fundamentals +ES6, Node JS, MongoDB, PostgreSQL",
+    "Node Package Management NPM, Redux, Mocha, GitHub repository",
+    "Enzyme, Bitrise, Jest, Sentry, ESLint, Webpack, Flux",
+    "지속적인 테스팅, 문제 해결 및 통합",
+    "UX/UI, Restful API, 성능 확인, 문서화",
+    "Python",
+    "jQuery, React, Angular, D3, Webpack",
+    "Node.js (Express)",
+    "HTML5, Jade, CSS3, Sass",
+    "Bootstrap, Flexbox, SVG"
+  ],
+  "scores": {
+    "TeamCulture": 4.0,
+    "Evaluation": 4.1,
+    "PayLevel": 3.8,
+    "VisionDirection": 4.0,
+    "Welfare": 3.7,
+    "Workload": 3.9
+  }
+}
+]
+  

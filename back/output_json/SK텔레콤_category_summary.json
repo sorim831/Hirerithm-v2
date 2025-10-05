@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 74,
+    "average_score": 3.4997432432432434,
+    "comment1": "팀내 팀원들의 조화와 화합이 좋았음",
+    "comment2": "우리 팀원들은 자유롭고 배려하고 서로 응원해주는 등 내가 전생에 나라를 구했나 어떻게 이런 회사에서 이런 동료를 만났지?",
+    "comments": [
+      "팀내 팀원들의 조화와 화합이 좋았음",
+      "우리 팀원들은 자유롭고 배려하고 서로 응원해주는 등 내가 전생에 나라를 구했나 어떻게 이런 회사에서 이런 동료를 만났지?"
+    ]
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 19,
+    "average_score": 2.2937894736842104,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 16,
+    "average_score": 3.3615,
+    "comments": []
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 67,
+    "average_score": 2.087626865671642,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 64,
+    "average_score": 4.404109375,
+    "comment1": "복지제도는 싱글이든 기혼이든 모두에게 이보다 좋은 복지가 있을까 싶을 정도로 잘 되어있음",
+    "comment2": "핸드폰 거의 공짜",
+    "comments": [
+      "복지제도는 싱글이든 기혼이든 모두에게 이보다 좋은 복지가 있을까 싶을 정도로 잘 되어있음",
+      "핸드폰 거의 공짜"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 76,
+    "average_score": 3.046894736842105,
+    "comments": []
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 79,
+    "average_score": 3.655291139240506,
+    "comment1": "전반적인 조직문화가 온건한 편",
+    "comment2": "자유로운 업무 분위기라는 점이 장점인 것 같습니다",
+    "comments": [
+      "전반적인 조직문화가 온건한 편",
+      "자유로운 업무 분위기라는 점이 장점인 것 같습니다"
+    ]
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 65,
+    "average_score": 3.4365076923076923,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 67,
+    "average_score": 3.3147014925373135,
+    "comments": []
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 31,
+    "average_score": 2.1841290322580647,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 54,
+    "average_score": 3.926925925925926,
+    "comment1": "그룹 교육 등의 교육 지원이 좋음",
+    "comment2": "복지가 점점 좋아집니다 본사에서는 혜택도 많아요",
+    "comments": [
+      "그룹 교육 등의 교육 지원이 좋음",
+      "복지가 점점 좋아집니다 본사에서는 혜택도 많아요"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 101,
+    "average_score": 2.5772475247524755,
+    "comments": []
+  }
+]

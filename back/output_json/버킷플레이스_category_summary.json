@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 108,
+    "average_score": 3.7758518518518516,
+    "comment1": "빌런이 없어요 비상식적인 사람은 보지 못했습니다",
+    "comment2": "스타트업들의 장점들은 많이가지고 있음",
+    "comments": [
+      "빌런이 없어요 비상식적인 사람은 보지 못했습니다",
+      "스타트업들의 장점들은 많이가지고 있음"
+    ]
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 41,
+    "average_score": 3.386682926829268,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 21,
+    "average_score": 2.5408095238095236,
+    "comments": []
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 55,
+    "average_score": 2.3429272727272727,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 96,
+    "average_score": 4.3966770833333335,
+    "comment1": "회사 시설, 교통편 좋음, 사내 카페테리아, 조식 간식 제공",
+    "comment2": "회사 내에 있는 카페 공짜고 사용하고 있는 건물이 깨끗합니다",
+    "comments": [
+      "회사 시설, 교통편 좋음, 사내 카페테리아, 조식 간식 제공",
+      "회사 내에 있는 카페 공짜고 사용하고 있는 건물이 깨끗합니다"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 111,
+    "average_score": 2.518045045045045,
+    "comments": []
+  }
+]

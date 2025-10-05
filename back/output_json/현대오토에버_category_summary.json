@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 44,
+    "average_score": 3.2932045454545458,
+    "comment1": "대기업 문화가 있어서 자유로운 분위기는 아닙니다",
+    "comment2": "팀바팀이라 팀을 잘 걸려야함",
+    "comments": [
+      "대기업 문화가 있어서 자유로운 분위기는 아닙니다",
+      "팀바팀이라 팀을 잘 걸려야함"
+    ]
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 28,
+    "average_score": 2.6992499999999997,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 51,
+    "average_score": 3.119921568627451,
+    "comments": []
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 43,
+    "average_score": 2.4621162790697673,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 77,
+    "average_score": 4.372428571428571,
+    "comment1": "여름휴가 따로나오는거랑 복지가 좋음",
+    "comment2": "여러가지 복지가 잘되어있다 차량할인이 된다 통신비 지원 및 점심 저녁 식대 지원",
+    "comments": [
+      "여름휴가 따로나오는거랑 복지가 좋음",
+      "여러가지 복지가 잘되어있다 차량할인이 된다 통신비 지원 및 점심 저녁 식대 지원"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 93,
+    "average_score": 3.1066021505376344,
+    "comments": []
+  }
+]

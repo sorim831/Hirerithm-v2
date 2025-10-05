@@ -1,0 +1,262 @@
+.signup_wrapper {
+  margin-top: 120px;
+  margin-bottom: 50px;
+}
+
+.signup_wrapper {
+  background-color: #fff;
+  min-height: 100vh;
+  font-family: "Noto Sans KR", sans-serif;
+  padding: 1rem;
+}
+
+.signup_form {
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+.signup_section-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.required {
+  color: green;
+  margin-left: 0.25rem;
+}
+
+/* 약관 영역 */
+.signup_terms-box {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  background: #fff;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.signup_term-all {
+  font-weight: bold;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.signup_term-all-sub {
+  font-size: 0.8rem;
+  color: #666;
+  margin-left: 1.3rem;
+  margin-top: 0.3rem;
+}
+
+.signup_term-title {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.5rem;
+  padding: 0.7rem 0;
+  font-weight: 600;
+  text-align: left;
+  position: relative;
+}
+
+.signup_term-title label {
+  flex: 1;
+  text-align: left;
+}
+
+.signup_arrow {
+  position: absolute;
+  right: 0;
+  cursor: pointer;
+  color: #555;
+  font-size: 0.9rem;
+}
+
+.term-title-text {
+  font-weight: bold;
+}
+
+.green-star {
+  color: green;
+  margin-right: 0.3rem;
+}
+
+/* 커스텀 체크박스 */
+.signup_checkbox {
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+  border: 2px solid #facc15;
+  border-radius: 4px;
+  cursor: pointer;
+  vertical-align: middle;
+  position: relative;
+}
+
+.signup_checkbox:checked::after {
+  content: "✔";
+  position: absolute;
+  font-size: 12px;
+  top: -2px;
+  left: 2px;
+  color: #facc15;
+}
+
+.signup_divider {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 1rem 0;
+}
+
+/* 기본 폼 영역 */
+.signup_form-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.signup_form-group label {
+  flex: 0 0 150px;
+  font-weight: bold;
+}
+
+.signup_form-group.horizontal {
+  align-items: flex-start;
+}
+
+.signup_form-group input,
+.signup_form-group select {
+  flex: 1;
+  padding: 0.7rem;
+  font-size: 0.95rem;
+  border: none;
+  border-radius: 6px;
+  background-color: #fefebf;
+  outline: none;
+}
+
+/* 이메일 중복 확인 버튼 */
+.signup_input-with-btn {
+  display: flex;
+  gap: 0.5rem;
+  width: 100%;
+}
+
+/* 전화번호 */
+.signup_phone-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  width: 100%;
+}
+
+.signup_phone-wrapper input {
+  width: 70px;
+  padding: 0.7rem;
+  border: none;
+  background-color: #fefebf;
+  border-radius: 6px;
+  font-size: 1rem;
+  outline: none;
+}
+
+/* 버튼들 */
+.signup_btn-secondary {
+  padding: 0.6rem 0.9rem;
+  font-size: 0.85rem;
+  background-color: #008a34;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.signup_submit-btn {
+  width: 100%;
+  padding: 1rem;
+  background-color: #008a34;
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 2rem;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  margin-left: 150px;
+}
+
+/* 입력창 외 모든 요소의 포커스 아웃라인 제거 */
+*:focus:not(input):not(textarea):not(select) {
+  outline: none;
+}
+
+/* 입력 칸 외 포커스 outline 제거 */
+*:focus:not(input):not(textarea):not(select) {
+  outline: none;
+}
+
+/* 버튼 깜빡임 제거 (일부 브라우저 호환을 위해 따로 명시) */
+button:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+select {
+  caret-color: transparent;
+}
+
+select:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.signup_term-content {
+  white-space: pre-wrap; /* 줄바꿈/공백 유지 */
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  background: #f9f9f9;
+  border-radius: 8px;
+  margin-top: 0.5rem;
+}
+
+/* 기본적으로 모든 요소의 포커스 테두리 제거 */
+*:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  caret-color: transparent !important;
+}
+
+/* 단, 입력 가능한 요소에는 포커스 테두리와 커서 유지 */
+input:focus,
+textarea:focus,
+select:focus {
+  outline: auto !important;
+  caret-color: auto !important;
+}
+
+/* 모든 요소에서 커서 깜빡임 제거 (caret-color 없앰) */
+*:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  caret-color: transparent !important;
+}
+
+.email-error {
+  margin-top: 0.3rem;
+  color: red;
+  font-size: 0.9rem;
+  white-space: normal; /* ✅ 세로 글자 깨짐 방지 */
+  text-align: left; /* 왼쪽 정렬 */
+}

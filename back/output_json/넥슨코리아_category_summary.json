@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 84,
+    "average_score": 3.466440476190476,
+    "comment1": "개발자들을 우대하는 회사 분위기와 기업 문화가 좋았습니다",
+    "comment2": "분위기가 좋고 서로가 서로를 존중하고있다는 느낌을 받았다",
+    "comments": [
+      "개발자들을 우대하는 회사 분위기와 기업 문화가 좋았습니다",
+      "분위기가 좋고 서로가 서로를 존중하고있다는 느낌을 받았다"
+    ]
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 23,
+    "average_score": 3.027173913043478,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 33,
+    "average_score": 3.334939393939394,
+    "comments": []
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 47,
+    "average_score": 2.2430851063829786,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 96,
+    "average_score": 4.26509375,
+    "comment1": "식대와 카페비를 지원해줘서 이용할 때 마음 편하고 좋아요",
+    "comment2": "회사 복지가 너무 좋았고 회사 내부 시설도 너무 좋았음",
+    "comments": [
+      "식대와 카페비를 지원해줘서 이용할 때 마음 편하고 좋아요",
+      "회사 복지가 너무 좋았고 회사 내부 시설도 너무 좋았음"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 87,
+    "average_score": 2.9879310344827585,
+    "comments": []
+  }
+]

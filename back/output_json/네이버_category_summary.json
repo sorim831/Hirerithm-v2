@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 59,
+    "average_score": 3.667864406779661,
+    "comment1": "업무하시는 분들의 책임감이 높아서 신뢰하고 일할 수 있습니다",
+    "comment2": "국내에서 만날 수 있는 최고 수준의 동료들과 함께 일할 수 있음",
+    "comments": [
+      "업무하시는 분들의 책임감이 높아서 신뢰하고 일할 수 있습니다",
+      "국내에서 만날 수 있는 최고 수준의 동료들과 함께 일할 수 있음"
+    ]
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 34,
+    "average_score": 3.5680588235294115,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 18,
+    "average_score": 3.1632777777777776,
+    "comments": []
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 63,
+    "average_score": 2.2815396825396825,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 67,
+    "average_score": 4.304820895522388,
+    "comment1": "구내 식당 있고 이런 저런 자잘한 복지들이 많아서 다닐맛 납니다",
+    "comment2": "부모님 보험까지 지원 아침점심저녁 지원",
+    "comments": [
+      "구내 식당 있고 이런 저런 자잘한 복지들이 많아서 다닐맛 납니다",
+      "부모님 보험까지 지원 아침점심저녁 지원"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 66,
+    "average_score": 2.918151515151515,
+    "comments": []
+  }
+]

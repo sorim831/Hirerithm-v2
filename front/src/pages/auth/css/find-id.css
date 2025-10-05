@@ -1,0 +1,191 @@
+/* ✅ 업데이트된 FindIdPage.css */
+
+.find-id_container {
+  font-family: sans-serif;
+  background-color: #fff;
+  min-height: 100vh;
+}
+
+.find-id_content {
+  max-width: 800px;
+  margin: 3rem auto;
+  padding: 1rem;
+}
+
+.find-id_content h2 {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom: 0.3rem;
+}
+
+.find-id_desc {
+  font-size: 0.85rem;
+  color: #555;
+  margin-bottom: 2rem;
+}
+
+.find-id_find-id-box {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 2rem;
+  border: 1px solid #ddd; /* ✅ 박스 테두리 */
+  border-radius: 12px;
+  background-color: #fff; /* 배경 흰색 */
+}
+
+.find-id_header-inline {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  margin-bottom: 1.5rem; /* 아래 입력칸과 간격 */
+}
+
+.find-id_form-group {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.find-id_form-group label {
+  width: 120px;
+  font-weight: bold;
+  color: #111;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.find-id_form-group label span {
+  color: green;
+  margin-left: 0.2rem;
+}
+
+.find-id_form-group input {
+  flex: 1;
+  padding: 0.8rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #fef9c3;
+  border: none;
+}
+
+.find-id_phone-input {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex: 1;
+}
+
+.find-id_phone-input input {
+  width: 70px;
+  padding: 0.7rem;
+  border: none;
+  background-color: #fef9c3;
+}
+
+.find-id_verify-btn {
+  padding: 0.7rem 1rem;
+  background-color: #008a34;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  white-space: nowrap;
+  font-size: 0.9rem;
+}
+
+.find-id_next-btn {
+  width: 100%;
+  padding: 1rem;
+  background-color: #008a34;
+  color: white;
+  border: none;
+  font-weight: bold;
+  margin-top: 1.5rem;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+.find-id_result {
+  margin: 2rem auto;
+  border: 1px solid #ddd;
+  padding: 2rem;
+  background: #f9f9f9;
+  text-align: center;
+  border-radius: 12px;
+}
+
+.find-id_email {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.find-id_date {
+  display: block;
+  margin-top: 1rem;
+  color: #555;
+}
+
+.find-id_btn-group {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.find-id_login-action,
+.find-id_find-pw {
+  padding: 0.7rem 1.5rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.95rem;
+}
+
+.find-id_login-action {
+  background-color: #059669;
+  color: white;
+}
+
+.find-id_find-pw {
+  background-color: #fef9c3;
+  color: #333;
+}
+.find-id_header-inline {
+  display: flex;
+  align-items: baseline; /* h2와 p 정렬 맞춤 */
+  gap: 1.5rem; /* 좌우 간격 */
+  margin-bottom: 2rem;
+}
+
+.find-id_title {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin: 0; /* 기본 여백 제거 */
+}
+
+.find-id_desc-inline {
+  font-size: 0.85rem;
+  color: #888; /* 더 연한 회색 */
+  font-weight: normal; /* 기본 굵기 (혹시 bold로 되어있다면 효과 있음) */
+}
+
+.find-id_header-inline {
+  display: flex;
+  align-items: baseline; /* 제목과 설명의 기준선 맞춤 */
+  gap: 1rem; /* 사이 간격 조절 */
+  margin-bottom: 1.5rem;
+}
+
+.find-id_title {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.find-id_desc-inline {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0;
+}

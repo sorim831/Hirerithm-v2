@@ -1,0 +1,348 @@
+.full-view-main-wrapper {
+  margin-top: 130px;
+  margin-bottom: 50px;
+}
+
+/* 페이지 인덱스 */
+.full-view-main-wrapper header {
+  width: 100%;
+}
+
+.full-view-main-index-wrapper {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f2fff7;
+  border-left: 4px solid #008a34;
+  padding-left: 10px;
+  width: calc(100% - 100px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 10px 10px 0px;
+}
+
+.full-view-main-index-wrapper img {
+  height: 30px;
+  margin-right: 10px;
+}
+
+.full-view-main-index-wrapper h2 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #1e1e1e;
+}
+
+.full-view-main-wrapper header p {
+  font-weight: 500;
+  font-size: 20px;
+  color: #008a34;
+  text-indent: 100px;
+}
+
+.filter-search-section {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 40px;
+}
+
+.filter-controls {
+  width: 75%;
+}
+
+.filter-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.filter-btn {
+  border: none;
+  border-radius: 20px;
+  padding: 5px 15px;
+  color: #1e1e1e;
+  border: 1px solid #c0c0c0;
+  font-size: 15px;
+  font-weight: 500;
+  width: 100%;
+}
+
+.filter-btn:focus {
+  background-color: #008a34;
+  color: #f2fff7;
+}
+
+.filter-btn option {
+  background-color: #ffffff !important;
+  color: #1e1e1e !important;
+}
+
+/* 검색 바와 버튼 */
+.search-and-buttons-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  width: auto;
+  position: relative;
+  display: inline-block;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  position: relative;
+  flex: 1;
+  border: none;
+  background-color: transparent;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 5px 10px 5px 40px;
+  border: 1px solid #c0c0c0;
+  border-radius: 20px;
+  font-size: 15px;
+}
+
+.search-bar input::placeholder {
+  font-size: 15px;
+  font-weight: 500;
+  color: #c0c0c0;
+}
+
+.search-bar input:focus {
+  outline: none;
+  border: none;
+  border: 1px solid #008a34;
+}
+
+.search-icon {
+  position: absolute;
+  top: 50%;
+  left: 12px;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  pointer-events: none;
+}
+
+/* 버튼 그룹 */
+.sort-refresh-btns {
+  display: flex;
+  align-items: center;
+  position: relative;
+  border: none;
+  background-color: transparent;
+  gap: 0.5rem;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.sort-refresh-btns .sort-filter-btn {
+  background-color: transparent;
+  border: 1px solid #c0c0c0;
+  border-radius: 20px;
+  font-size: 17px;
+  font-weight: 500;
+  border-radius: 20px;
+  padding: 5px 15px;
+}
+
+.refresh-btns .sort-filter-btn:focus {
+  background-color: #008a34;
+  color: #f2fff7;
+}
+
+.sort-filter-btn:hover {
+  background-color: #008a3450;
+  color: #1e1e1e;
+}
+
+.sort-filter-btn.selected {
+  background-color: #008a34;
+  color: #f2fff7;
+}
+
+.refresh-btns {
+  border: none;
+  background-color: transparent;
+}
+
+.refresh-btns:hover img {
+  transform: rotate(20deg);
+}
+
+.refresh-btns img {
+  width: 35px;
+  height: 35px;
+  transition: transform 0.3s ease;
+}
+
+.refresh-hover-label {
+  position: absolute;
+  top: 90%;
+  left: 100%;
+  transform: translateX(-50%);
+  background-color: #008a34;
+  padding: 4px 8px;
+  font-size: 0.75rem;
+  border-radius: 5px;
+  white-space: nowrap;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+  color: #e6feef;
+  z-index: 10;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  opacity: 0;
+}
+
+.refresh-btn-wrapper:hover .refresh-hover-label {
+  opacity: 1;
+  transform: translateX(-50%) translateY(5px);
+}
+
+/* 후보자 row */
+.db-list-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 50px;
+}
+
+.db-item {
+  display: flex;
+  position: relative;
+  gap: 3rem;
+  border: none;
+  border-left: 10px solid #008a34;
+  padding: 30px 50px;
+  border-radius: 0px 10px 10px 0px;
+  width: 80%;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15);
+  background-color: #f2fff73a;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease,
+    transform 0.3s ease;
+}
+
+.db-item:hover {
+  background-color: #e6feef;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+  transform: scale(1.03);
+}
+
+/* 프로필 */
+.db-item-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 100px;
+  justify-content: center;
+}
+
+.db-item-profile img {
+  width: 85px;
+  height: 85px;
+}
+
+.db-item-profile > p {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 500;
+  font-size: 17px;
+  margin-top: 10px;
+}
+
+/* 디테일 */
+.db-item-detail ul {
+  padding: 0;
+  margin: 0;
+  list-style: none !important;
+}
+
+.db-item-detail li {
+  margin-bottom: 0.25rem;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+/* 로딩중 표시 */
+.loading-text {
+  font-weight: bold;
+  color: #1e1e1e;
+  font-size: 20px;
+}
+
+.loading-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  font-size: 1.1rem;
+  color: #444;
+}
+
+.loading-spinner {
+  width: 16px;
+  height: 16px;
+  border: 3px solid #ccc;
+  border-top: 3px solid #008a34;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin-right: 10px;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* 결과 없을 때 */
+.no-result-text {
+  font-weight: 500;
+  color: #1e1e1e;
+  font-size: 20px;
+}
+
+/* 좋아요 버튼 */
+.heart-toggle-btn {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  width: auto;
+  height: auto;
+  cursor: pointer;
+}
+
+.heart-toggle-btn img {
+  width: 28px;
+  height: 28px;
+  display: block;
+}
+
+.heart-toggle-btn:hover img {
+  transform: scale(1.2);
+  transition: transform 0.2s ease;
+}
+
+.wishlist-count-text {
+  position: absolute;
+  top: 30px;
+  right: 25px;
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  width: auto;
+  height: auto;
+  cursor: pointer;
+}

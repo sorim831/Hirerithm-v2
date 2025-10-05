@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 72,
+    "average_score": 3.6750833333333333,
+    "comment1": "수평적 문화 도전적인 사내 문화 똑똑한 동료들이 있었음",
+    "comment2": "조직문화나 개발자 위주 기본적으로 아이티기업 갖춰야할 내용들은 다있엇음",
+    "comments": [
+      "수평적 문화 도전적인 사내 문화 똑똑한 동료들이 있었음",
+      "조직문화나 개발자 위주 기본적으로 아이티기업 갖춰야할 내용들은 다있엇음"
+    ]
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 15,
+    "average_score": 3.1251333333333333,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 29,
+    "average_score": 2.9724482758620687,
+    "comments": []
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 83,
+    "average_score": 1.9255421686746987,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 92,
+    "average_score": 4.065706521739131,
+    "comment1": "금요일에 빨리 퇴근하는 복지도 있음",
+    "comment2": "안마의자 근속기간에 따른 여행복지 포인트 지급",
+    "comments": [
+      "금요일에 빨리 퇴근하는 복지도 있음",
+      "안마의자 근속기간에 따른 여행복지 포인트 지급"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 62,
+    "average_score": 3.3774516129032257,
+    "comments": []
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 69,
+    "average_score": 2.9440579710144927,
+    "comments": []
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 29,
+    "average_score": 3.2222068965517243,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 33,
+    "average_score": 3.5155757575757574,
+    "comment1": "월급 칼같이 계산해서 주는게 최대 장점입니다",
+    "comment2": "퇴근시간을 조금만 넘겨도 다 계산해서 수당으로 줍니다",
+    "comments": [
+      "월급 칼같이 계산해서 주는게 최대 장점입니다",
+      "퇴근시간을 조금만 넘겨도 다 계산해서 수당으로 줍니다"
+    ]
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 30,
+    "average_score": 2.5625333333333336,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 91,
+    "average_score": 4.173417582417582,
+    "comment1": "임직원 할인등의 복지인것 같습니다",
+    "comment2": "식대도 매장내 식품에서 쓸수있어 신상제품먹어볼수있음",
+    "comments": [
+      "임직원 할인등의 복지인것 같습니다",
+      "식대도 매장내 식품에서 쓸수있어 신상제품먹어볼수있음"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 108,
+    "average_score": 2.8797592592592594,
+    "comments": []
+  }
+]

@@ -1,0 +1,126 @@
+.login_wrapper {
+  font-family: sans-serif;
+  margin-top: 130px;
+  margin-bottom: 50px;
+}
+
+/* 페이지 인덱스 */
+.login_index-wrapper header {
+  width: 100%;
+}
+
+.login_index-wrapper {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f2fff7;
+  border-left: 4px solid #008a34;
+  padding-left: 10px;
+  width: calc(100% - 100px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 10px 10px 0px;
+}
+
+.login_index-wrapper img {
+  height: 30px;
+  margin-right: 10px;
+}
+
+.login_index-wrapper h2 {
+  font-size: 24px;
+  font-weight: 500;
+  color: #1e1e1e;
+}
+
+.login_box {
+  background: white;
+  padding: 3rem;
+  width: 500px;
+  margin: 5rem auto;
+  border: 0.88px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+/* 전체 입력칸과 버튼을 가로 정렬 */
+.login_flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch; /* 핵심! 버튼 높이를 입력창과 맞춤 */
+  gap: 1rem;
+}
+
+/* 입력칸 그룹 - 메일/비밀번호 */
+.login_input-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* 아이콘 + 입력칸 */
+.login_input-icon {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ccc;
+  padding: 0.8rem 1rem;
+  border-radius: 20px;
+  background-color: white; /* ✅ 수정됨 */
+}
+
+.login_input-icon svg {
+  margin-right: 0.7rem;
+  color: #666;
+}
+
+.login_input-icon input {
+  border: none;
+  background: transparent;
+  flex: 1;
+  font-size: 1rem;
+  outline: none;
+}
+
+/* 버튼 래퍼: stretch로 맞추기 위해 감쌈 */
+.login_btn-wrapper {
+  display: flex;
+  align-items: stretch;
+}
+
+/* 로그인 버튼 */
+.login_submit-right {
+  background-color: #008a34;
+  color: white;
+  border: none;
+  font-weight: bold;
+  font-size: 1rem;
+  border-radius: 12px;
+  width: 100px;
+  height: 100%;
+  padding: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 링크 아래쪽 */
+.login_links {
+  text-align: center;
+  margin-top: 2rem;
+  color: #555;
+  font-size: 0.9rem;
+}
+
+.login_links a {
+  margin: 0 0.5rem;
+  text-decoration: none;
+  color: #666;
+}
+
+.login_links .join-link {
+  color: #15803d;
+  font-weight: bold;
+}

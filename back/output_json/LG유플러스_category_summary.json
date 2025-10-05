@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 57,
+    "average_score": 3.1818070175438598,
+    "comments": []
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 29,
+    "average_score": 2.819896551724138,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 42,
+    "average_score": 2.424261904761905,
+    "comments": []
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 40,
+    "average_score": 2.4323,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 76,
+    "average_score": 4.517394736842105,
+    "comment1": "국내 최고수준의 복리후생을 갖추고 있음",
+    "comment2": "육아휴직, 리프레쉬 휴가, 자녀 대학 입학금 지원 등 가정 친화적 복지가 많음",
+    "comments": [
+      "국내 최고수준의 복리후생을 갖추고 있음",
+      "육아휴직, 리프레쉬 휴가, 자녀 대학 입학금 지원 등 가정 친화적 복지가 많음"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 92,
+    "average_score": 3.3488260869565214,
+    "comment1": "부바부겠지만 워라벨이 전체적으로 좋아요",
+    "comment2": "통신업이라 안정적이고 업무 로드가 제조업에 비해 낮습니다",
+    "comments": [
+      "부바부겠지만 워라벨이 전체적으로 좋아요",
+      "통신업이라 안정적이고 업무 로드가 제조업에 비해 낮습니다"
+    ]
+  }
+]

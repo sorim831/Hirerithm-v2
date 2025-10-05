@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 82,
+    "average_score": 3.229060975609756,
+    "comments": []
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 52,
+    "average_score": 2.5030384615384613,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 53,
+    "average_score": 2.489433962264151,
+    "comments": []
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 79,
+    "average_score": 2.3082911392405063,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 65,
+    "average_score": 4.1822307692307685,
+    "comment1": "대기업 복지 : 주택 구매 시 대출 지원, 휴양시설 지원",
+    "comment2": "최근에 육아, 출산 등의 복지가 늘었고 주택 대출 복지가 좋음",
+    "comments": [
+      "대기업 복지 : 주택 구매 시 대출 지원, 휴양시설 지원",
+      "최근에 육아, 출산 등의 복지가 늘었고 주택 대출 복지가 좋음"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 101,
+    "average_score": 3.472207920792079,
+    "comment1": "부바부이지만 급하게 일하지 않는 편",
+    "comment2": "실적 압박이 타사 대비 심하지는 않은 것으로 알고있어요",
+    "comments": [
+      "부바부이지만 급하게 일하지 않는 편",
+      "실적 압박이 타사 대비 심하지는 않은 것으로 알고있어요"
+    ]
+  }
+]

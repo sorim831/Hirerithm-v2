@@ -1,0 +1,87 @@
+* {
+  font-family: "IBM Plex Sans KR", sans-serif;
+}
+
+/* 네비게이션바 */
+.navigation-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px; /* 원하는 높이 (패딩 대신 높이로 설정) */
+  padding: 0 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2) !important;
+  background-color: #fff;
+  z-index: 100;
+  box-sizing: border-box;
+}
+
+.navigation-logo img {
+  width: 160px;
+  padding-left: 20px;
+  cursor: pointer;
+}
+
+.navigation-buttons {
+  display: flex;
+  gap: 30px;
+  padding-right: 60px;
+}
+
+.navigation-buttons button {
+  background: none;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+  padding: 8px 12px;
+  transition: 0.3s;
+  border-radius: 10px;
+  font-weight: 500;
+}
+
+.navigation-buttons button:hover {
+  background-color: #ffffc6;
+  border-radius: 10px;
+  box-shadow: inset 3px 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* 들어가 있는 페이지 표시 */
+.active {
+  background-color: #ffffc6 !important;
+  border-radius: 10px;
+  box-shadow: inset 3px 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.navigation-buttons {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  position: relative;
+}
+
+.nav-item {
+  position: relative;
+}
+
+/* 드롭다운 스타일 */
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  border-radius: 8px;
+  min-width: 150px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.dropdown-item {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.dropdown-item:hover {
+  background-color: #ffffc66e;
+}

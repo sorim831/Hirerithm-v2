@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 65,
+    "average_score": 3.482630769230769,
+    "comments": []
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 11,
+    "average_score": 3.8483636363636364,
+    "comment1": "확실히 it 분야로 실력을 높일 수 있어요",
+    "comment2": " 내가 발전할 수 있는 기회가 많이 있고, 여러가지를 배울 수 있음",
+    "comments": [
+      "확실히 it 분야로 실력을 높일 수 있어요",
+      " 내가 발전할 수 있는 기회가 많이 있고, 여러가지를 배울 수 있음"
+    ]
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 8,
+    "average_score": 2.6905,
+    "comments": []
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 52,
+    "average_score": 2.008096153846154,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 38,
+    "average_score": 4.29378947368421,
+    "comment1": "안마의자, 수면실, 약국, 상담실 등등 복지가 너무 좋고 판교 아지트 시설도 너무 좋습니다",
+    "comment2": "베네핏카드와 휴양시설, 간식창고 등 복지가 정말 좋은 편",
+    "comments": [
+      "안마의자, 수면실, 약국, 상담실 등등 복지가 너무 좋고 판교 아지트 시설도 너무 좋습니다",
+      "베네핏카드와 휴양시설, 간식창고 등 복지가 정말 좋은 편"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 43,
+    "average_score": 3.3949302325581394,
+    "comments": []
+  }
+]

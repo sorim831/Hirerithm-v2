@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 51,
+    "average_score": 3.244764705882353,
+    "comments": []
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 33,
+    "average_score": 2.5006969696969694,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 87,
+    "average_score": 3.5908045977011493,
+    "comment1": "업계 대비 높은 초봉과 적당한 복지로 금전적인 안정감을 제공",
+    "comment2": "최근 몇 년 사이 연봉이 미친듯이 뛰었습니다",
+    "comments": [
+      "업계 대비 높은 초봉과 적당한 복지로 금전적인 안정감을 제공",
+      "최근 몇 년 사이 연봉이 미친듯이 뛰었습니다"
+    ]
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 56,
+    "average_score": 2.410803571428571,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 54,
+    "average_score": 4.054944444444445,
+    "comment1": "복지포인트 200만원이 은근 쏠쏠",
+    "comment2": "육아휴직잘됨",
+    "comments": [
+      "복지포인트 200만원이 은근 쏠쏠",
+      "육아휴직잘됨"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 110,
+    "average_score": 3.070936363636364,
+    "comments": []
+  }
+]

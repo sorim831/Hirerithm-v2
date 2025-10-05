@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 54,
+    "average_score": 2.893240740740741,
+    "comments": []
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 21,
+    "average_score": 3.161,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 22,
+    "average_score": 3.6325000000000003,
+    "comment1": "일반 IT 회사들에 비해서 적절한 연봉",
+    "comment2": "급여는 업계 어디 회사에도 밀리지 않고",
+    "comments": [
+      "일반 IT 회사들에 비해서 적절한 연봉",
+      "급여는 업계 어디 회사에도 밀리지 않고"
+    ]
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 110,
+    "average_score": 1.8683818181818181,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 161,
+    "average_score": 4.374478260869566,
+    "comment1": "헬스장 식당 자유출퇴근 사내 병원 카페 편의점 등 복지가 우수함",
+    "comment2": "어린이집 시설도 좋습니다",
+    "comments": [
+      "헬스장 식당 자유출퇴근 사내 병원 카페 편의점 등 복지가 우수함",
+      "어린이집 시설도 좋습니다"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 53,
+    "average_score": 2.9729811320754718,
+    "comments": []
+  }
+]

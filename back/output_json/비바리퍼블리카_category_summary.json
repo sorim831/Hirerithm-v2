@@ -1,0 +1,42 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 3,
+    "average_score": 4.171,
+    "comment1": "뛰어난 동료들부터 얻는 동기부여 타부서와 면밀하고 민첩한 협업 성장가능성이 높은 회사",
+    "comment2": "식비 및 야근교통비 지원",
+    "comments": [
+      "뛰어난 동료들부터 얻는 동기부여 타부서와 면밀하고 민첩한 협업 성장가능성이 높은 회사",
+      "식비 및 야근교통비 지원"
+    ]
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 1,
+    "average_score": 4.041,
+    "comments": []
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 2,
+    "average_score": 2.9535,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 6,
+    "average_score": 4.4223333333333334,
+    "comment1": "카페 공짜로 이용 가능하고 업무에 필요한 부분이라면 지원을 아끼지 않음",
+    "comment2": "식비 및 야근교통비 지원",
+    "comments": [
+      "카페 공짜로 이용 가능하고 업무에 필요한 부분이라면 지원을 아끼지 않음",
+      "식비 및 야근교통비 지원"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 11,
+    "average_score": 2.656,
+    "comments": []
+  }
+]

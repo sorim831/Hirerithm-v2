@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 51,
+    "average_score": 3.2355098039215684,
+    "comments": []
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 44,
+    "average_score": 3.1209090909090906,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 30,
+    "average_score": 3.4616666666666664,
+    "comment1": "연봉 등이 평균 이상은 됨",
+    "comment2": "연봉 성과급은 적으나 대기업 평균이상의 급여수준",
+    "comments": [
+      "연봉 등이 평균 이상은 됨",
+      "연봉 성과급은 적으나 대기업 평균이상의 급여수준"
+    ]
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 84,
+    "average_score": 2.3225357142857144,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 69,
+    "average_score": 4.3381594202898555,
+    "comment1": "식당, 출퇴근제도, 건강검진, 연봉, 재택근무 등이 좋은 장점",
+    "comment2": "사내 식당, 잠실 사옥이 모두 복지의 큰 부분입니다",
+    "comments": [
+      "식당, 출퇴근제도, 건강검진, 연봉, 재택근무 등이 좋은 장점",
+      "사내 식당, 잠실 사옥이 모두 복지의 큰 부분입니다"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 82,
+    "average_score": 3.2283658536585365,
+    "comments": []
+  }
+]

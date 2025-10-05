@@ -1,0 +1,48 @@
+[
+  {
+    "category_name": "Teamculture",
+    "count": 62,
+    "average_score": 3.317983870967742,
+    "comment1": "규모에 비해 자유로운 분위기 연출",
+    "comment2": "좋은 동료, 워라밸 등 젊은 회사 이미지",
+    "comments": [
+      "규모에 비해 자유로운 분위기 연출",
+      "좋은 동료, 워라밸 등 젊은 회사 이미지"
+    ]
+  },
+  {
+    "category_name": "Evaluation",
+    "count": 23,
+    "average_score": 3.2115217391304345,
+    "comments": []
+  },
+  {
+    "category_name": "Pay Level",
+    "count": 21,
+    "average_score": 2.557571428571429,
+    "comments": []
+  },
+  {
+    "category_name": "Vision & Direction",
+    "count": 90,
+    "average_score": 2.0799555555555553,
+    "comments": []
+  },
+  {
+    "category_name": "Welfare Quality",
+    "count": 94,
+    "average_score": 4.0455,
+    "comment1": "점심식대제공 영업시 차량지원 법인카드 지원 그 외 소소한 복지",
+    "comment2": "복지포인트 및 식대를 줘서 다양하게 사용할 수 있었음",
+    "comments": [
+      "점심식대제공 영업시 차량지원 법인카드 지원 그 외 소소한 복지",
+      "복지포인트 및 식대를 줘서 다양하게 사용할 수 있었음"
+    ]
+  },
+  {
+    "category_name": "Workload",
+    "count": 47,
+    "average_score": 2.723127659574468,
+    "comments": []
+  }
+]
